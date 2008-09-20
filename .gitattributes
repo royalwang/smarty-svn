@@ -2,11 +2,11 @@
 /README -text
 /index.php -text
 libs/Smarty.class.php -text
+libs/sysplugins/internal.compiler.php -text
+libs/sysplugins/internal.displayphp.php -text
+libs/sysplugins/internal.displaytpl.php -text
+libs/sysplugins/internal.pluginbase.php -text
 plugins/function.mailto.php -text
-plugins/internal.compiler.php -text
-plugins/internal.displayphp.php -text
-plugins/internal.displaytpl.php -text
-plugins/internal.pluginbase.php -text
 plugins/modifier.escape.php -text
 templates/index.tpl -text
 templates/index_view.php -text
