@@ -6,6 +6,7 @@ libs/sysplugins/internal.compiler.php -text
 libs/sysplugins/internal.displayphp.php -text
 libs/sysplugins/internal.displaytpl.php -text
 libs/sysplugins/internal.pluginbase.php -text
+libs/sysplugins/method.test.php -text
 plugins/function.mailto.php -text
 plugins/modifier.escape.php -text
 templates/index.tpl -text
