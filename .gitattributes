@@ -2,9 +2,13 @@
 /README -text
 /index.php -text
 libs/Smarty.class.php -text
+libs/sysplugins/internal.base.php -text
 libs/sysplugins/internal.compiler.php -text
+libs/sysplugins/internal.displaybase.php -text
 libs/sysplugins/internal.displayphp.php -text
 libs/sysplugins/internal.displaytpl.php -text
+libs/sysplugins/internal.function.php -text
+libs/sysplugins/internal.modifier.php -text
 libs/sysplugins/internal.pluginbase.php -text
 libs/sysplugins/method.test.php -text
 plugins/function.mailto.php -text
