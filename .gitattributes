@@ -51,8 +51,6 @@ libs/sysplugins/internal.modifier.php -text
 libs/sysplugins/internal.pluginbase.php -text
 libs/sysplugins/internal.templatelexer.php -text
 libs/sysplugins/internal.templateparser.php -text
-libs/sysplugins/method.compile_smarty_tag.php -text
-libs/sysplugins/method.compile_variable_output.php -text
 libs/sysplugins/method.fetch.php -text
 libs/sysplugins/method.test.php -text
 libs/sysplugins/method.trigger_fatal_error.php -text
