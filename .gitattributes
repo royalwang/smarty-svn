@@ -57,6 +57,7 @@ libs/sysplugins/method.trigger_fatal_error.php -text
 libs/sysplugins/method.trigger_template_error.php -text
 plugins/function.mailto.php -text
 plugins/modifier.escape.php -text
+plugins/modifier.truncate.php -text
 templates/include.tpl -text
 templates/index.tpl -text
 templates/index_view.php -text
