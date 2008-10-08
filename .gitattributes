@@ -42,7 +42,6 @@ libs/sysplugins/internal.compile_smarty_tag.php -text
 libs/sysplugins/internal.compile_smarty_variable.php -text
 libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
-libs/sysplugins/internal.displaybase.php -text
 libs/sysplugins/internal.displayphp.php -text
 libs/sysplugins/internal.displaystring.php -text
 libs/sysplugins/internal.displaytpl.php -text
