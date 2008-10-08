@@ -48,10 +48,14 @@ libs/sysplugins/internal.displaytpl.php -text
 libs/sysplugins/internal.function.php -text
 libs/sysplugins/internal.modifier.php -text
 libs/sysplugins/internal.pluginbase.php -text
+libs/sysplugins/internal.resource_file.php -text
+libs/sysplugins/internal.resource_php.php -text
+libs/sysplugins/internal.resource_string.php -text
 libs/sysplugins/internal.resource_tpl.php -text
 libs/sysplugins/internal.templatelexer.php -text
 libs/sysplugins/internal.templateparser.php -text
 libs/sysplugins/method.fetch.php -text
+libs/sysplugins/method.setDefaultResource.php -text
 libs/sysplugins/method.test.php -text
 libs/sysplugins/method.trigger_fatal_error.php -text
 libs/sysplugins/method.trigger_template_error.php -text
