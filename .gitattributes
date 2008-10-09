@@ -55,6 +55,7 @@ libs/sysplugins/method.setDefaultResource.php -text
 libs/sysplugins/method.test.php -text
 libs/sysplugins/method.trigger_fatal_error.php -text
 libs/sysplugins/method.trigger_template_error.php -text
+libs/sysplugins/method.write_file.php -text
 plugins/function.mailto.php -text
 plugins/modifier.escape.php -text
 plugins/modifier.truncate.php -text
