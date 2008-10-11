@@ -30,7 +30,6 @@ libs/lexer/internal.templatelexer.plex -text
 libs/lexer/internal.templateparser.php -text
 libs/lexer/internal.templateparser.y -text
 libs/sysplugins/internal.base.php -text
-libs/sysplugins/internal.caching.php -text
 libs/sysplugins/internal.caching_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
 libs/sysplugins/internal.compile_capture.php -text
@@ -56,8 +55,6 @@ libs/sysplugins/internal.write_file.php -text
 libs/sysplugins/method.setDefaultResource.php -text
 libs/sysplugins/method.test.php -text
 libs/sysplugins/method.trigger_fatal_error.php -text
-libs/sysplugins/method.trigger_template_error.php -text
-libs/sysplugins/method.write_file.php -text
 plugins/function.mailto.php -text
 plugins/modifier.escape.php -text
 plugins/modifier.truncate.php -text
