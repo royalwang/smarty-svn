@@ -31,6 +31,7 @@ libs/lexer/internal.templateparser.php -text
 libs/lexer/internal.templateparser.y -text
 libs/sysplugins/internal.base.php -text
 libs/sysplugins/internal.caching.php -text
+libs/sysplugins/internal.caching_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
 libs/sysplugins/internal.compile_capture.php -text
 libs/sysplugins/internal.compile_for.php -text
@@ -51,6 +52,7 @@ libs/sysplugins/internal.resource_string.php -text
 libs/sysplugins/internal.template.php -text
 libs/sysplugins/internal.templatelexer.php -text
 libs/sysplugins/internal.templateparser.php -text
+libs/sysplugins/internal.write_file.php -text
 libs/sysplugins/method.setDefaultResource.php -text
 libs/sysplugins/method.test.php -text
 libs/sysplugins/method.trigger_fatal_error.php -text
@@ -63,8 +65,11 @@ templates/include.tpl -text
 templates/index.tpl -text
 templates/index_view.php -text
 templates/test_if.tpl -text
+templates/test_inc.tpl -text
+templates/test_inc2.tpl -text
 templates/test_object.tpl -text
 templates/test_parser.tpl -text
 /test_if.php -text
+/test_include.php -text
 /test_object.php -text
 /test_parser.php -text
