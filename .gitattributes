@@ -61,12 +61,15 @@ plugins/modifier.truncate.php -text
 templates/include.tpl -text
 templates/index.tpl -text
 templates/index_view.php -text
+templates/nocache_inc.tpl -text
 templates/test_if.tpl -text
 templates/test_inc.tpl -text
 templates/test_inc2.tpl -text
+templates/test_nocache.tpl -text
 templates/test_object.tpl -text
 templates/test_parser.tpl -text
 /test_if.php -text
 /test_include.php -text
+/test_nocache.php -text
 /test_object.php -text
 /test_parser.php -text
