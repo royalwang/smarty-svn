@@ -69,9 +69,11 @@ templates/test_nocache.tpl -text
 templates/test_nocache2.tpl -text
 templates/test_object.tpl -text
 templates/test_parser.tpl -text
+templates/test_smoke.tpl -text
 /test_if.php -text
 /test_include.php -text
 /test_nocache.php -text
 /test_nocache2.php -text
 /test_object.php -text
 /test_parser.php -text
+/test_smoke.php -text
