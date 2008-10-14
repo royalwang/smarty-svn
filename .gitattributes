@@ -4,7 +4,6 @@
 /index.php -text
 libs/Smarty.class.php -text
 libs/lexer/Create_Config_Parser.php -text
-libs/lexer/Create_Smarty_Parser.php -text
 libs/lexer/Create_Template_Parser.php -text
 libs/lexer/Exception.php -text
 libs/lexer/Lempar.php -text
