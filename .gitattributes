@@ -53,7 +53,6 @@ libs/sysplugins/internal.resource_php.php -text
 libs/sysplugins/internal.resource_string.php -text
 libs/sysplugins/internal.template.php -text
 libs/sysplugins/internal.templatebase.php -text
-libs/sysplugins/internal.templatedata.php -text
 libs/sysplugins/internal.templatelexer.php -text
 libs/sysplugins/internal.templateparser.php -text
 libs/sysplugins/internal.write_file.php -text
