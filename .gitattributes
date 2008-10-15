@@ -31,7 +31,9 @@ libs/lexer/internal.templatelexer.plex -text
 libs/lexer/internal.templateparser.php -text
 libs/lexer/internal.templateparser.y -text
 libs/sysplugins/internal.base.php -text
+libs/sysplugins/internal.block.php -text
 libs/sysplugins/internal.caching_file.php -text
+libs/sysplugins/internal.compile.php -text
 libs/sysplugins/internal.compile_assign.php -text
 libs/sysplugins/internal.compile_capture.php -text
 libs/sysplugins/internal.compile_for.php -text
@@ -39,6 +41,7 @@ libs/sysplugins/internal.compile_foreach.php -text
 libs/sysplugins/internal.compile_if.php -text
 libs/sysplugins/internal.compile_include.php -text
 libs/sysplugins/internal.compile_nocache.php -text
+libs/sysplugins/internal.compile_print_expression.php -text
 libs/sysplugins/internal.compile_smarty_tag.php -text
 libs/sysplugins/internal.compile_smarty_variable.php -text
 libs/sysplugins/internal.compilebase.php -text
@@ -50,6 +53,8 @@ libs/sysplugins/internal.resource_file.php -text
 libs/sysplugins/internal.resource_php.php -text
 libs/sysplugins/internal.resource_string.php -text
 libs/sysplugins/internal.template.php -text
+libs/sysplugins/internal.templatebase.php -text
+libs/sysplugins/internal.templatedata.php -text
 libs/sysplugins/internal.templatelexer.php -text
 libs/sysplugins/internal.templateparser.php -text
 libs/sysplugins/internal.write_file.php -text
