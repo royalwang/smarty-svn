@@ -43,7 +43,6 @@ libs/sysplugins/internal.compile_include.php -text
 libs/sysplugins/internal.compile_nocache.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
 libs/sysplugins/internal.compile_smarty_tag.php -text
-libs/sysplugins/internal.compile_smarty_variable.php -text
 libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
 libs/sysplugins/internal.function.php -text
