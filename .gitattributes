@@ -32,8 +32,8 @@ libs/lexer/internal.templateparser.php -text
 libs/lexer/internal.templateparser.y -text
 libs/sysplugins/internal.base.php -text
 libs/sysplugins/internal.block.php -text
-libs/sysplugins/internal.caching_file.php -text
-libs/sysplugins/internal.compile.php -text
+libs/sysplugins/internal.cacher_injectcode.php -text
+libs/sysplugins/internal.cacheresource_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
 libs/sysplugins/internal.compile_capture.php -text
 libs/sysplugins/internal.compile_for.php -text
@@ -42,7 +42,6 @@ libs/sysplugins/internal.compile_if.php -text
 libs/sysplugins/internal.compile_include.php -text
 libs/sysplugins/internal.compile_nocache.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
-libs/sysplugins/internal.compile_smarty_tag.php -text
 libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
 libs/sysplugins/internal.function.php -text
