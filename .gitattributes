@@ -32,7 +32,7 @@ libs/lexer/internal.templateparser.php -text
 libs/lexer/internal.templateparser.y -text
 libs/sysplugins/internal.base.php -text
 libs/sysplugins/internal.block.php -text
-libs/sysplugins/internal.cacher_injectcode.php -text
+libs/sysplugins/internal.cacher_inlinecode.php -text
 libs/sysplugins/internal.cacheresource_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
 libs/sysplugins/internal.compile_capture.php -text
