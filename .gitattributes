@@ -3,6 +3,7 @@
 /change_log.txt -text
 /index.php -text
 libs/Smarty.class.php -text
+libs/debug.tpl -text
 libs/lexer/Create_Config_Parser.php -text
 libs/lexer/Create_Template_Parser.php -text
 libs/lexer/Exception.php -text
@@ -36,6 +37,7 @@ libs/sysplugins/internal.cacher_inlinecode.php -text
 libs/sysplugins/internal.cacheresource_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
 libs/sysplugins/internal.compile_capture.php -text
+libs/sysplugins/internal.compile_debug.php -text
 libs/sysplugins/internal.compile_for.php -text
 libs/sysplugins/internal.compile_foreach.php -text
 libs/sysplugins/internal.compile_if.php -text
@@ -44,6 +46,7 @@ libs/sysplugins/internal.compile_nocache.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
 libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
+libs/sysplugins/internal.debug.php -text
 libs/sysplugins/internal.function.php -text
 libs/sysplugins/internal.modifier.php -text
 libs/sysplugins/internal.pluginbase.php -text
@@ -59,13 +62,16 @@ libs/sysplugins/method.setDefaultResource.php -text
 libs/sysplugins/method.test.php -text
 libs/sysplugins/method.trigger_fatal_error.php -text
 plugins/function.mailto.php -text
+plugins/modifier.debug_print_var.php -text
 plugins/modifier.escape.php -text
+plugins/modifier.string_format.php -text
 plugins/modifier.truncate.php -text
 templates/header.tpl -text
 templates/include.tpl -text
 templates/index.tpl -text
 templates/index_view.php -text
 templates/nocache_inc.tpl -text
+templates/test_debug.tpl -text
 templates/test_if.tpl -text
 templates/test_inc.tpl -text
 templates/test_inc2.tpl -text
@@ -74,6 +80,7 @@ templates/test_nocache2.tpl -text
 templates/test_object.tpl -text
 templates/test_parser.tpl -text
 templates/test_smoke.tpl -text
+/test_debug.php -text
 /test_if.php -text
 /test_include.php -text
 /test_nocache.php -text
