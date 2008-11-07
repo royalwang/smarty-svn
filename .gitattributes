@@ -167,6 +167,7 @@ libs/sysplugins/internal.config.php -text
 libs/sysplugins/internal.debug.php -text
 libs/sysplugins/internal.function.php -text
 libs/sysplugins/internal.modifier.php -text
+libs/sysplugins/internal.phpvariableobjects.php -text
 libs/sysplugins/internal.pluginbase.php -text
 libs/sysplugins/internal.resource_file.php -text
 libs/sysplugins/internal.resource_php.php -text
