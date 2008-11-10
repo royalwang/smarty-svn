@@ -1,5 +1,14 @@
 * text=auto !eol
 /README -text
+Smarty3Doc/Smarty/PluginsFunction/Smarty_Function_Mailto.html -text
+Smarty3Doc/Smarty/PluginsFunction/_plugins---function.counter.php.html -text
+Smarty3Doc/Smarty/PluginsFunction/_plugins---function.mailto.php.html -text
+Smarty3Doc/Smarty/PluginsModifier/Smarty_Modifier_Escape.html -text
+Smarty3Doc/Smarty/PluginsModifier/Smarty_Modifier_String_Format.html -text
+Smarty3Doc/Smarty/PluginsModifier/Smarty_Modifier_Truncate.html -text
+Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.escape.php.html -text
+Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.string_format.php.html -text
+Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.truncate.php.html -text
 Smarty3Doc/Smarty/SmartyException.html -text
 Smarty3Doc/Smarty/Smarty_Internal_Templateparser.html -text
 Smarty3Doc/Smarty/TP_yyStackEntry.html -text
@@ -10,6 +19,10 @@ Smarty3Doc/Smarty/Template/Smarty_Internal_Resource_String.html -text
 Smarty3Doc/Smarty/Template/_libs---sysplugins---internal.resource_file.php.html -text
 Smarty3Doc/Smarty/Template/_libs---sysplugins---internal.resource_php.php.html -text
 Smarty3Doc/Smarty/Template/_libs---sysplugins---internal.resource_string.php.html -text
+Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_File.html -text
+Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_String.html -text
+Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---internal.resource_file.php.html -text
+Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---internal.resource_string.php.html -text
 Smarty3Doc/Smarty/Templates/Smarty.html -text
 Smarty3Doc/Smarty/Templates/Smarty_Data.html -text
 Smarty3Doc/Smarty/Templates/Smarty_Internal_Template.html -text
@@ -52,6 +65,7 @@ Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_capture.php.htm
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_debug.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_for.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_foreach.php.html -text
+Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_function_plugin.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_if.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_include.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_nocache.php.html -text
@@ -101,6 +115,7 @@ Smarty3Doc/SmartyTestScripts/_test_nocache.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_nocache2.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_object.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_parser.php.html -text
+Smarty3Doc/SmartyTestScripts/_test_plugin.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_smoke.php.html -text
 Smarty3Doc/blank.html -text
 Smarty3Doc/classtrees_Smarty.html -text
@@ -157,6 +172,7 @@ libs/sysplugins/internal.compile_capture.php -text
 libs/sysplugins/internal.compile_debug.php -text
 libs/sysplugins/internal.compile_for.php -text
 libs/sysplugins/internal.compile_foreach.php -text
+libs/sysplugins/internal.compile_function_plugin.php -text
 libs/sysplugins/internal.compile_if.php -text
 libs/sysplugins/internal.compile_include.php -text
 libs/sysplugins/internal.compile_nocache.php -text
@@ -198,6 +214,7 @@ templates/test_nocache.tpl -text
 templates/test_nocache2.tpl -text
 templates/test_object.tpl -text
 templates/test_parser.tpl -text
+templates/test_plugin.tpl -text
 templates/test_smoke.tpl -text
 /test_debug.php -text
 /test_if.php -text
