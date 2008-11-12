@@ -223,4 +223,5 @@ templates/test_smoke.tpl -text
 /test_nocache2.php -text
 /test_object.php -text
 /test_parser.php -text
+/test_plugin.php -text
 /test_smoke.php -text
