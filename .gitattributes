@@ -23,12 +23,15 @@ Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_File.html -text
 Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_String.html -text
 Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---internal.resource_file.php.html -text
 Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---internal.resource_string.php.html -text
+Smarty3Doc/Smarty/Templates/PHP_Variable_Object.html -text
 Smarty3Doc/Smarty/Templates/Smarty.html -text
 Smarty3Doc/Smarty/Templates/Smarty_Data.html -text
+Smarty3Doc/Smarty/Templates/Smarty_Internal_PHPVariableObjects.html -text
 Smarty3Doc/Smarty/Templates/Smarty_Internal_Template.html -text
 Smarty3Doc/Smarty/Templates/Smarty_Internal_TemplateBase.html -text
 Smarty3Doc/Smarty/Templates/Smarty_Template.html -text
 Smarty3Doc/Smarty/Templates/Smarty_Variable.html -text
+Smarty3Doc/Smarty/Templates/_libs---sysplugins---internal.phpvariableobjects.php.html -text
 Smarty3Doc/Smarty/Templates/_libs---sysplugins---internal.template.php.html -text
 Smarty3Doc/Smarty/Templates/_libs---sysplugins---internal.templatebase.php.html -text
 Smarty3Doc/Smarty/_libs---Smarty.class.php.html -text
@@ -168,6 +171,7 @@ libs/sysplugins/internal.block.php -text
 libs/sysplugins/internal.cacher_inlinecode.php -text
 libs/sysplugins/internal.cacheresource_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
+libs/sysplugins/internal.compile_block_plugin.php -text
 libs/sysplugins/internal.compile_capture.php -text
 libs/sysplugins/internal.compile_debug.php -text
 libs/sysplugins/internal.compile_for.php -text
@@ -196,7 +200,10 @@ libs/sysplugins/internal.write_file.php -text
 libs/sysplugins/method.setDefaultResource.php -text
 libs/sysplugins/method.test.php -text
 libs/sysplugins/method.trigger_fatal_error.php -text
+plugins/block.textformat.php -text
+plugins/function.counter.php -text
 plugins/function.mailto.php -text
+plugins/modifier.count_characters.php -text
 plugins/modifier.debug_print_var.php -text
 plugins/modifier.escape.php -text
 plugins/modifier.string_format.php -text
