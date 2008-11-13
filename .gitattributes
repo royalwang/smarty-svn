@@ -208,6 +208,7 @@ plugins/modifier.debug_print_var.php -text
 plugins/modifier.escape.php -text
 plugins/modifier.string_format.php -text
 plugins/modifier.truncate.php -text
+plugins/outputfilter.trimwhitespace.php -text
 templates/header.tpl -text
 templates/include.tpl -text
 templates/index.tpl -text
