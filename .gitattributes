@@ -192,6 +192,7 @@ libs/sysplugins/internal.pluginbase.php -text
 libs/sysplugins/internal.resource_file.php -text
 libs/sysplugins/internal.resource_php.php -text
 libs/sysplugins/internal.resource_string.php -text
+libs/sysplugins/internal.run_filter.php -text
 libs/sysplugins/internal.template.php -text
 libs/sysplugins/internal.templatebase.php -text
 libs/sysplugins/internal.templatelexer.php -text
