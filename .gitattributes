@@ -24,12 +24,6 @@ Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.escape.php.html -text
 Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.string_format.php.html -text
 Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.truncate.php.html -text
 Smarty3Doc/Smarty/SmartyException.html -text
-Smarty3Doc/Smarty/Template/Smarty_Internal_Resource_File.html -text
-Smarty3Doc/Smarty/Template/Smarty_Internal_Resource_PHP.html -text
-Smarty3Doc/Smarty/Template/Smarty_Internal_Resource_String.html -text
-Smarty3Doc/Smarty/Template/_libs---sysplugins---internal.resource_file.php.html -text
-Smarty3Doc/Smarty/Template/_libs---sysplugins---internal.resource_php.php.html -text
-Smarty3Doc/Smarty/Template/_libs---sysplugins---internal.resource_string.php.html -text
 Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_File.html -text
 Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_PHP.html -text
 Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_String.html -text
