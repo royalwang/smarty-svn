@@ -55,6 +55,7 @@ Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_CaptureClose.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Debug.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Else.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_ElseIf.html -text
+Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Eval.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_For.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_ForClose.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Foreach.html -text
@@ -65,6 +66,7 @@ Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Function_Plugin.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_If.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_IfClose.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Include.html -text
+Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Insert.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Nocache.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_NocacheClose.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Print_Expression.html -text
@@ -77,11 +79,13 @@ Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_assign.php.html
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_block_plugin.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_capture.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_debug.php.html -text
+Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_eval.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_for.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_foreach.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_function_plugin.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_if.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_include.php.html -text
+Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_insert.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_nocache.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_print_expression.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compilebase.php.html -text
@@ -102,6 +106,7 @@ Smarty3Doc/SmartyTestScripts/_index.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_debug.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_if.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_include.php.html -text
+Smarty3Doc/SmartyTestScripts/_test_insert.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_nocache.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_nocache2.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_object.php.html -text
