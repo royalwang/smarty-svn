@@ -169,6 +169,7 @@ libs/sysplugins/internal.compile_foreach.php -text
 libs/sysplugins/internal.compile_function_plugin.php -text
 libs/sysplugins/internal.compile_if.php -text
 libs/sysplugins/internal.compile_include.php -text
+libs/sysplugins/internal.compile_insert.php -text
 libs/sysplugins/internal.compile_nocache.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
 libs/sysplugins/internal.compilebase.php -text
@@ -209,6 +210,7 @@ templates/test_debug.tpl -text
 templates/test_if.tpl -text
 templates/test_inc.tpl -text
 templates/test_inc2.tpl -text
+templates/test_insert.tpl -text
 templates/test_nocache.tpl -text
 templates/test_nocache2.tpl -text
 templates/test_object.tpl -text
@@ -218,6 +220,7 @@ templates/test_smoke.tpl -text
 /test_debug.php -text
 /test_if.php -text
 /test_include.php -text
+/test_insert.php -text
 /test_nocache.php -text
 /test_nocache2.php -text
 /test_object.php -text
