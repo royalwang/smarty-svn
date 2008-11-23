@@ -1,5 +1,18 @@
 * text=auto !eol
+PHPunit/ResourceTests.php -text
+PHPunit/SecurityTests.php -text
+PHPunit/phpunit-tests.bat -text
+PHPunit/smartytests.php -text
+PHPunit/test_results.txt -text
 /README -text
+Smarty3Doc/PHPunit/ResourceTests.html -text
+Smarty3Doc/PHPunit/SecurityTests.html -text
+Smarty3Doc/PHPunit/SmartyTests.html -text
+Smarty3Doc/PHPunit/_PHPunit---ResourceTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---SecurityTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---smartytests.php.html -text
+Smarty3Doc/Smarty/PluginsConfiguration/Smarty_Security_Policy.html -text
+Smarty3Doc/Smarty/PluginsConfiguration/_plugins---securitypolicy.default.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/Smarty_Function_Mailto.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.counter.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.mailto.php.html -text
@@ -23,6 +36,8 @@ Smarty3Doc/Smarty/PluginsModifier/Smarty_Modifier_Truncate.html -text
 Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.escape.php.html -text
 Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.string_format.php.html -text
 Smarty3Doc/Smarty/PluginsModifier/_plugins---modifier.truncate.php.html -text
+Smarty3Doc/Smarty/Security/Smarty_Internal_Security_Handler.html -text
+Smarty3Doc/Smarty/Security/_libs---sysplugins---internal.security_handler.php.html -text
 Smarty3Doc/Smarty/SmartyException.html -text
 Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_File.html -text
 Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_PHP.html -text
@@ -112,15 +127,19 @@ Smarty3Doc/SmartyTestScripts/_test_nocache2.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_object.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_parser.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_plugin.php.html -text
+Smarty3Doc/SmartyTestScripts/_test_security.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_smoke.php.html -text
 Smarty3Doc/blank.html -text
+Smarty3Doc/classtrees_PHPunit.html -text
 Smarty3Doc/classtrees_Smarty.html -text
 Smarty3Doc/classtrees_SmartyTestScripts.html -text
 Smarty3Doc/elementindex.html -text
+Smarty3Doc/elementindex_PHPunit.html -text
 Smarty3Doc/elementindex_Smarty.html -text
 Smarty3Doc/elementindex_SmartyTestScripts.html -text
 Smarty3Doc/errors.html -text
 Smarty3Doc/index.html -text
+Smarty3Doc/li_PHPunit.html -text
 Smarty3Doc/li_Smarty.html -text
 Smarty3Doc/li_SmartyTestScripts.html -text
 Smarty3Doc/media/banner.css -text
