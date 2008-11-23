@@ -189,6 +189,7 @@ libs/sysplugins/internal.resource_file.php -text
 libs/sysplugins/internal.resource_php.php -text
 libs/sysplugins/internal.resource_string.php -text
 libs/sysplugins/internal.run_filter.php -text
+libs/sysplugins/internal.security_handler.php -text
 libs/sysplugins/internal.template.php -text
 libs/sysplugins/internal.templatebase.php -text
 libs/sysplugins/internal.templatelexer.php -text
@@ -206,6 +207,7 @@ plugins/modifier.escape.php -text
 plugins/modifier.string_format.php -text
 plugins/modifier.truncate.php -text
 plugins/outputfilter.trimwhitespace.php -text
+plugins/securitypolicy.default.php -text
 templates/header.tpl -text
 templates/include.tpl -text
 templates/index.tpl -text
@@ -221,6 +223,7 @@ templates/test_nocache2.tpl -text
 templates/test_object.tpl -text
 templates/test_parser.tpl -text
 templates/test_plugin.tpl -text
+templates/test_security.tpl -text
 templates/test_smoke.tpl -text
 /test_debug.php -text
 /test_if.php -text
@@ -231,4 +234,5 @@ templates/test_smoke.tpl -text
 /test_object.php -text
 /test_parser.php -text
 /test_plugin.php -text
+/test_security.php -text
 /test_smoke.php -text
