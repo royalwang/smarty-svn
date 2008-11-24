@@ -3,6 +3,8 @@ PHPunit/ResourceTests.php -text
 PHPunit/SecurityTests.php -text
 PHPunit/phpunit-tests.bat -text
 PHPunit/smartytests.php -text
+PHPunit/templates/helloworld.tpl -text
+PHPunit/templates_2/hello.tpl -text
 PHPunit/test_results.txt -text
 /README -text
 Smarty3Doc/PHPunit/ResourceTests.html -text
