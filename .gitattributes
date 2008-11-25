@@ -1,6 +1,10 @@
 * text=auto !eol
+PHPunit/CommentsTests.php -text
+PHPunit/CompileAssignTests.php -text
 PHPunit/ResourceTests.php -text
 PHPunit/SecurityTests.php -text
+PHPunit/SpacingTests.php -text
+PHPunit/VariableScopeTests.php -text
 PHPunit/phpunit-tests.bat -text
 PHPunit/smartytests.php -text
 PHPunit/templates/helloworld.tpl -text
