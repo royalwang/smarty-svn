@@ -19,6 +19,8 @@ PHPunit/CoreTests.php -text
 PHPunit/DelimiterTests.php -text
 PHPunit/FileResourceTests.php -text
 PHPunit/PhpResourceTests.php -text
+PHPunit/RegisterBlockTests.php -text
+PHPunit/RegisterCompilerFunctionTests.php -text
 PHPunit/RegisterFunctionTests.php -text
 PHPunit/ResourceTests.php -text
 PHPunit/SecurityTests.php -text
@@ -36,7 +38,6 @@ PHPunit/coverage/libs.html -text
 PHPunit/coverage/libs_Smarty.class.php.html -text
 PHPunit/coverage/libs_sysplugins.html -text
 PHPunit/coverage/libs_sysplugins_internal.base.php.html -text
-PHPunit/coverage/libs_sysplugins_internal.block.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.cacher_inlinecode.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.cacher_nocacheinclude.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.cacheresource_file.php.html -text
@@ -57,9 +58,9 @@ PHPunit/coverage/libs_sysplugins_internal.compilebase.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compiler.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.config.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.debug.php.html -text
-PHPunit/coverage/libs_sysplugins_internal.function.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.modifier.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.phpvariableobjects.php.html -text
+PHPunit/coverage/libs_sysplugins_internal.plugin_handler.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.pluginbase.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.resource_file.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.resource_php.php.html -text
@@ -84,9 +85,7 @@ PHPunit/coverage/libs_sysplugins_method.register_outputfilter.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_postfilter.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_prefilter.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_resource.php.html -text
-PHPunit/coverage/libs_sysplugins_method.setDefaultResource.php.html -text
 PHPunit/coverage/libs_sysplugins_method.test.php.html -text
-PHPunit/coverage/libs_sysplugins_method.trigger_fatal_error.php.html -text
 PHPunit/coverage/libs_sysplugins_method.unregister_block.php.html -text
 PHPunit/coverage/libs_sysplugins_method.unregister_compiler_function.php.html -text
 PHPunit/coverage/libs_sysplugins_method.unregister_function.php.html -text
@@ -114,9 +113,10 @@ PHPunit/coverage/yahoo-dom-event.js -text
 PHPunit/phpunit-tests-coverage.bat -text
 PHPunit/phpunit-tests.bat -text
 PHPunit/smartytests.php -text
+PHPunit/templates/blockplugintest.tpl -text
+PHPunit/templates/functionplugintest.tpl -text
 PHPunit/templates/helloworld.tpl -text
 PHPunit/templates/phphelloworld.php -text
-PHPunit/templates/plugintest.tpl -text
 PHPunit/templates_2/hello.tpl -text
 PHPunit/test_results.txt -text
 /README -text
@@ -140,6 +140,8 @@ Smarty3Doc/PHPunit/CoreTests.html -text
 Smarty3Doc/PHPunit/DelimiterTests.html -text
 Smarty3Doc/PHPunit/FileResourceTests.html -text
 Smarty3Doc/PHPunit/PhpResourceTests.html -text
+Smarty3Doc/PHPunit/RegisterBlockTests.html -text
+Smarty3Doc/PHPunit/RegisterCompilerFunctionTests.html -text
 Smarty3Doc/PHPunit/RegisterFunctionTests.html -text
 Smarty3Doc/PHPunit/ResourceTests.html -text
 Smarty3Doc/PHPunit/SecurityTests.html -text
@@ -167,6 +169,8 @@ Smarty3Doc/PHPunit/_PHPunit---CoreTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---DelimiterTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---FileResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---PhpResourceTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---RegisterBlockTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---RegisterCompilerFunctionTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterFunctionTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SecurityTests.php.html -text
@@ -174,22 +178,23 @@ Smarty3Doc/PHPunit/_PHPunit---SpacingTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---StringResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---VariableScopeTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---smartytests.php.html -text
+Smarty3Doc/PHPunit/myblockclass.html -text
+Smarty3Doc/PHPunit/mycompilerfunctionclass.html -text
+Smarty3Doc/PHPunit/myfunctionclass.html -text
 Smarty3Doc/Smarty/PluginsConfiguration/Smarty_Security_Policy.html -text
 Smarty3Doc/Smarty/PluginsConfiguration/_plugins---securitypolicy.default.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/Smarty_Function_Mailto.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.counter.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.mailto.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Base.html -text
-Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Block.html -text
-Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Function.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Modifier.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_PluginBase.html -text
+Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Plugin_Handler.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Run_Filter.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Write_File.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.base.php.html -text
-Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.block.php.html -text
-Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.function.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.modifier.php.html -text
+Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.plugin_handler.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.pluginbase.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.run_filter.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.write_file.php.html -text
@@ -252,6 +257,7 @@ Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_String.html -text
 Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---internal.resource_file.php.html -text
 Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---internal.resource_php.php.html -text
 Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---internal.resource_string.php.html -text
+Smarty3Doc/Smarty/Templates/PHP_Function_Handler.html -text
 Smarty3Doc/Smarty/Templates/PHP_Variable_Object.html -text
 Smarty3Doc/Smarty/Templates/Smarty.html -text
 Smarty3Doc/Smarty/Templates/Smarty_Data.html -text
@@ -334,6 +340,7 @@ Smarty3Doc/SmartyTestScripts/_test_nocache2.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_object.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_parser.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_plugin.php.html -text
+Smarty3Doc/SmartyTestScripts/_test_plugin2.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_security.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_smoke.php.html -text
 Smarty3Doc/blank.html -text
@@ -387,7 +394,6 @@ libs/lexer/internal.templatelexer.plex -text
 libs/lexer/internal.templateparser.php -text
 libs/lexer/internal.templateparser.y -text
 libs/sysplugins/internal.base.php -text
-libs/sysplugins/internal.block.php -text
 libs/sysplugins/internal.cacher_inlinecode.php -text
 libs/sysplugins/internal.cacheresource_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
@@ -407,9 +413,9 @@ libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
 libs/sysplugins/internal.config.php -text
 libs/sysplugins/internal.debug.php -text
-libs/sysplugins/internal.function.php -text
 libs/sysplugins/internal.modifier.php -text
 libs/sysplugins/internal.phpvariableobjects.php -text
+libs/sysplugins/internal.plugin_handler.php -text
 libs/sysplugins/internal.pluginbase.php -text
 libs/sysplugins/internal.resource_file.php -text
 libs/sysplugins/internal.resource_php.php -text
@@ -434,9 +440,7 @@ libs/sysplugins/method.register_outputfilter.php -text
 libs/sysplugins/method.register_postfilter.php -text
 libs/sysplugins/method.register_prefilter.php -text
 libs/sysplugins/method.register_resource.php -text
-libs/sysplugins/method.setDefaultResource.php -text
 libs/sysplugins/method.test.php -text
-libs/sysplugins/method.trigger_fatal_error.php -text
 libs/sysplugins/method.unregister_block.php -text
 libs/sysplugins/method.unregister_compiler_function.php -text
 libs/sysplugins/method.unregister_function.php -text
@@ -482,5 +486,6 @@ templates/test_smoke.tpl -text
 /test_object.php -text
 /test_parser.php -text
 /test_plugin.php -text
+/test_plugin2.php -text
 /test_security.php -text
 /test_smoke.php -text
