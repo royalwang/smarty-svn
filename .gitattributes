@@ -7,6 +7,7 @@ PHPunit/CommentsTests.php -text
 PHPunit/CompileAssignTests.php -text
 PHPunit/CompileBlockPluginTests.php -text
 PHPunit/CompileCaptureTests.php -text
+PHPunit/CompileCompilerPluginTests.php -text
 PHPunit/CompileDebugTests.php -text
 PHPunit/CompileEvalTests.php -text
 PHPunit/CompileForTests.php -text
@@ -18,10 +19,12 @@ PHPunit/CompileInsertTests.php -text
 PHPunit/CoreTests.php -text
 PHPunit/DelimiterTests.php -text
 PHPunit/FileResourceTests.php -text
+PHPunit/ModifierTests.php -text
 PHPunit/PhpResourceTests.php -text
 PHPunit/RegisterBlockTests.php -text
 PHPunit/RegisterCompilerFunctionTests.php -text
 PHPunit/RegisterFunctionTests.php -text
+PHPunit/RegisterModifierTests.php -text
 PHPunit/ResourceTests.php -text
 PHPunit/SecurityTests.php -text
 PHPunit/SpacingTests.php -text
@@ -58,7 +61,6 @@ PHPunit/coverage/libs_sysplugins_internal.compilebase.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compiler.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.config.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.debug.php.html -text
-PHPunit/coverage/libs_sysplugins_internal.modifier.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.phpvariableobjects.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.plugin_handler.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.pluginbase.php.html -text
@@ -114,6 +116,7 @@ PHPunit/phpunit-tests-coverage.bat -text
 PHPunit/phpunit-tests.bat -text
 PHPunit/smartytests.php -text
 PHPunit/templates/blockplugintest.tpl -text
+PHPunit/templates/compilerplugintest.tpl -text
 PHPunit/templates/functionplugintest.tpl -text
 PHPunit/templates/helloworld.tpl -text
 PHPunit/templates/phphelloworld.php -text
@@ -128,6 +131,7 @@ Smarty3Doc/PHPunit/CommentsTests.html -text
 Smarty3Doc/PHPunit/CompileAssignTests.html -text
 Smarty3Doc/PHPunit/CompileBlockPluginTests.html -text
 Smarty3Doc/PHPunit/CompileCaptureTests.html -text
+Smarty3Doc/PHPunit/CompileCompilerPluginTests.html -text
 Smarty3Doc/PHPunit/CompileDebugTests.html -text
 Smarty3Doc/PHPunit/CompileEvalTests.html -text
 Smarty3Doc/PHPunit/CompileForTests.html -text
@@ -139,10 +143,12 @@ Smarty3Doc/PHPunit/CompileInsertTests.html -text
 Smarty3Doc/PHPunit/CoreTests.html -text
 Smarty3Doc/PHPunit/DelimiterTests.html -text
 Smarty3Doc/PHPunit/FileResourceTests.html -text
+Smarty3Doc/PHPunit/ModifierTests.html -text
 Smarty3Doc/PHPunit/PhpResourceTests.html -text
 Smarty3Doc/PHPunit/RegisterBlockTests.html -text
 Smarty3Doc/PHPunit/RegisterCompilerFunctionTests.html -text
 Smarty3Doc/PHPunit/RegisterFunctionTests.html -text
+Smarty3Doc/PHPunit/RegisterModifierTests.html -text
 Smarty3Doc/PHPunit/ResourceTests.html -text
 Smarty3Doc/PHPunit/SecurityTests.html -text
 Smarty3Doc/PHPunit/SmartyTests.html -text
@@ -157,6 +163,7 @@ Smarty3Doc/PHPunit/_PHPunit---CommentsTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileAssignTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileBlockPluginTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileCaptureTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---CompileCompilerPluginTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileDebugTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileEvalTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileForTests.php.html -text
@@ -168,10 +175,12 @@ Smarty3Doc/PHPunit/_PHPunit---CompileInsertTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CoreTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---DelimiterTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---FileResourceTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---ModifierTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---PhpResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterBlockTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterCompilerFunctionTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterFunctionTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---RegisterModifierTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SecurityTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SpacingTests.php.html -text
@@ -181,19 +190,18 @@ Smarty3Doc/PHPunit/_PHPunit---smartytests.php.html -text
 Smarty3Doc/PHPunit/myblockclass.html -text
 Smarty3Doc/PHPunit/mycompilerfunctionclass.html -text
 Smarty3Doc/PHPunit/myfunctionclass.html -text
+Smarty3Doc/PHPunit/mymodifierclass.html -text
 Smarty3Doc/Smarty/PluginsConfiguration/Smarty_Security_Policy.html -text
 Smarty3Doc/Smarty/PluginsConfiguration/_plugins---securitypolicy.default.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/Smarty_Function_Mailto.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.counter.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.mailto.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Base.html -text
-Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Modifier.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_PluginBase.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Plugin_Handler.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Run_Filter.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Write_File.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.base.php.html -text
-Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.modifier.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.plugin_handler.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.pluginbase.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/_libs---sysplugins---internal.run_filter.php.html -text
@@ -413,7 +421,6 @@ libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
 libs/sysplugins/internal.config.php -text
 libs/sysplugins/internal.debug.php -text
-libs/sysplugins/internal.modifier.php -text
 libs/sysplugins/internal.phpvariableobjects.php -text
 libs/sysplugins/internal.plugin_handler.php -text
 libs/sysplugins/internal.pluginbase.php -text
