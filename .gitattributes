@@ -1,4 +1,5 @@
 * text=auto !eol
+PHPunit/ArrayTests.php -text
 PHPunit/ClearAllAssignTests.php -text
 PHPunit/ClearAssignTests.php -text
 PHPunit/ClearCacheTests.php -text
@@ -16,8 +17,10 @@ PHPunit/CompileFunctionPluginTests.php -text
 PHPunit/CompileIfTests.php -text
 PHPunit/CompileIncludeTests.php -text
 PHPunit/CompileInsertTests.php -text
+PHPunit/CompileRegisteredObjectFunctionTests.php -text
 PHPunit/CoreTests.php -text
 PHPunit/DelimiterTests.php -text
+PHPunit/DoubleQuotedStringTests.php -text
 PHPunit/FileResourceTests.php -text
 PHPunit/ModifierTests.php -text
 PHPunit/PhpResourceTests.php -text
@@ -27,9 +30,12 @@ PHPunit/RegisterFunctionTests.php -text
 PHPunit/RegisterModifierTests.php -text
 PHPunit/ResourceTests.php -text
 PHPunit/SecurityTests.php -text
+PHPunit/SingleQuotedStringTests.php -text
 PHPunit/SpacingTests.php -text
 PHPunit/StringResourceTests.php -text
+PHPunit/TokenFallbackTests.php -text
 PHPunit/VariableScopeTests.php -text
+PHPunit/VariableVariableTests.php -text
 PHPunit/coverage/butter.png -text
 PHPunit/coverage/chameleon.png -text
 PHPunit/coverage/close12_1.gif -text
@@ -56,6 +62,8 @@ PHPunit/coverage/libs_sysplugins_internal.compile_if.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compile_include.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compile_insert.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compile_nocache.php.html -text
+PHPunit/coverage/libs_sysplugins_internal.compile_object_block_function.php.html -text
+PHPunit/coverage/libs_sysplugins_internal.compile_object_function.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compile_print_expression.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compilebase.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compiler.php.html -text
@@ -123,6 +131,7 @@ PHPunit/templates/phphelloworld.php -text
 PHPunit/templates_2/hello.tpl -text
 PHPunit/test_results.txt -text
 /README -text
+Smarty3Doc/PHPunit/ArrayTests.html -text
 Smarty3Doc/PHPunit/ClearAllAssignTests.html -text
 Smarty3Doc/PHPunit/ClearAssignTests.html -text
 Smarty3Doc/PHPunit/ClearCacheTests.html -text
@@ -140,21 +149,28 @@ Smarty3Doc/PHPunit/CompileFunctionPluginTests.html -text
 Smarty3Doc/PHPunit/CompileIfTests.html -text
 Smarty3Doc/PHPunit/CompileIncludeTests.html -text
 Smarty3Doc/PHPunit/CompileInsertTests.html -text
+Smarty3Doc/PHPunit/CompileRegisteredObjectFunctionTests.html -text
 Smarty3Doc/PHPunit/CoreTests.html -text
 Smarty3Doc/PHPunit/DelimiterTests.html -text
+Smarty3Doc/PHPunit/DoubleQuotedStringTests.html -text
 Smarty3Doc/PHPunit/FileResourceTests.html -text
 Smarty3Doc/PHPunit/ModifierTests.html -text
 Smarty3Doc/PHPunit/PhpResourceTests.html -text
+Smarty3Doc/PHPunit/RegObject.html -text
 Smarty3Doc/PHPunit/RegisterBlockTests.html -text
 Smarty3Doc/PHPunit/RegisterCompilerFunctionTests.html -text
 Smarty3Doc/PHPunit/RegisterFunctionTests.html -text
 Smarty3Doc/PHPunit/RegisterModifierTests.html -text
 Smarty3Doc/PHPunit/ResourceTests.html -text
 Smarty3Doc/PHPunit/SecurityTests.html -text
+Smarty3Doc/PHPunit/SingleQuotedStringTests.html -text
 Smarty3Doc/PHPunit/SmartyTests.html -text
 Smarty3Doc/PHPunit/SpacingTests.html -text
 Smarty3Doc/PHPunit/StringResourceTests.html -text
+Smarty3Doc/PHPunit/TokenFallbackTests.html -text
 Smarty3Doc/PHPunit/VariableScopeTests.html -text
+Smarty3Doc/PHPunit/VariableVariableTests.html -text
+Smarty3Doc/PHPunit/_PHPunit---ArrayTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ClearAllAssignTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ClearAssignTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ClearCacheTests.php.html -text
@@ -172,8 +188,10 @@ Smarty3Doc/PHPunit/_PHPunit---CompileFunctionPluginTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileIfTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileIncludeTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CompileInsertTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---CompileRegisteredObjectFunctionTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---CoreTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---DelimiterTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---DoubleQuotedStringTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---FileResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ModifierTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---PhpResourceTests.php.html -text
@@ -183,9 +201,12 @@ Smarty3Doc/PHPunit/_PHPunit---RegisterFunctionTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterModifierTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SecurityTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---SingleQuotedStringTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SpacingTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---StringResourceTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---TokenFallbackTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---VariableScopeTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---VariableVariableTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---smartytests.php.html -text
 Smarty3Doc/PHPunit/myblockclass.html -text
 Smarty3Doc/PHPunit/mycompilerfunctionclass.html -text
@@ -305,6 +326,8 @@ Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Include.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Insert.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Nocache.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_NocacheClose.html -text
+Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Object_Block_Function.html -text
+Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Object_Function.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compile_Print_Expression.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Compiler.html -text
 Smarty3Doc/Smarty/compiler/Smarty_Internal_Templatelexer.html -text
@@ -323,6 +346,8 @@ Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_if.php.html -te
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_include.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_insert.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_nocache.php.html -text
+Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_object_block_function.php.html -text
+Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_object_function.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_print_expression.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compilebase.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compiler.php.html -text
@@ -338,6 +363,7 @@ Smarty3Doc/Smarty/plugins/_plugins---outputfilter.trimwhitespace.php.html -text
 Smarty3Doc/Smarty/tutorial_Smarty.pkg.html -text
 Smarty3Doc/SmartyTestScripts/MyObj.html -text
 Smarty3Doc/SmartyTestScripts/Person.html -text
+Smarty3Doc/SmartyTestScripts/TestClass.html -text
 Smarty3Doc/SmartyTestScripts/_index.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_debug.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_if.php.html -text
@@ -346,6 +372,7 @@ Smarty3Doc/SmartyTestScripts/_test_insert.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_nocache.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_nocache2.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_object.php.html -text
+Smarty3Doc/SmartyTestScripts/_test_object2.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_parser.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_plugin.php.html -text
 Smarty3Doc/SmartyTestScripts/_test_plugin2.php.html -text
@@ -416,6 +443,7 @@ libs/sysplugins/internal.compile_if.php -text
 libs/sysplugins/internal.compile_include.php -text
 libs/sysplugins/internal.compile_insert.php -text
 libs/sysplugins/internal.compile_nocache.php -text
+libs/sysplugins/internal.compile_object_function.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
 libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
@@ -480,6 +508,7 @@ templates/test_insert.tpl -text
 templates/test_nocache.tpl -text
 templates/test_nocache2.tpl -text
 templates/test_object.tpl -text
+templates/test_object2.tpl -text
 templates/test_parser.tpl -text
 templates/test_plugin.tpl -text
 templates/test_security.tpl -text
@@ -491,6 +520,7 @@ templates/test_smoke.tpl -text
 /test_nocache.php -text
 /test_nocache2.php -text
 /test_object.php -text
+/test_object2.php -text
 /test_parser.php -text
 /test_plugin.php -text
 /test_plugin2.php -text
