@@ -443,6 +443,7 @@ libs/sysplugins/internal.compile_if.php -text
 libs/sysplugins/internal.compile_include.php -text
 libs/sysplugins/internal.compile_insert.php -text
 libs/sysplugins/internal.compile_nocache.php -text
+libs/sysplugins/internal.compile_object_block_function.php -text
 libs/sysplugins/internal.compile_object_function.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
 libs/sysplugins/internal.compilebase.php -text
