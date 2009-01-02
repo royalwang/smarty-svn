@@ -22,10 +22,13 @@ PHPunit/CoreTests.php -text
 PHPunit/DelimiterTests.php -text
 PHPunit/DoubleQuotedStringTests.php -text
 PHPunit/FileResourceTests.php -text
+PHPunit/FilterTests.php -text
+PHPunit/LoadFilterTests.php -text
 PHPunit/ModifierTests.php -text
 PHPunit/PhpResourceTests.php -text
 PHPunit/RegisterBlockTests.php -text
 PHPunit/RegisterCompilerFunctionTests.php -text
+PHPunit/RegisterFilterTests.php -text
 PHPunit/RegisterFunctionTests.php -text
 PHPunit/RegisterModifierTests.php -text
 PHPunit/ResourceTests.php -text
@@ -86,6 +89,7 @@ PHPunit/coverage/libs_sysplugins_method.clear_all_assign.php.html -text
 PHPunit/coverage/libs_sysplugins_method.clear_all_cache.php.html -text
 PHPunit/coverage/libs_sysplugins_method.clear_assign.php.html -text
 PHPunit/coverage/libs_sysplugins_method.clear_compiled_tpl.php.html -text
+PHPunit/coverage/libs_sysplugins_method.load_filter.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_block.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_compiler_function.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_function.php.html -text
@@ -154,11 +158,14 @@ Smarty3Doc/PHPunit/CoreTests.html -text
 Smarty3Doc/PHPunit/DelimiterTests.html -text
 Smarty3Doc/PHPunit/DoubleQuotedStringTests.html -text
 Smarty3Doc/PHPunit/FileResourceTests.html -text
+Smarty3Doc/PHPunit/FilterTests.html -text
+Smarty3Doc/PHPunit/LoadFilterTests.html -text
 Smarty3Doc/PHPunit/ModifierTests.html -text
 Smarty3Doc/PHPunit/PhpResourceTests.html -text
 Smarty3Doc/PHPunit/RegObject.html -text
 Smarty3Doc/PHPunit/RegisterBlockTests.html -text
 Smarty3Doc/PHPunit/RegisterCompilerFunctionTests.html -text
+Smarty3Doc/PHPunit/RegisterFilterTests.html -text
 Smarty3Doc/PHPunit/RegisterFunctionTests.html -text
 Smarty3Doc/PHPunit/RegisterModifierTests.html -text
 Smarty3Doc/PHPunit/ResourceTests.html -text
@@ -193,10 +200,13 @@ Smarty3Doc/PHPunit/_PHPunit---CoreTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---DelimiterTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---DoubleQuotedStringTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---FileResourceTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---FilterTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---LoadFilterTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ModifierTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---PhpResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterBlockTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterCompilerFunctionTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---RegisterFilterTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterFunctionTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---RegisterModifierTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ResourceTests.php.html -text
@@ -210,6 +220,7 @@ Smarty3Doc/PHPunit/_PHPunit---VariableVariableTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---smartytests.php.html -text
 Smarty3Doc/PHPunit/myblockclass.html -text
 Smarty3Doc/PHPunit/mycompilerfunctionclass.html -text
+Smarty3Doc/PHPunit/myfilterclass.html -text
 Smarty3Doc/PHPunit/myfunctionclass.html -text
 Smarty3Doc/PHPunit/mymodifierclass.html -text
 Smarty3Doc/Smarty/PluginsConfiguration/Smarty_Security_Policy.html -text
@@ -240,6 +251,7 @@ Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_All_Assign.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_All_Cache.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_Assign.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_Compiled_Tpl.html -text
+Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Load_Filter.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Register_Block.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Register_Compiler_Function.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Register_Function.html -text
@@ -262,6 +274,7 @@ Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_all_assign.php.
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_all_cache.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_assign.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_compiled_tpl.php.html -text
+Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.load_filter.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.register_block.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.register_compiler_function.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.register_function.php.html -text
@@ -467,6 +480,7 @@ libs/sysplugins/method.clear_all_assign.php -text
 libs/sysplugins/method.clear_all_cache.php -text
 libs/sysplugins/method.clear_assign.php -text
 libs/sysplugins/method.clear_compiled_tpl.php -text
+libs/sysplugins/method.load_filter.php -text
 libs/sysplugins/method.register_block.php -text
 libs/sysplugins/method.register_compiler_function.php -text
 libs/sysplugins/method.register_function.php -text
