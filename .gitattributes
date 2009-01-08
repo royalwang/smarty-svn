@@ -1,5 +1,10 @@
 * text=auto !eol
+PHPunit/AppendByRefTests.php -text
+PHPunit/AppendTests.php -text
 PHPunit/ArrayTests.php -text
+PHPunit/AssignByRefTests.php -text
+PHPunit/AssignTests.php -text
+PHPunit/CacherResourceFileTests.php -text
 PHPunit/ClearAllAssignTests.php -text
 PHPunit/ClearAssignTests.php -text
 PHPunit/ClearCacheTests.php -text
@@ -88,6 +93,7 @@ PHPunit/coverage/libs_sysplugins_internal.write_file.php.html -text
 PHPunit/coverage/libs_sysplugins_method.clear_all_assign.php.html -text
 PHPunit/coverage/libs_sysplugins_method.clear_all_cache.php.html -text
 PHPunit/coverage/libs_sysplugins_method.clear_assign.php.html -text
+PHPunit/coverage/libs_sysplugins_method.clear_cache.php.html -text
 PHPunit/coverage/libs_sysplugins_method.clear_compiled_tpl.php.html -text
 PHPunit/coverage/libs_sysplugins_method.load_filter.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_block.php.html -text
@@ -135,6 +141,7 @@ PHPunit/templates/phphelloworld.php -text
 PHPunit/templates_2/hello.tpl -text
 PHPunit/test_results.txt -text
 /README -text
+Smarty3Doc/PHPunit/AppendTests.html -text
 Smarty3Doc/PHPunit/ArrayTests.html -text
 Smarty3Doc/PHPunit/ClearAllAssignTests.html -text
 Smarty3Doc/PHPunit/ClearAssignTests.html -text
@@ -177,6 +184,7 @@ Smarty3Doc/PHPunit/StringResourceTests.html -text
 Smarty3Doc/PHPunit/TokenFallbackTests.html -text
 Smarty3Doc/PHPunit/VariableScopeTests.html -text
 Smarty3Doc/PHPunit/VariableVariableTests.html -text
+Smarty3Doc/PHPunit/_PHPunit---AppendTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ArrayTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ClearAllAssignTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ClearAssignTests.php.html -text
@@ -250,6 +258,7 @@ Smarty3Doc/Smarty/SmartyException.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_All_Assign.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_All_Cache.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_Assign.html -text
+Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_Cache.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Clear_Compiled_Tpl.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Load_Filter.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Register_Block.html -text
@@ -273,6 +282,7 @@ Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Unregister_Resource.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_all_assign.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_all_cache.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_assign.php.html -text
+Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_cache.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.clear_compiled_tpl.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.load_filter.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.register_block.php.html -text
@@ -479,6 +489,7 @@ libs/sysplugins/internal.write_file.php -text
 libs/sysplugins/method.clear_all_assign.php -text
 libs/sysplugins/method.clear_all_cache.php -text
 libs/sysplugins/method.clear_assign.php -text
+libs/sysplugins/method.clear_cache.php -text
 libs/sysplugins/method.clear_compiled_tpl.php -text
 libs/sysplugins/method.load_filter.php -text
 libs/sysplugins/method.register_block.php -text
