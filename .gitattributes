@@ -40,6 +40,7 @@ PHPunit/ResourceTests.php -text
 PHPunit/SecurityTests.php -text
 PHPunit/SingleQuotedStringTests.php -text
 PHPunit/SpacingTests.php -text
+PHPunit/StaticClassAccessTests.php -text
 PHPunit/StringResourceTests.php -text
 PHPunit/TokenFallbackTests.php -text
 PHPunit/VariableScopeTests.php -text
@@ -141,8 +142,12 @@ PHPunit/templates/phphelloworld.php -text
 PHPunit/templates_2/hello.tpl -text
 PHPunit/test_results.txt -text
 /README -text
+Smarty3Doc/PHPunit/AppendByRefTests.html -text
 Smarty3Doc/PHPunit/AppendTests.html -text
 Smarty3Doc/PHPunit/ArrayTests.html -text
+Smarty3Doc/PHPunit/AssignByRefTests.html -text
+Smarty3Doc/PHPunit/AssignTests.html -text
+Smarty3Doc/PHPunit/CacherResourceFileTests.html -text
 Smarty3Doc/PHPunit/ClearAllAssignTests.html -text
 Smarty3Doc/PHPunit/ClearAssignTests.html -text
 Smarty3Doc/PHPunit/ClearCacheTests.html -text
@@ -180,12 +185,17 @@ Smarty3Doc/PHPunit/SecurityTests.html -text
 Smarty3Doc/PHPunit/SingleQuotedStringTests.html -text
 Smarty3Doc/PHPunit/SmartyTests.html -text
 Smarty3Doc/PHPunit/SpacingTests.html -text
+Smarty3Doc/PHPunit/StaticClassAccessTests.html -text
 Smarty3Doc/PHPunit/StringResourceTests.html -text
 Smarty3Doc/PHPunit/TokenFallbackTests.html -text
 Smarty3Doc/PHPunit/VariableScopeTests.html -text
 Smarty3Doc/PHPunit/VariableVariableTests.html -text
+Smarty3Doc/PHPunit/_PHPunit---AppendByRefTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---AppendTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ArrayTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---AssignByRefTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---AssignTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---CacherResourceFileTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ClearAllAssignTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ClearAssignTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---ClearCacheTests.php.html -text
@@ -221,6 +231,7 @@ Smarty3Doc/PHPunit/_PHPunit---ResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SecurityTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SingleQuotedStringTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SpacingTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---StaticClassAccessTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---StringResourceTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---TokenFallbackTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---VariableScopeTests.php.html -text
@@ -231,6 +242,7 @@ Smarty3Doc/PHPunit/mycompilerfunctionclass.html -text
 Smarty3Doc/PHPunit/myfilterclass.html -text
 Smarty3Doc/PHPunit/myfunctionclass.html -text
 Smarty3Doc/PHPunit/mymodifierclass.html -text
+Smarty3Doc/PHPunit/mystaticclass.html -text
 Smarty3Doc/Smarty/PluginsConfiguration/Smarty_Security_Policy.html -text
 Smarty3Doc/Smarty/PluginsConfiguration/_plugins---securitypolicy.default.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/Smarty_Function_Mailto.html -text
