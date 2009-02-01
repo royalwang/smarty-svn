@@ -558,6 +558,7 @@ libs/sysplugins/internal.compile_nocache.php -text
 libs/sysplugins/internal.compile_object_block_function.php -text
 libs/sysplugins/internal.compile_object_function.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
+libs/sysplugins/internal.compile_smarty.php -text
 libs/sysplugins/internal.compile_strip.php -text
 libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
@@ -591,6 +592,7 @@ libs/sysplugins/method.register_outputfilter.php -text
 libs/sysplugins/method.register_postfilter.php -text
 libs/sysplugins/method.register_prefilter.php -text
 libs/sysplugins/method.register_resource.php -text
+libs/sysplugins/method.template_exists.php -text
 libs/sysplugins/method.test.php -text
 libs/sysplugins/method.unregister_block.php -text
 libs/sysplugins/method.unregister_compiler_function.php -text
@@ -613,6 +615,7 @@ plugins/function.html_select_date.php -text
 plugins/function.html_select_time.php -text
 plugins/function.html_table.php -text
 plugins/function.mailto.php -text
+plugins/function.math.php -text
 plugins/function.popup.php -text
 plugins/function.popup_init.php -text
 plugins/modifier.capitalize.php -text
