@@ -42,6 +42,7 @@ PHPunit/SingleQuotedStringTests.php -text
 PHPunit/SpacingTests.php -text
 PHPunit/StaticClassAccessTests.php -text
 PHPunit/StringResourceTests.php -text
+PHPunit/TemplateExistsTests.php -text
 PHPunit/TokenFallbackTests.php -text
 PHPunit/VariableScopeTests.php -text
 PHPunit/VariableVariableTests.php -text
@@ -107,6 +108,7 @@ PHPunit/coverage/libs_sysplugins_method.register_outputfilter.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_postfilter.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_prefilter.php.html -text
 PHPunit/coverage/libs_sysplugins_method.register_resource.php.html -text
+PHPunit/coverage/libs_sysplugins_method.template_exists.php.html -text
 PHPunit/coverage/libs_sysplugins_method.test.php.html -text
 PHPunit/coverage/libs_sysplugins_method.unregister_block.php.html -text
 PHPunit/coverage/libs_sysplugins_method.unregister_compiler_function.php.html -text
@@ -130,6 +132,7 @@ PHPunit/coverage/plugins_function.html_select_date.php.html -text
 PHPunit/coverage/plugins_function.html_select_time.php.html -text
 PHPunit/coverage/plugins_function.html_table.php.html -text
 PHPunit/coverage/plugins_function.mailto.php.html -text
+PHPunit/coverage/plugins_function.math.php.html -text
 PHPunit/coverage/plugins_function.popup.php.html -text
 PHPunit/coverage/plugins_function.popup_init.php.html -text
 PHPunit/coverage/plugins_modifier.capitalize.php.html -text
@@ -218,6 +221,7 @@ Smarty3Doc/PHPunit/SmartyTests.html -text
 Smarty3Doc/PHPunit/SpacingTests.html -text
 Smarty3Doc/PHPunit/StaticClassAccessTests.html -text
 Smarty3Doc/PHPunit/StringResourceTests.html -text
+Smarty3Doc/PHPunit/TemplateExistsTests.html -text
 Smarty3Doc/PHPunit/TokenFallbackTests.html -text
 Smarty3Doc/PHPunit/VariableScopeTests.html -text
 Smarty3Doc/PHPunit/VariableVariableTests.html -text
@@ -264,6 +268,7 @@ Smarty3Doc/PHPunit/_PHPunit---SingleQuotedStringTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---SpacingTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---StaticClassAccessTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---StringResourceTests.php.html -text
+Smarty3Doc/PHPunit/_PHPunit---TemplateExistsTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---TokenFallbackTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---VariableScopeTests.php.html -text
 Smarty3Doc/PHPunit/_PHPunit---VariableVariableTests.php.html -text
@@ -290,6 +295,7 @@ Smarty3Doc/Smarty/PluginsFunction/_plugins---function.html_select_date.php.html 
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.html_select_time.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.html_table.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.mailto.php.html -text
+Smarty3Doc/Smarty/PluginsFunction/_plugins---function.math.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.popup.php.html -text
 Smarty3Doc/Smarty/PluginsFunction/_plugins---function.popup_init.php.html -text
 Smarty3Doc/Smarty/PluginsInternal/Smarty_Internal_Base.html -text
@@ -346,6 +352,7 @@ Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Register_Outputfilter.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Register_Postfilter.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Register_Prefilter.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Register_Resource.html -text
+Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Template_Exists.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Unregister_Block.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Unregister_Compiler_Function.html -text
 Smarty3Doc/Smarty/Smartymethod/Smarty_Method_Unregister_Function.html -text
@@ -370,6 +377,7 @@ Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.register_outputfilter
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.register_postfilter.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.register_prefilter.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.register_resource.php.html -text
+Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.template_exists.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.unregister_block.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.unregister_compiler_function.php.html -text
 Smarty3Doc/Smarty/Smartymethod/_libs---sysplugins---method.unregister_function.php.html -text
