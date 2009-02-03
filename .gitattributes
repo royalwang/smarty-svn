@@ -86,6 +86,7 @@ PHPunit/coverage/libs_sysplugins_internal.compile_object_function.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compile_print_expression.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compile_smarty.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compile_strip.php.html -text
+PHPunit/coverage/libs_sysplugins_internal.compile_stripclose.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compilebase.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.compiler.php.html -text
 PHPunit/coverage/libs_sysplugins_internal.config.php.html -text
@@ -480,6 +481,7 @@ Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_object_function
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_print_expression.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_smarty.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_strip.php.html -text
+Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compile_stripclose.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compilebase.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.compiler.php.html -text
 Smarty3Doc/Smarty/compiler/_libs---sysplugins---internal.templatelexer.php.html -text
@@ -591,6 +593,7 @@ libs/sysplugins/internal.compile_object_function.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
 libs/sysplugins/internal.compile_smarty.php -text
 libs/sysplugins/internal.compile_strip.php -text
+libs/sysplugins/internal.compile_stripclose.php -text
 libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
 libs/sysplugins/internal.config.php -text
