@@ -23,6 +23,8 @@ PHPunit/CompileIfTests.php -text
 PHPunit/CompileIncludeTests.php -text
 PHPunit/CompileInsertTests.php -text
 PHPunit/CompileRegisteredObjectFunctionTests.php -text
+PHPunit/ConfigVarTests.php -text
+PHPunit/ConstantsTests.php -text
 PHPunit/CoreTests.php -text
 PHPunit/DelimiterTests.php -text
 PHPunit/DoubleQuotedStringTests.php -text
