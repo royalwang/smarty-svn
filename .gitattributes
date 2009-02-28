@@ -562,7 +562,6 @@ libs/lexer/ParserGenerator/Rule.php -text
 libs/lexer/ParserGenerator/State.php -text
 libs/lexer/ParserGenerator/Symbol.php -text
 libs/lexer/ParserGenerator/cli.php -text
-libs/lexer/internal.templatelexer.php -text
 libs/lexer/internal.templatelexer.plex -text
 libs/lexer/internal.templateparser.php -text
 libs/lexer/internal.templateparser.y -text
