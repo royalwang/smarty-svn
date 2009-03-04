@@ -536,6 +536,7 @@ Smarty3Doc/ric_README.html -text
 Smarty3Doc/todolist.html -text
 Smarty3Doc/tutorials/Smarty/Smarty.pkg -text
 /change_log.txt -text
+configs/test.conf -text
 /index.php -text
 libs/Smarty.class.php -text
 libs/debug.tpl -text
@@ -562,6 +563,8 @@ libs/lexer/ParserGenerator/Rule.php -text
 libs/lexer/ParserGenerator/State.php -text
 libs/lexer/ParserGenerator/Symbol.php -text
 libs/lexer/ParserGenerator/cli.php -text
+libs/lexer/internal.configfilelexer.plex -text
+libs/lexer/internal.configfileparser.y -text
 libs/lexer/internal.templatelexer.plex -text
 libs/lexer/internal.templateparser.php -text
 libs/lexer/internal.templateparser.y -text
@@ -572,6 +575,7 @@ libs/sysplugins/internal.compile_assign.php -text
 libs/sysplugins/internal.compile_block_plugin.php -text
 libs/sysplugins/internal.compile_capture.php -text
 libs/sysplugins/internal.compile_captureclose.php -text
+libs/sysplugins/internal.compile_config_load.php -text
 libs/sysplugins/internal.compile_debug.php -text
 libs/sysplugins/internal.compile_else.php -text
 libs/sysplugins/internal.compile_elseif.php -text
@@ -598,6 +602,9 @@ libs/sysplugins/internal.compile_stripclose.php -text
 libs/sysplugins/internal.compilebase.php -text
 libs/sysplugins/internal.compiler.php -text
 libs/sysplugins/internal.config.php -text
+libs/sysplugins/internal.config_file_compiler.php -text
+libs/sysplugins/internal.configfilelexer.php -text
+libs/sysplugins/internal.configfileparser.php -text
 libs/sysplugins/internal.debug.php -text
 libs/sysplugins/internal.phpvariableobjects.php -text
 libs/sysplugins/internal.plugin_handler.php -text
@@ -617,6 +624,7 @@ libs/sysplugins/method.clear_all_cache.php -text
 libs/sysplugins/method.clear_assign.php -text
 libs/sysplugins/method.clear_cache.php -text
 libs/sysplugins/method.clear_compiled_tpl.php -text
+libs/sysplugins/method.config_load.php -text
 libs/sysplugins/method.load_filter.php -text
 libs/sysplugins/method.register_block.php -text
 libs/sysplugins/method.register_compiler_function.php -text
