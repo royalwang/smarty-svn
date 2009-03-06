@@ -15,6 +15,7 @@ PHPunit/CompileBlockPluginTests.php -text
 PHPunit/CompileCaptureTests.php -text
 PHPunit/CompileCompilerPluginTests.php -text
 PHPunit/CompileDebugTests.php -text
+PHPunit/CompileErrorTests.php -text
 PHPunit/CompileEvalTests.php -text
 PHPunit/CompileForTests.php -text
 PHPunit/CompileForeachTests.php -text
@@ -23,6 +24,7 @@ PHPunit/CompileIfTests.php -text
 PHPunit/CompileIncludeTests.php -text
 PHPunit/CompileInsertTests.php -text
 PHPunit/CompileRegisteredObjectFunctionTests.php -text
+PHPunit/CompileStripTests.php -text
 PHPunit/ConfigVarTests.php -text
 PHPunit/ConstantsTests.php -text
 PHPunit/CoreTests.php -text
@@ -30,6 +32,7 @@ PHPunit/DelimiterTests.php -text
 PHPunit/DoubleQuotedStringTests.php -text
 PHPunit/FileResourceTests.php -text
 PHPunit/FilterTests.php -text
+PHPunit/FunctionTests.php -text
 PHPunit/LoadFilterTests.php -text
 PHPunit/ModifierTests.php -text
 PHPunit/PhpResourceTests.php -text
