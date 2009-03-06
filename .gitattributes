@@ -48,6 +48,8 @@ PHPunit/TemplateExistsTests.php -text
 PHPunit/TokenFallbackTests.php -text
 PHPunit/VariableScopeTests.php -text
 PHPunit/VariableVariableTests.php -text
+PHPunit/XmlTests.php -text
+PHPunit/configs/test.conf -text
 PHPunit/coverage/butter.png -text
 PHPunit/coverage/chameleon.png -text
 PHPunit/coverage/close12_1.gif -text
@@ -186,6 +188,7 @@ PHPunit/templates/compilerplugintest.tpl -text
 PHPunit/templates/functionplugintest.tpl -text
 PHPunit/templates/helloworld.tpl -text
 PHPunit/templates/phphelloworld.php -text
+PHPunit/templates/xml.tpl -text
 PHPunit/templates_2/hello.tpl -text
 PHPunit/test_results.txt -text
 /README -text
@@ -624,7 +627,9 @@ libs/sysplugins/method.clear_all_cache.php -text
 libs/sysplugins/method.clear_assign.php -text
 libs/sysplugins/method.clear_cache.php -text
 libs/sysplugins/method.clear_compiled_tpl.php -text
+libs/sysplugins/method.clear_config.php -text
 libs/sysplugins/method.config_load.php -text
+libs/sysplugins/method.get_config_vars.php -text
 libs/sysplugins/method.load_filter.php -text
 libs/sysplugins/method.register_block.php -text
 libs/sysplugins/method.register_compiler_function.php -text
