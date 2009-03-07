@@ -33,6 +33,7 @@ PHPunit/DoubleQuotedStringTests.php -text
 PHPunit/FileResourceTests.php -text
 PHPunit/FilterTests.php -text
 PHPunit/FunctionTests.php -text
+PHPunit/GetTemplateVarsTests.php -text
 PHPunit/LoadFilterTests.php -text
 PHPunit/ModifierTests.php -text
 PHPunit/PhpResourceTests.php -text
@@ -49,10 +50,12 @@ PHPunit/StaticClassAccessTests.php -text
 PHPunit/StringResourceTests.php -text
 PHPunit/TemplateExistsTests.php -text
 PHPunit/TokenFallbackTests.php -text
+PHPunit/TriggerErrorTests.php -text
 PHPunit/VariableScopeTests.php -text
 PHPunit/VariableVariableTests.php -text
 PHPunit/XmlTests.php -text
 PHPunit/configs/test.conf -text
+PHPunit/configs/test_error.conf -text
 PHPunit/coverage/butter.png -text
 PHPunit/coverage/chameleon.png -text
 PHPunit/coverage/close12_1.gif -text
@@ -633,6 +636,8 @@ libs/sysplugins/method.clear_compiled_tpl.php -text
 libs/sysplugins/method.clear_config.php -text
 libs/sysplugins/method.config_load.php -text
 libs/sysplugins/method.get_config_vars.php -text
+libs/sysplugins/method.get_registered_object.php -text
+libs/sysplugins/method.get_template_vars.php -text
 libs/sysplugins/method.load_filter.php -text
 libs/sysplugins/method.register_block.php -text
 libs/sysplugins/method.register_compiler_function.php -text
@@ -645,6 +650,7 @@ libs/sysplugins/method.register_prefilter.php -text
 libs/sysplugins/method.register_resource.php -text
 libs/sysplugins/method.template_exists.php -text
 libs/sysplugins/method.test.php -text
+libs/sysplugins/method.trigger_error.php -text
 libs/sysplugins/method.unregister_block.php -text
 libs/sysplugins/method.unregister_compiler_function.php -text
 libs/sysplugins/method.unregister_function.php -text
