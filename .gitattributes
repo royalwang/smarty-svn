@@ -631,8 +631,10 @@ libs/sysplugins/internal.resource_php.php -text
 libs/sysplugins/internal.resource_string.php -text
 libs/sysplugins/internal.run_filter.php -text
 libs/sysplugins/internal.security_handler.php -text
+libs/sysplugins/internal.smartytemplatecompiler.php -text
 libs/sysplugins/internal.template.php -text
 libs/sysplugins/internal.templatebase.php -text
+libs/sysplugins/internal.templatecompilerbase.php -text
 libs/sysplugins/internal.templatelexer.php -text
 libs/sysplugins/internal.templateparser.php -text
 libs/sysplugins/internal.write_file.php -text
