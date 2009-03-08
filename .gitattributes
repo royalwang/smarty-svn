@@ -24,6 +24,7 @@ PHPunit/CompileIfTests.php -text
 PHPunit/CompileIncludeTests.php -text
 PHPunit/CompileInsertTests.php -text
 PHPunit/CompileRegisteredObjectFunctionTests.php -text
+PHPunit/CompileSectionTests.php -text
 PHPunit/CompileStripTests.php -text
 PHPunit/CompileWhileTests.php -text
 PHPunit/ConfigVarTests.php -text
@@ -607,6 +608,9 @@ libs/sysplugins/internal.compile_nocacheclose.php -text
 libs/sysplugins/internal.compile_object_block_function.php -text
 libs/sysplugins/internal.compile_object_function.php -text
 libs/sysplugins/internal.compile_print_expression.php -text
+libs/sysplugins/internal.compile_section.php -text
+libs/sysplugins/internal.compile_sectionclose.php -text
+libs/sysplugins/internal.compile_sectionelse.php -text
 libs/sysplugins/internal.compile_smarty.php -text
 libs/sysplugins/internal.compile_strip.php -text
 libs/sysplugins/internal.compile_stripclose.php -text
