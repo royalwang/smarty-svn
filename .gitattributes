@@ -584,6 +584,7 @@ libs/sysplugins/internal.base.php -text
 libs/sysplugins/internal.cacher_inlinecode.php -text
 libs/sysplugins/internal.cacheresource_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
+libs/sysplugins/internal.compile_assign_global.php -text
 libs/sysplugins/internal.compile_block_plugin.php -text
 libs/sysplugins/internal.compile_capture.php -text
 libs/sysplugins/internal.compile_captureclose.php -text
@@ -646,6 +647,7 @@ libs/sysplugins/method.clear_compiled_tpl.php -text
 libs/sysplugins/method.clear_config.php -text
 libs/sysplugins/method.config_load.php -text
 libs/sysplugins/method.get_config_vars.php -text
+libs/sysplugins/method.get_global.php -text
 libs/sysplugins/method.get_registered_object.php -text
 libs/sysplugins/method.get_template_vars.php -text
 libs/sysplugins/method.load_filter.php -text
