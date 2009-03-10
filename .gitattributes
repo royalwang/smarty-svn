@@ -3,6 +3,7 @@ PHPunit/AppendByRefTests.php -text
 PHPunit/AppendTests.php -text
 PHPunit/ArrayTests.php -text
 PHPunit/AssignByRefTests.php -text
+PHPunit/AssignGlobalTests.php -text
 PHPunit/AssignTests.php -text
 PHPunit/CacherResourceFileTests.php -text
 PHPunit/ClearAllAssignTests.php -text
@@ -23,6 +24,7 @@ PHPunit/CompileFunctionPluginTests.php -text
 PHPunit/CompileIfTests.php -text
 PHPunit/CompileIncludeTests.php -text
 PHPunit/CompileInsertTests.php -text
+PHPunit/CompilePhpTests.php -text
 PHPunit/CompileRegisteredObjectFunctionTests.php -text
 PHPunit/CompileSectionTests.php -text
 PHPunit/CompileStripTests.php -text
