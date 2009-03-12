@@ -587,7 +587,9 @@ libs/sysplugins/internal.cacher_inlinecode.php -text
 libs/sysplugins/internal.cacheresource_file.php -text
 libs/sysplugins/internal.compile_assign.php -text
 libs/sysplugins/internal.compile_assign_global.php -text
+libs/sysplugins/internal.compile_block.php -text
 libs/sysplugins/internal.compile_block_plugin.php -text
+libs/sysplugins/internal.compile_blockclose.php -text
 libs/sysplugins/internal.compile_capture.php -text
 libs/sysplugins/internal.compile_captureclose.php -text
 libs/sysplugins/internal.compile_config_load.php -text
@@ -595,6 +597,7 @@ libs/sysplugins/internal.compile_debug.php -text
 libs/sysplugins/internal.compile_else.php -text
 libs/sysplugins/internal.compile_elseif.php -text
 libs/sysplugins/internal.compile_eval.php -text
+libs/sysplugins/internal.compile_extend.php -text
 libs/sysplugins/internal.compile_for.php -text
 libs/sysplugins/internal.compile_forclose.php -text
 libs/sysplugins/internal.compile_foreach.php -text
