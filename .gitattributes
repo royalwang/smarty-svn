@@ -12,6 +12,7 @@ PHPunit/ClearCacheTests.php -text
 PHPunit/ClearCompiledTests.php -text
 PHPunit/CommentsTests.php -text
 PHPunit/CompileAssignTests.php -text
+PHPunit/CompileBlockExtendTests.php -text
 PHPunit/CompileBlockPluginTests.php -text
 PHPunit/CompileCaptureTests.php -text
 PHPunit/CompileCompilerPluginTests.php -text
@@ -198,6 +199,9 @@ PHPunit/templates/compilerplugintest.tpl -text
 PHPunit/templates/functionplugintest.tpl -text
 PHPunit/templates/helloworld.tpl -text
 PHPunit/templates/phphelloworld.php -text
+PHPunit/templates/test_block.tpl -text
+PHPunit/templates/test_block_base.tpl -text
+PHPunit/templates/test_block_section.tpl -text
 PHPunit/templates/xml.tpl -text
 PHPunit/templates_2/hello.tpl -text
 PHPunit/test_results.txt -text
