@@ -612,6 +612,7 @@ libs/sysplugins/internal.compile_function_plugin.php -text
 libs/sysplugins/internal.compile_if.php -text
 libs/sysplugins/internal.compile_ifclose.php -text
 libs/sysplugins/internal.compile_include.php -text
+libs/sysplugins/internal.compile_include_php.php -text
 libs/sysplugins/internal.compile_insert.php -text
 libs/sysplugins/internal.compile_nocache.php -text
 libs/sysplugins/internal.compile_nocacheclose.php -text
