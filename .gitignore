@@ -1,1 +1,5 @@
 PHPunit/cache
+PHPunit/coverage
+PHPunit/templates_c
+/Smarty3Doc
+/templates_c
