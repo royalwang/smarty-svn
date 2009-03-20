@@ -710,6 +710,7 @@ plugins/modifier.escape.php -text
 plugins/modifier.indent.php -text
 plugins/modifier.lower.php -text
 plugins/modifier.nl2br.php -text
+plugins/modifier.noprint.php -text
 plugins/modifier.regex_replace.php -text
 plugins/modifier.replace.php -text
 plugins/modifier.spacify.php -text
