@@ -643,6 +643,7 @@ distribution/libs/debug.tpl -text
 distribution/libs/lexer/Create_Config_Parser.php -text
 distribution/libs/lexer/Create_Template_Parser.php -text
 distribution/libs/lexer/Exception.php -text
+distribution/libs/lexer/Lempar[!!-~]Original.php -text
 distribution/libs/lexer/Lempar.php -text
 distribution/libs/lexer/LexerGenerator.php -text
 distribution/libs/lexer/LexerGenerator/Exception.php -text
