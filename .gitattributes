@@ -773,6 +773,7 @@ distribution/libs/sysplugins/internal.templatecompilerbase.php -text
 distribution/libs/sysplugins/internal.templatelexer.php -text
 distribution/libs/sysplugins/internal.templateparser.php -text
 distribution/libs/sysplugins/internal.write_file.php -text
+distribution/libs/sysplugins/method.addpluginsdir.php -text
 distribution/libs/sysplugins/method.clear_all_assign.php -text
 distribution/libs/sysplugins/method.clear_all_cache.php -text
 distribution/libs/sysplugins/method.clear_assign.php -text
@@ -780,10 +781,19 @@ distribution/libs/sysplugins/method.clear_cache.php -text
 distribution/libs/sysplugins/method.clear_compiled_tpl.php -text
 distribution/libs/sysplugins/method.clear_config.php -text
 distribution/libs/sysplugins/method.config_load.php -text
+distribution/libs/sysplugins/method.disablecaching.php -text
+distribution/libs/sysplugins/method.disableforcecompile.php -text
+distribution/libs/sysplugins/method.enableforcecompile.php -text
 distribution/libs/sysplugins/method.get_config_vars.php -text
 distribution/libs/sysplugins/method.get_global.php -text
 distribution/libs/sysplugins/method.get_registered_object.php -text
 distribution/libs/sysplugins/method.get_template_vars.php -text
+distribution/libs/sysplugins/method.getcachedir.php -text
+distribution/libs/sysplugins/method.getcachelifetime.php -text
+distribution/libs/sysplugins/method.getcompiledir.php -text
+distribution/libs/sysplugins/method.getconfigdir.php -text
+distribution/libs/sysplugins/method.getpluginsdir.php -text
+distribution/libs/sysplugins/method.gettemplatedir.php -text
 distribution/libs/sysplugins/method.load_filter.php -text
 distribution/libs/sysplugins/method.register_block.php -text
 distribution/libs/sysplugins/method.register_compiler_function.php -text
@@ -794,6 +804,8 @@ distribution/libs/sysplugins/method.register_outputfilter.php -text
 distribution/libs/sysplugins/method.register_postfilter.php -text
 distribution/libs/sysplugins/method.register_prefilter.php -text
 distribution/libs/sysplugins/method.register_resource.php -text
+distribution/libs/sysplugins/method.setconfigdir.php -text
+distribution/libs/sysplugins/method.setpluginsdir.php -text
 distribution/libs/sysplugins/method.template_exists.php -text
 distribution/libs/sysplugins/method.test.php -text
 distribution/libs/sysplugins/method.trigger_error.php -text
