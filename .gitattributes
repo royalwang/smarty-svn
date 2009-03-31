@@ -782,7 +782,13 @@ distribution/libs/sysplugins/method.clear_compiled_tpl.php -text
 distribution/libs/sysplugins/method.clear_config.php -text
 distribution/libs/sysplugins/method.config_load.php -text
 distribution/libs/sysplugins/method.disablecaching.php -text
+distribution/libs/sysplugins/method.disablecompilecheck.php -text
+distribution/libs/sysplugins/method.disabledebugging.php -text
+distribution/libs/sysplugins/method.disabledebuggingurlctrl.php -text
 distribution/libs/sysplugins/method.disableforcecompile.php -text
+distribution/libs/sysplugins/method.enablecompilecheck.php -text
+distribution/libs/sysplugins/method.enabledebugging.php -text
+distribution/libs/sysplugins/method.enabledebuggingurlctrl.php -text
 distribution/libs/sysplugins/method.enableforcecompile.php -text
 distribution/libs/sysplugins/method.get_config_vars.php -text
 distribution/libs/sysplugins/method.get_global.php -text
@@ -792,6 +798,7 @@ distribution/libs/sysplugins/method.getcachedir.php -text
 distribution/libs/sysplugins/method.getcachelifetime.php -text
 distribution/libs/sysplugins/method.getcompiledir.php -text
 distribution/libs/sysplugins/method.getconfigdir.php -text
+distribution/libs/sysplugins/method.getdebugtemplate.php -text
 distribution/libs/sysplugins/method.getpluginsdir.php -text
 distribution/libs/sysplugins/method.gettemplatedir.php -text
 distribution/libs/sysplugins/method.load_filter.php -text
@@ -805,6 +812,7 @@ distribution/libs/sysplugins/method.register_postfilter.php -text
 distribution/libs/sysplugins/method.register_prefilter.php -text
 distribution/libs/sysplugins/method.register_resource.php -text
 distribution/libs/sysplugins/method.setconfigdir.php -text
+distribution/libs/sysplugins/method.setdebugtemplate.php -text
 distribution/libs/sysplugins/method.setpluginsdir.php -text
 distribution/libs/sysplugins/method.template_exists.php -text
 distribution/libs/sysplugins/method.test.php -text
