@@ -821,6 +821,8 @@ distribution/libs/sysplugins/method.register_outputfilter.php -text
 distribution/libs/sysplugins/method.register_postfilter.php -text
 distribution/libs/sysplugins/method.register_prefilter.php -text
 distribution/libs/sysplugins/method.register_resource.php -text
+distribution/libs/sysplugins/method.registerdefaultpluginhandler.php -text
+distribution/libs/sysplugins/method.registerdefaulttemplatehandler.php -text
 distribution/libs/sysplugins/method.setconfigdir.php -text
 distribution/libs/sysplugins/method.setdebugtemplate.php -text
 distribution/libs/sysplugins/method.setpluginsdir.php -text
