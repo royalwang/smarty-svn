@@ -33,6 +33,8 @@ development/PHPunit/CompileWhileTests.php -text
 development/PHPunit/ConfigVarTests.php -text
 development/PHPunit/ConstantsTests.php -text
 development/PHPunit/CoreTests.php -text
+development/PHPunit/DefaultPluginHandlerTests.php -text
+development/PHPunit/DefaultTemplateHandlerTests.php -text
 development/PHPunit/DelimiterTests.php -text
 development/PHPunit/DoubleQuotedStringTests.php -text
 development/PHPunit/FileResourceTests.php -text
