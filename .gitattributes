@@ -712,6 +712,7 @@ distribution/libs/plugins/shared.make_timestamp.php -text
 distribution/libs/sysplugins/internal.base.php -text
 distribution/libs/sysplugins/internal.cacher_inlinecode.php -text
 distribution/libs/sysplugins/internal.cacheresource_file.php -text
+distribution/libs/sysplugins/internal.compile_append.php -text
 distribution/libs/sysplugins/internal.compile_assign.php -text
 distribution/libs/sysplugins/internal.compile_assign_global.php -text
 distribution/libs/sysplugins/internal.compile_block.php -text
