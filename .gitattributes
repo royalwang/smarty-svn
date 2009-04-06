@@ -932,6 +932,16 @@ distribution/libs/sysplugins/method.getconfigdir.php -text
 distribution/libs/sysplugins/method.getdebugtemplate.php -text
 distribution/libs/sysplugins/method.getpluginsdir.php -text
 distribution/libs/sysplugins/method.gettemplatedir.php -text
+distribution/libs/sysplugins/method.iscachemodifycheck.php -text
+distribution/libs/sysplugins/method.iscaching.php -text
+distribution/libs/sysplugins/method.iscompilecheck.php -text
+distribution/libs/sysplugins/method.isconfigbooleanize.php -text
+distribution/libs/sysplugins/method.isconfigoverwrite.php -text
+distribution/libs/sysplugins/method.isconfigreadhidden.php -text
+distribution/libs/sysplugins/method.isdebugging.php -text
+distribution/libs/sysplugins/method.isdebuggingurlctrl.php -text
+distribution/libs/sysplugins/method.isdefaulttimezone.php -text
+distribution/libs/sysplugins/method.isforcecompile.php -text
 distribution/libs/sysplugins/method.load_filter.php -text
 distribution/libs/sysplugins/method.register_block.php -text
 distribution/libs/sysplugins/method.register_compiler_function.php -text
