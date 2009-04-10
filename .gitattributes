@@ -736,12 +736,8 @@ development/TestScripts/test.php -text
 development/TestScripts/test2.php -text
 development/TestScripts/test3.php -text
 development/TestScripts/test_bug.php -text
-development/TestScripts/test_config.php -text
-development/TestScripts/test_debug.php -text
 development/TestScripts/test_extend.php -text
 development/TestScripts/test_if.php -text
-development/TestScripts/test_include.php -text
-development/TestScripts/test_insert.php -text
 development/TestScripts/test_nocache.php -text
 development/TestScripts/test_nocache2.php -text
 development/TestScripts/test_object.php -text
