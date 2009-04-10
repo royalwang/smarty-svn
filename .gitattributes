@@ -829,6 +829,7 @@ distribution/libs/plugins/outputfilter.trimwhitespace.php -text
 distribution/libs/plugins/securitypolicy.default.php -text
 distribution/libs/plugins/shared.escape_special_chars.php -text
 distribution/libs/plugins/shared.make_timestamp.php -text
+distribution/libs/plugins/variablefilter.htmlspecialchars.php -text
 distribution/libs/sysplugins/internal.base.php -text
 distribution/libs/sysplugins/internal.cacher_inlinecode.php -text
 distribution/libs/sysplugins/internal.cacheresource_file.php -text
@@ -912,6 +913,7 @@ distribution/libs/sysplugins/method.disabledebugging.php -text
 distribution/libs/sysplugins/method.disabledebuggingurlctrl.php -text
 distribution/libs/sysplugins/method.disabledefaulttimezone.php -text
 distribution/libs/sysplugins/method.disableforcecompile.php -text
+distribution/libs/sysplugins/method.disablevariablefilter.php -text
 distribution/libs/sysplugins/method.enablecachemodifycheck.php -text
 distribution/libs/sysplugins/method.enablecompilecheck.php -text
 distribution/libs/sysplugins/method.enableconfigbooleanize.php -text
@@ -921,6 +923,7 @@ distribution/libs/sysplugins/method.enabledebugging.php -text
 distribution/libs/sysplugins/method.enabledebuggingurlctrl.php -text
 distribution/libs/sysplugins/method.enabledefaulttimezone.php -text
 distribution/libs/sysplugins/method.enableforcecompile.php -text
+distribution/libs/sysplugins/method.enablevariablefilter.php -text
 distribution/libs/sysplugins/method.get_config_vars.php -text
 distribution/libs/sysplugins/method.get_global.php -text
 distribution/libs/sysplugins/method.get_registered_object.php -text
@@ -932,6 +935,7 @@ distribution/libs/sysplugins/method.getconfigdir.php -text
 distribution/libs/sysplugins/method.getdebugtemplate.php -text
 distribution/libs/sysplugins/method.getpluginsdir.php -text
 distribution/libs/sysplugins/method.gettemplatedir.php -text
+distribution/libs/sysplugins/method.getvariablefilter.php -text
 distribution/libs/sysplugins/method.iscachemodifycheck.php -text
 distribution/libs/sysplugins/method.iscaching.php -text
 distribution/libs/sysplugins/method.iscompilecheck.php -text
@@ -952,6 +956,7 @@ distribution/libs/sysplugins/method.register_outputfilter.php -text
 distribution/libs/sysplugins/method.register_postfilter.php -text
 distribution/libs/sysplugins/method.register_prefilter.php -text
 distribution/libs/sysplugins/method.register_resource.php -text
+distribution/libs/sysplugins/method.register_variablefilter.php -text
 distribution/libs/sysplugins/method.registerdefaultpluginhandler.php -text
 distribution/libs/sysplugins/method.registerdefaulttemplatehandler.php -text
 distribution/libs/sysplugins/method.setconfigdir.php -text
@@ -969,3 +974,4 @@ distribution/libs/sysplugins/method.unregister_outputfilter.php -text
 distribution/libs/sysplugins/method.unregister_postfilter.php -text
 distribution/libs/sysplugins/method.unregister_prefilter.php -text
 distribution/libs/sysplugins/method.unregister_resource.php -text
+distribution/libs/sysplugins/method.unregister_variablefilter.php -text
