@@ -868,7 +868,6 @@ distribution/libs/sysplugins/internal.compile_stripclose.php -text
 distribution/libs/sysplugins/internal.compile_while.php -text
 distribution/libs/sysplugins/internal.compile_whileclose.php -text
 distribution/libs/sysplugins/internal.compilebase.php -text
-distribution/libs/sysplugins/internal.compiler.php -text
 distribution/libs/sysplugins/internal.config.php -text
 distribution/libs/sysplugins/internal.config_file_compiler.php -text
 distribution/libs/sysplugins/internal.configfilelexer.php -text
