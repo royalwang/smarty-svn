@@ -879,6 +879,7 @@ distribution/libs/sysplugins/internal.pluginbase.php -text
 distribution/libs/sysplugins/internal.resource_extend.php -text
 distribution/libs/sysplugins/internal.resource_file.php -text
 distribution/libs/sysplugins/internal.resource_php.php -text
+distribution/libs/sysplugins/internal.resource_stream.php -text
 distribution/libs/sysplugins/internal.resource_string.php -text
 distribution/libs/sysplugins/internal.run_filter.php -text
 distribution/libs/sysplugins/internal.security_handler.php -text
