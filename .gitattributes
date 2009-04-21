@@ -54,6 +54,8 @@ development/PHPunit/SecurityTests.php -text
 development/PHPunit/SingleQuotedStringTests.php -text
 development/PHPunit/SpacingTests.php -text
 development/PHPunit/StaticClassAccessTests.php -text
+development/PHPunit/StreamResourceTests.php -text
+development/PHPunit/StreamVariableTests.php -text
 development/PHPunit/StringResourceTests.php -text
 development/PHPunit/TemplateExistsTests.php -text
 development/PHPunit/TokenFallbackTests.php -text
