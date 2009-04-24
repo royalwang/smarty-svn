@@ -22,6 +22,7 @@ development/PHPunit/CompileEvalTests.php -text
 development/PHPunit/CompileForTests.php -text
 development/PHPunit/CompileForeachTests.php -text
 development/PHPunit/CompileFunctionPluginTests.php -text
+development/PHPunit/CompileFunctionTests.php -text
 development/PHPunit/CompileIfTests.php -text
 development/PHPunit/CompileIncludeTests.php -text
 development/PHPunit/CompileInsertTests.php -text
@@ -850,12 +851,15 @@ distribution/libs/sysplugins/internal.compile_foreach.php -text
 distribution/libs/sysplugins/internal.compile_foreachclose.php -text
 distribution/libs/sysplugins/internal.compile_foreachelse.php -text
 distribution/libs/sysplugins/internal.compile_forelse.php -text
+distribution/libs/sysplugins/internal.compile_function.php -text
 distribution/libs/sysplugins/internal.compile_function_plugin.php -text
+distribution/libs/sysplugins/internal.compile_functionclose.php -text
 distribution/libs/sysplugins/internal.compile_if.php -text
 distribution/libs/sysplugins/internal.compile_ifclose.php -text
 distribution/libs/sysplugins/internal.compile_include.php -text
 distribution/libs/sysplugins/internal.compile_include_php.php -text
 distribution/libs/sysplugins/internal.compile_insert.php -text
+distribution/libs/sysplugins/internal.compile_internalfunctioncall.php -text
 distribution/libs/sysplugins/internal.compile_nocache.php -text
 distribution/libs/sysplugins/internal.compile_nocacheclose.php -text
 distribution/libs/sysplugins/internal.compile_object_block_function.php -text
@@ -867,9 +871,6 @@ distribution/libs/sysplugins/internal.compile_sectionelse.php -text
 distribution/libs/sysplugins/internal.compile_smarty.php -text
 distribution/libs/sysplugins/internal.compile_strip.php -text
 distribution/libs/sysplugins/internal.compile_stripclose.php -text
-distribution/libs/sysplugins/internal.compile_template.php -text
-distribution/libs/sysplugins/internal.compile_templatecall.php -text
-distribution/libs/sysplugins/internal.compile_templateclose.php -text
 distribution/libs/sysplugins/internal.compile_while.php -text
 distribution/libs/sysplugins/internal.compile_whileclose.php -text
 distribution/libs/sysplugins/internal.compilebase.php -text
