@@ -867,6 +867,9 @@ distribution/libs/sysplugins/internal.compile_sectionelse.php -text
 distribution/libs/sysplugins/internal.compile_smarty.php -text
 distribution/libs/sysplugins/internal.compile_strip.php -text
 distribution/libs/sysplugins/internal.compile_stripclose.php -text
+distribution/libs/sysplugins/internal.compile_template.php -text
+distribution/libs/sysplugins/internal.compile_templatecall.php -text
+distribution/libs/sysplugins/internal.compile_templateclose.php -text
 distribution/libs/sysplugins/internal.compile_while.php -text
 distribution/libs/sysplugins/internal.compile_whileclose.php -text
 distribution/libs/sysplugins/internal.compilebase.php -text
