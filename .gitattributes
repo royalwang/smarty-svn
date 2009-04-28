@@ -26,6 +26,7 @@ development/PHPunit/CompileFunctionTests.php -text
 development/PHPunit/CompileIfTests.php -text
 development/PHPunit/CompileIncludeTests.php -text
 development/PHPunit/CompileInsertTests.php -text
+development/PHPunit/CompileNocacheTests.php -text
 development/PHPunit/CompilePhpTests.php -text
 development/PHPunit/CompileRegisteredObjectFunctionTests.php -text
 development/PHPunit/CompileSectionTests.php -text
@@ -45,6 +46,7 @@ development/PHPunit/GetTemplateVarsTests.php -text
 development/PHPunit/LoadFilterTests.php -text
 development/PHPunit/ModifierTests.php -text
 development/PHPunit/PhpResourceTests.php -text
+development/PHPunit/PrintNocacheTests.php -text
 development/PHPunit/RegisterBlockTests.php -text
 development/PHPunit/RegisterCompilerFunctionTests.php -text
 development/PHPunit/RegisterFilterTests.php -text
@@ -204,6 +206,8 @@ development/PHPunit/templates/phphelloworld.php -text
 development/PHPunit/templates/test_block.tpl -text
 development/PHPunit/templates/test_block_base.tpl -text
 development/PHPunit/templates/test_block_section.tpl -text
+development/PHPunit/templates/test_inherit_function_tag.tpl -text
+development/PHPunit/templates/test_nocache_tag.tpl -text
 development/PHPunit/templates/xml.tpl -text
 development/PHPunit/templates_2/hello.tpl -text
 development/PHPunit/test_results.txt -text
@@ -860,6 +864,7 @@ distribution/libs/sysplugins/internal.compile_include.php -text
 distribution/libs/sysplugins/internal.compile_include_php.php -text
 distribution/libs/sysplugins/internal.compile_insert.php -text
 distribution/libs/sysplugins/internal.compile_internal_function_call.php -text
+distribution/libs/sysplugins/internal.compile_internal_smarty_var.php -text
 distribution/libs/sysplugins/internal.compile_nocache.php -text
 distribution/libs/sysplugins/internal.compile_nocacheclose.php -text
 distribution/libs/sysplugins/internal.compile_object_block_function.php -text
@@ -868,7 +873,6 @@ distribution/libs/sysplugins/internal.compile_print_expression.php -text
 distribution/libs/sysplugins/internal.compile_section.php -text
 distribution/libs/sysplugins/internal.compile_sectionclose.php -text
 distribution/libs/sysplugins/internal.compile_sectionelse.php -text
-distribution/libs/sysplugins/internal.compile_smarty.php -text
 distribution/libs/sysplugins/internal.compile_strip.php -text
 distribution/libs/sysplugins/internal.compile_stripclose.php -text
 distribution/libs/sysplugins/internal.compile_while.php -text
