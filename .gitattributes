@@ -206,8 +206,10 @@ development/PHPunit/templates/phphelloworld.php -text
 development/PHPunit/templates/test_block.tpl -text
 development/PHPunit/templates/test_block_base.tpl -text
 development/PHPunit/templates/test_block_section.tpl -text
+development/PHPunit/templates/test_define_function_tag.tpl -text
 development/PHPunit/templates/test_inherit_function_tag.tpl -text
 development/PHPunit/templates/test_nocache_tag.tpl -text
+development/PHPunit/templates/test_print_nocache.tpl -text
 development/PHPunit/templates/xml.tpl -text
 development/PHPunit/templates_2/hello.tpl -text
 development/PHPunit/test_results.txt -text
