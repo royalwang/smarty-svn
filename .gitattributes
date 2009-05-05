@@ -778,6 +778,7 @@ distribution/README -text
 distribution/change_log.txt -text
 distribution/demo/index.php -text
 distribution/demo/templates/index_view.php -text
+distribution/libs/Security.class.php -text
 distribution/libs/Smarty.class.php -text
 distribution/libs/debug.tpl -text
 distribution/libs/plugins/block.textformat.php -text
@@ -819,7 +820,6 @@ distribution/libs/plugins/modifier.truncate.php -text
 distribution/libs/plugins/modifier.upper.php -text
 distribution/libs/plugins/modifier.wordwrap.php -text
 distribution/libs/plugins/outputfilter.trimwhitespace.php -text
-distribution/libs/plugins/securitypolicy.default.php -text
 distribution/libs/plugins/shared.escape_special_chars.php -text
 distribution/libs/plugins/shared.make_timestamp.php -text
 distribution/libs/plugins/variablefilter.htmlspecialchars.php -text
