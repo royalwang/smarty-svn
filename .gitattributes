@@ -32,6 +32,7 @@ development/PHPunit/CompileRegisteredObjectFunctionTests.php -text
 development/PHPunit/CompileSectionTests.php -text
 development/PHPunit/CompileStripTests.php -text
 development/PHPunit/CompileWhileTests.php -text
+development/PHPunit/CompilerPluginTests.php -text
 development/PHPunit/ConfigVarTests.php -text
 development/PHPunit/ConstantsTests.php -text
 development/PHPunit/CoreTests.php -text
@@ -45,6 +46,9 @@ development/PHPunit/FunctionTests.php -text
 development/PHPunit/GetTemplateVarsTests.php -text
 development/PHPunit/LoadFilterTests.php -text
 development/PHPunit/ModifierTests.php -text
+development/PHPunit/PHPunitplugins/block.testblock.php -text
+development/PHPunit/PHPunitplugins/compiler.test.php -text
+development/PHPunit/PHPunitplugins/compiler.testclose.php -text
 development/PHPunit/PhpResourceTests.php -text
 development/PHPunit/PrintNocacheTests.php -text
 development/PHPunit/RegisterBlockTests.php -text
@@ -351,6 +355,7 @@ development/Smarty3Doc/PHPunit/_development---PHPunit---TriggerErrorTests.php.ht
 development/Smarty3Doc/PHPunit/_development---PHPunit---VariableScopeTests.php.html -text
 development/Smarty3Doc/PHPunit/_development---PHPunit---VariableVariableTests.php.html -text
 development/Smarty3Doc/PHPunit/_development---PHPunit---XmlTests.php.html -text
+development/Smarty3Doc/PHPunit/_development---PHPunit---smartysingletests.php.html -text
 development/Smarty3Doc/PHPunit/_development---PHPunit---smartytests.php.html -text
 development/Smarty3Doc/PHPunit/myblockclass.html -text
 development/Smarty3Doc/PHPunit/mycompilerfunctionclass.html -text
