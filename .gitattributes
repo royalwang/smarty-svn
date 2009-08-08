@@ -826,7 +826,6 @@ distribution/libs/plugins/outputfilter.trimwhitespace.php -text
 distribution/libs/plugins/shared.escape_special_chars.php -text
 distribution/libs/plugins/shared.make_timestamp.php -text
 distribution/libs/plugins/variablefilter.htmlspecialchars.php -text
-distribution/libs/sysplugins/internal.base.php -text
 distribution/libs/sysplugins/internal.cacher_inlinecode.php -text
 distribution/libs/sysplugins/internal.cacheresource_file.php -text
 distribution/libs/sysplugins/internal.compile_append.php -text
@@ -878,7 +877,6 @@ distribution/libs/sysplugins/internal.configfileparser.php -text
 distribution/libs/sysplugins/internal.debug.php -text
 distribution/libs/sysplugins/internal.phpvariableobjects.php -text
 distribution/libs/sysplugins/internal.plugin_handler.php -text
-distribution/libs/sysplugins/internal.pluginbase.php -text
 distribution/libs/sysplugins/internal.resource_extend.php -text
 distribution/libs/sysplugins/internal.resource_file.php -text
 distribution/libs/sysplugins/internal.resource_php.php -text
