@@ -780,6 +780,10 @@ development/lexer/internal.templateparser.y -text
 distribution/README -text
 distribution/change_log.txt -text
 distribution/demo/index.php -text
+distribution/demo/index_php_template.php -text
+distribution/demo/templates/footer.tpl -text
+distribution/demo/templates/header.tpl -text
+distribution/demo/templates/index.tpl -text
 distribution/demo/templates/index_view.php -text
 distribution/libs/Security.class.php -text
 distribution/libs/Smarty.class.php -text
