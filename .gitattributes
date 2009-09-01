@@ -815,7 +815,6 @@ distribution/libs/plugins/modifier.default.php -text
 distribution/libs/plugins/modifier.escape.php -text
 distribution/libs/plugins/modifier.indent.php -text
 distribution/libs/plugins/modifier.lower.php -text
-distribution/libs/plugins/modifier.nl2br.php -text
 distribution/libs/plugins/modifier.noprint.php -text
 distribution/libs/plugins/modifier.regex_replace.php -text
 distribution/libs/plugins/modifier.replace.php -text
@@ -965,7 +964,6 @@ distribution/libs/sysplugins/method.setdebugtemplate.php -text
 distribution/libs/sysplugins/method.setpluginsdir.php -text
 distribution/libs/sysplugins/method.template_exists.php -text
 distribution/libs/sysplugins/method.test.php -text
-distribution/libs/sysplugins/method.trigger_error.php -text
 distribution/libs/sysplugins/method.unregister_block.php -text
 distribution/libs/sysplugins/method.unregister_compiler_function.php -text
 distribution/libs/sysplugins/method.unregister_function.php -text
