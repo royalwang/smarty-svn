@@ -50,7 +50,6 @@ development/PHPunit/ModifierTests.php -text
 development/PHPunit/PHPunitplugins/block.testblock.php -text
 development/PHPunit/PHPunitplugins/compiler.test.php -text
 development/PHPunit/PHPunitplugins/compiler.testclose.php -text
-development/PHPunit/PhpResourceTests.php -text
 development/PHPunit/PrintNocacheTests.php -text
 development/PHPunit/RegisterBlockTests.php -text
 development/PHPunit/RegisterCompilerFunctionTests.php -text
@@ -147,10 +146,8 @@ development/PHPunit/coverage/distribution_libs_sysplugins_internal.config_file_c
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.configfilelexer.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.configfileparser.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.debug.php.html -text
-development/PHPunit/coverage/distribution_libs_sysplugins_internal.phpvariableobjects.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.plugin_handler.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_file.php.html -text
-development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_php.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_stream.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_string.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.run_filter.php.html -text
