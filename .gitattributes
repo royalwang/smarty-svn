@@ -714,6 +714,7 @@ distribution/demo/templates/index_view.php -text
 distribution/libs/Security.class.php -text
 distribution/libs/Smarty.class.php -text
 distribution/libs/debug.tpl -text
+distribution/libs/plugins/block.php.php -text
 distribution/libs/plugins/block.textformat.php -text
 distribution/libs/plugins/function.counter.php -text
 distribution/libs/plugins/function.cycle.php -text
@@ -804,11 +805,9 @@ distribution/libs/sysplugins/internal.config_file_compiler.php -text
 distribution/libs/sysplugins/internal.configfilelexer.php -text
 distribution/libs/sysplugins/internal.configfileparser.php -text
 distribution/libs/sysplugins/internal.debug.php -text
-distribution/libs/sysplugins/internal.phpvariableobjects.php -text
 distribution/libs/sysplugins/internal.plugin_handler.php -text
 distribution/libs/sysplugins/internal.resource_extend.php -text
 distribution/libs/sysplugins/internal.resource_file.php -text
-distribution/libs/sysplugins/internal.resource_php.php -text
 distribution/libs/sysplugins/internal.resource_registered.php -text
 distribution/libs/sysplugins/internal.resource_stream.php -text
 distribution/libs/sysplugins/internal.resource_string.php -text
