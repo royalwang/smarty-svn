@@ -805,6 +805,7 @@ distribution/libs/sysplugins/internal.debug.php -text
 distribution/libs/sysplugins/internal.plugin_handler.php -text
 distribution/libs/sysplugins/internal.resource_extend.php -text
 distribution/libs/sysplugins/internal.resource_file.php -text
+distribution/libs/sysplugins/internal.resource_php.php -text
 distribution/libs/sysplugins/internal.resource_registered.php -text
 distribution/libs/sysplugins/internal.resource_stream.php -text
 distribution/libs/sysplugins/internal.resource_string.php -text
