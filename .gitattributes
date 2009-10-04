@@ -812,6 +812,7 @@ distribution/libs/sysplugins/internal.templatecompilerbase.php -text
 distribution/libs/sysplugins/internal.templatelexer.php -text
 distribution/libs/sysplugins/internal.templateparser.php -text
 distribution/libs/sysplugins/internal.write_file.php -text
+distribution/libs/sysplugins/method._get_filter_name.php -text
 distribution/libs/sysplugins/method.addpluginsdir.php -text
 distribution/libs/sysplugins/method.clear_all_assign.php -text
 distribution/libs/sysplugins/method.clear_all_cache.php -text
