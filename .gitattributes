@@ -50,13 +50,14 @@ development/PHPunit/ModifierTests.php -text
 development/PHPunit/PHPunitplugins/block.testblock.php -text
 development/PHPunit/PHPunitplugins/compiler.test.php -text
 development/PHPunit/PHPunitplugins/compiler.testclose.php -text
+development/PHPunit/PHPunitplugins/resource.db.php -text
+development/PHPunit/PhpResourceTests.php -text
 development/PHPunit/PrintNocacheTests.php -text
 development/PHPunit/RegisterBlockTests.php -text
 development/PHPunit/RegisterCompilerFunctionTests.php -text
 development/PHPunit/RegisterFilterTests.php -text
 development/PHPunit/RegisterFunctionTests.php -text
 development/PHPunit/RegisterModifierTests.php -text
-development/PHPunit/ResourceTests.php -text
 development/PHPunit/SecurityTests.php -text
 development/PHPunit/SingleQuotedStringTests.php -text
 development/PHPunit/SpacingTests.php -text
@@ -90,6 +91,7 @@ development/PHPunit/coverage/distribution_libs.html -text
 development/PHPunit/coverage/distribution_libs_Security.class.php.html -text
 development/PHPunit/coverage/distribution_libs_Smarty.class.php.html -text
 development/PHPunit/coverage/distribution_libs_plugins.html -text
+development/PHPunit/coverage/distribution_libs_plugins_block.php.php.html -text
 development/PHPunit/coverage/distribution_libs_plugins_block.textformat.php.html -text
 development/PHPunit/coverage/distribution_libs_plugins_function.counter.php.html -text
 development/PHPunit/coverage/distribution_libs_plugins_modifier.debug_print_var.php.html -text
@@ -147,7 +149,9 @@ development/PHPunit/coverage/distribution_libs_sysplugins_internal.configfilelex
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.configfileparser.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.debug.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.plugin_handler.php.html -text
+development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_extend.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_file.php.html -text
+development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_php.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_stream.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.resource_string.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.run_filter.php.html -text
@@ -159,6 +163,7 @@ development/PHPunit/coverage/distribution_libs_sysplugins_internal.templatecompi
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.templatelexer.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.templateparser.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_internal.write_file.php.html -text
+development/PHPunit/coverage/distribution_libs_sysplugins_method._get_filter_name.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_method.clear_all_cache.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_method.clear_cache.php.html -text
 development/PHPunit/coverage/distribution_libs_sysplugins_method.clear_compiled_tpl.php.html -text
@@ -202,6 +207,7 @@ development/PHPunit/templates/helloworld.tpl -text
 development/PHPunit/templates/phphelloworld.php -text
 development/PHPunit/templates/test_block.tpl -text
 development/PHPunit/templates/test_block_base.tpl -text
+development/PHPunit/templates/test_block_include.tpl -text
 development/PHPunit/templates/test_block_section.tpl -text
 development/PHPunit/templates/test_define_function_tag.tpl -text
 development/PHPunit/templates/test_inherit_function_tag.tpl -text
