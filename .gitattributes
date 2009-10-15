@@ -702,6 +702,7 @@ development/lexer/internal.templateparser.php -text
 development/lexer/internal.templateparser.y -text
 distribution/README -text
 distribution/change_log.txt -text
+distribution/demo/configs/test.conf -text
 distribution/demo/index.php -text
 distribution/demo/index_php_template.php -text
 distribution/demo/templates/footer.tpl -text
