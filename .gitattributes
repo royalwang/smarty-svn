@@ -827,6 +827,7 @@ distribution/libs/sysplugins/method.clear_assign.php -text
 distribution/libs/sysplugins/method.clear_cache.php -text
 distribution/libs/sysplugins/method.clear_compiled_tpl.php -text
 distribution/libs/sysplugins/method.clear_config.php -text
+distribution/libs/sysplugins/method.compile_directory.php -text
 distribution/libs/sysplugins/method.config_load.php -text
 distribution/libs/sysplugins/method.disablecachemodifycheck.php -text
 distribution/libs/sysplugins/method.disablecaching.php -text
