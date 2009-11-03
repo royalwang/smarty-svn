@@ -786,7 +786,6 @@ distribution/demo/templates/footer.tpl -text
 distribution/demo/templates/header.tpl -text
 distribution/demo/templates/index.tpl -text
 distribution/demo/templates/index_view.php -text
-distribution/libs/Security.class.php -text
 distribution/libs/Smarty.class.php -text
 distribution/libs/debug.tpl -text
 distribution/libs/plugins/block.php.php -text
@@ -962,3 +961,4 @@ distribution/libs/sysplugins/smarty_method_unregister_postfilter.php -text
 distribution/libs/sysplugins/smarty_method_unregister_prefilter.php -text
 distribution/libs/sysplugins/smarty_method_unregister_resource.php -text
 distribution/libs/sysplugins/smarty_method_unregister_variablefilter.php -text
+distribution/libs/sysplugins/smarty_security.php -text
