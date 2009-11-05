@@ -889,7 +889,6 @@ distribution/libs/sysplugins/smarty_method_clear_cache.php -text
 distribution/libs/sysplugins/smarty_method_clear_compiled_tpl.php -text
 distribution/libs/sysplugins/smarty_method_clear_config.php -text
 distribution/libs/sysplugins/smarty_method_compile_directory.php -text
-distribution/libs/sysplugins/smarty_method_config_load.php -text
 distribution/libs/sysplugins/smarty_method_disablecachemodifycheck.php -text
 distribution/libs/sysplugins/smarty_method_disablecaching.php -text
 distribution/libs/sysplugins/smarty_method_disablecompilecheck.php -text
