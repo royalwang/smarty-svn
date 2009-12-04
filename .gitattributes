@@ -14,4 +14,5 @@ development/Smarty3Doc/Smarty/Security/Smarty_Security_Policy.html -text
 development/lexer/LexerGenerator.php -text
 development/lexer/ParserGenerator.php -text
 development/lexer/smarty_internal_templateparser.php -text
+distribution/SMARTY2_BC_NOTES -text
 distribution/libs/sysplugins/smarty_internal_templateparser.php -text
