@@ -12,6 +12,7 @@ development/PHPunit/coverage/sysplugins_smarty_internal_resource_extends.php.htm
 development/PHPunit/test_results.txt -text
 development/Smarty3Doc/Smarty/Security/Smarty_Security_Policy.html -text
 development/lexer/LexerGenerator.php -text
+development/lexer/LexerGenerator/ParserOriginal.php -text
 development/lexer/ParserGenerator.php -text
 development/lexer/smarty_internal_templateparser.php -text
 distribution/SMARTY2_BC_NOTES -text
