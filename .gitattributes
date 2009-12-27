@@ -16,4 +16,7 @@ development/lexer/LexerGenerator/ParserOriginal.php -text
 development/lexer/ParserGenerator.php -text
 development/lexer/smarty_internal_templateparser.php -text
 distribution/SMARTY2_BC_NOTES -text
+distribution/libs/sysplugins/smarty_internal_compile_private_modifier.php -text
+distribution/libs/sysplugins/smarty_internal_compile_private_registered_block.php -text
+distribution/libs/sysplugins/smarty_internal_compile_private_registered_function.php -text
 distribution/libs/sysplugins/smarty_internal_templateparser.php -text
