@@ -1,15 +1,6 @@
 * text=auto !eol
 development/Makefile -text
-development/PHPunit/coverage/butter.png -text
-development/PHPunit/coverage/chameleon.png -text
-development/PHPunit/coverage/close12_1.gif -text
-development/PHPunit/coverage/glass.png -text
-development/PHPunit/coverage/scarlet_red.png -text
-development/PHPunit/coverage/snow.png -text
-development/PHPunit/coverage/sysplugins_smarty_internal_compile_extends.php.html -text
-development/PHPunit/coverage/sysplugins_smarty_internal_compile_ldelim.php.html -text
-development/PHPunit/coverage/sysplugins_smarty_internal_compile_rdelim.php.html -text
-development/PHPunit/coverage/sysplugins_smarty_internal_resource_extends.php.html -text
+development/PHPunit/templates/helloworld2.tpl -text
 development/PHPunit/test_results.txt -text
 development/Smarty3Doc/Smarty/Security/Smarty_Security_Policy.html -text
 development/dev_settings.php -text
