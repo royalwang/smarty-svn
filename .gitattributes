@@ -1,6 +1,9 @@
 * text=auto !eol
 development/Makefile -text
 development/PHPunit/templates/helloworld2.tpl -text
+development/PHPunit/templates/template_function_lib.tpl -text
+development/PHPunit/templates/test_template_function.tpl -text
+development/PHPunit/templates/test_template_function_nocache_call.tpl -text
 development/PHPunit/test_results.txt -text
 development/Smarty3Doc/PHPunit/AppendByRefTests.html -text
 development/Smarty3Doc/PHPunit/AppendTests.html -text
