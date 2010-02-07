@@ -444,9 +444,14 @@ development/lexer/ParserGenerator.php -text
 development/lexer/smarty_internal_templateparser.php -text
 development/lexer/smarty_internal_templateparser.y -text
 distribution/SMARTY2_BC_NOTES -text
+distribution/libs/sysplugins/smarty_internal_cache.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_modifier.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_registered_block.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_registered_function.php -text
 distribution/libs/sysplugins/smarty_internal_function_call_handler.php -text
+distribution/libs/sysplugins/smarty_internal_register.php -text
 distribution/libs/sysplugins/smarty_internal_templatecompilerbase.php -text
 distribution/libs/sysplugins/smarty_internal_templateparser.php -text
+distribution/libs/sysplugins/smarty_internal_unregister.php -text
+distribution/libs/sysplugins/smarty_internal_utility.php -text
+distribution/libs/sysplugins/smarty_internal_wrapper.php -text
