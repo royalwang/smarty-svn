@@ -372,6 +372,7 @@ development/Smarty3Doc/media/banner.css -text
 development/Smarty3Doc/media/stylesheet.css -text
 development/Smarty3Doc/packages.html -text
 development/Smarty3Doc/todolist.html -text
+development/TestScripts/templates/test_parser.tpl -text
 development/dev_settings.php -text
 development/lexer/LexerGenerator.php -text
 development/lexer/LexerGenerator/ParserOriginal.php -text
