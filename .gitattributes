@@ -1,6 +1,8 @@
 * text=auto !eol
 development/Makefile -text
 development/PHPunit/PHPunitplugins/insert.plugintest.php -text
+development/PHPunit/RegisteredResourceTests.php -text
+development/PHPunit/ResourcePluginTests.php -text
 development/PHPunit/templates/helloworld2.tpl -text
 development/PHPunit/templates/template_function_lib.tpl -text
 development/PHPunit/templates/test_inherit_function_tag6.tpl -text
