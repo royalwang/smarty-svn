@@ -618,9 +618,18 @@ documentation/en/designers/language-basic-syntax/language-syntax-functions.xml -
 documentation/en/designers/language-basic-syntax/language-syntax-quotes.xml -text
 documentation/en/designers/language-basic-syntax/language-syntax-variables.xml -text
 documentation/en/designers/language-builtin-functions.xml -text
+documentation/en/designers/language-builtin-functions/language-function-append.xml -text
+documentation/en/designers/language-builtin-functions/language-function-assign.xml -text
+documentation/en/designers/language-builtin-functions/language-function-block.xml -text
+documentation/en/designers/language-builtin-functions/language-function-call.xml -text
 documentation/en/designers/language-builtin-functions/language-function-capture.xml -text
 documentation/en/designers/language-builtin-functions/language-function-config-load.xml -text
+documentation/en/designers/language-builtin-functions/language-function-debug.xml -text
+documentation/en/designers/language-builtin-functions/language-function-extends.xml -text
+documentation/en/designers/language-builtin-functions/language-function-for.xml -text
 documentation/en/designers/language-builtin-functions/language-function-foreach.xml -text
+documentation/en/designers/language-builtin-functions/language-function-foreach_new.xml -text
+documentation/en/designers/language-builtin-functions/language-function-function.xml -text
 documentation/en/designers/language-builtin-functions/language-function-if.xml -text
 documentation/en/designers/language-builtin-functions/language-function-include-php.xml -text
 documentation/en/designers/language-builtin-functions/language-function-include.xml -text
@@ -629,10 +638,10 @@ documentation/en/designers/language-builtin-functions/language-function-ldelim.x
 documentation/en/designers/language-builtin-functions/language-function-literal.xml -text
 documentation/en/designers/language-builtin-functions/language-function-php.xml -text
 documentation/en/designers/language-builtin-functions/language-function-section.xml -text
+documentation/en/designers/language-builtin-functions/language-function-shortform-assign.xml -text
 documentation/en/designers/language-builtin-functions/language-function-strip.xml -text
 documentation/en/designers/language-combining-modifiers.xml -text
 documentation/en/designers/language-custom-functions.xml -text
-documentation/en/designers/language-custom-functions/language-function-assign.xml -text
 documentation/en/designers/language-custom-functions/language-function-counter.xml -text
 documentation/en/designers/language-custom-functions/language-function-cycle.xml -text
 documentation/en/designers/language-custom-functions/language-function-debug.xml -text
@@ -685,6 +694,8 @@ documentation/en/programmers/advanced-features/advanced-features-objects.xml -te
 documentation/en/programmers/advanced-features/advanced-features-outputfilters.xml -text
 documentation/en/programmers/advanced-features/advanced-features-postfilters.xml -text
 documentation/en/programmers/advanced-features/advanced-features-prefilters.xml -text
+documentation/en/programmers/advanced-features/advanced-features-static-classes.xml -text
+documentation/en/programmers/advanced-features/advanced-features-template-inheritance.xml -text
 documentation/en/programmers/advanced-features/section-template-cache-handler-func.xml -text
 documentation/en/programmers/advanced-features/template-resources.xml -text
 documentation/en/programmers/api-functions.xml -text
@@ -727,6 +738,7 @@ documentation/en/programmers/api-functions/api-unregister-postfilter.xml -text
 documentation/en/programmers/api-functions/api-unregister-prefilter.xml -text
 documentation/en/programmers/api-functions/api-unregister-resource.xml -text
 documentation/en/programmers/api-variables.xml -text
+documentation/en/programmers/api-variables/variable-auto-literal.xml -text
 documentation/en/programmers/api-variables/variable-autoload-filters.xml -text
 documentation/en/programmers/api-variables/variable-cache-dir.xml -text
 documentation/en/programmers/api-variables/variable-cache-handler-func.xml -text
