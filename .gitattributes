@@ -697,6 +697,7 @@ documentation/en/programmers/advanced-features/advanced-features-outputfilters.x
 documentation/en/programmers/advanced-features/advanced-features-postfilters.xml -text
 documentation/en/programmers/advanced-features/advanced-features-prefilters.xml -text
 documentation/en/programmers/advanced-features/advanced-features-static-classes.xml -text
+documentation/en/programmers/advanced-features/advanced-features-streams.xml -text
 documentation/en/programmers/advanced-features/advanced-features-template-inheritance.xml -text
 documentation/en/programmers/advanced-features/section-template-cache-handler-func.xml -text
 documentation/en/programmers/advanced-features/template-resources.xml -text
