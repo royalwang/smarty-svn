@@ -714,6 +714,8 @@ documentation/en/programmers/api-functions/api-clear-cache.xml -text
 documentation/en/programmers/api-functions/api-clear-compiled-tpl.xml -text
 documentation/en/programmers/api-functions/api-clear-config.xml -text
 documentation/en/programmers/api-functions/api-config-load.xml -text
+documentation/en/programmers/api-functions/api-create-data.xml -text
+documentation/en/programmers/api-functions/api-create-template.xml -text
 documentation/en/programmers/api-functions/api-display.xml -text
 documentation/en/programmers/api-functions/api-fetch.xml -text
 documentation/en/programmers/api-functions/api-get-config-vars.xml -text
