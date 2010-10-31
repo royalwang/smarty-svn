@@ -684,6 +684,7 @@ documentation/en/designers/language-modifiers/language-modifier-wordwrap.xml -te
 documentation/en/designers/language-variables.xml -text
 documentation/en/designers/language-variables/language-assigned-variables.xml -text
 documentation/en/designers/language-variables/language-config-variables.xml -text
+documentation/en/designers/language-variables/language-variable-scopes.xml -text
 documentation/en/designers/language-variables/language-variables-smarty.xml -text
 documentation/en/getting-started.xml -text
 documentation/en/language-defs.ent -text
