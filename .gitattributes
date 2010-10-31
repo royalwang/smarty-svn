@@ -748,6 +748,7 @@ documentation/en/programmers/api-variables/variable-auto-literal.xml -text
 documentation/en/programmers/api-variables/variable-autoload-filters.xml -text
 documentation/en/programmers/api-variables/variable-cache-dir.xml -text
 documentation/en/programmers/api-variables/variable-cache-handler-func.xml -text
+documentation/en/programmers/api-variables/variable-cache-id.xml -text
 documentation/en/programmers/api-variables/variable-cache-lifetime.xml -text
 documentation/en/programmers/api-variables/variable-cache-modified-check.xml -text
 documentation/en/programmers/api-variables/variable-caching.xml -text
