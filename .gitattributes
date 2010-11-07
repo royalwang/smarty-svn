@@ -701,6 +701,7 @@ documentation/en/programmers/advanced-features/advanced-features-security.xml -t
 documentation/en/programmers/advanced-features/advanced-features-static-classes.xml -text
 documentation/en/programmers/advanced-features/advanced-features-streams.xml -text
 documentation/en/programmers/advanced-features/advanced-features-template-inheritance.xml -text
+documentation/en/programmers/advanced-features/advanced-features-template-settings.xml -text
 documentation/en/programmers/advanced-features/section-template-cache-handler-func.xml -text
 documentation/en/programmers/advanced-features/template-resources.xml -text
 documentation/en/programmers/api-functions.xml -text
