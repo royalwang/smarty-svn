@@ -628,7 +628,6 @@ documentation/en/designers/language-builtin-functions/language-function-debug.xm
 documentation/en/designers/language-builtin-functions/language-function-extends.xml -text
 documentation/en/designers/language-builtin-functions/language-function-for.xml -text
 documentation/en/designers/language-builtin-functions/language-function-foreach.xml -text
-documentation/en/designers/language-builtin-functions/language-function-foreach_new.xml -text
 documentation/en/designers/language-builtin-functions/language-function-function.xml -text
 documentation/en/designers/language-builtin-functions/language-function-if.xml -text
 documentation/en/designers/language-builtin-functions/language-function-include-php.xml -text
