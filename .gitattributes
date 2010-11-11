@@ -731,7 +731,6 @@ documentation/en/programmers/api-functions/api-register-object.xml -text
 documentation/en/programmers/api-functions/api-register-plugin.xml -text
 documentation/en/programmers/api-functions/api-register-resource.xml -text
 documentation/en/programmers/api-functions/api-template-exists.xml -text
-documentation/en/programmers/api-functions/api-trigger-error.xml -text
 documentation/en/programmers/api-functions/api-unregister-filter.xml -text
 documentation/en/programmers/api-functions/api-unregister-object.xml -text
 documentation/en/programmers/api-functions/api-unregister-plugin.xml -text
@@ -764,7 +763,6 @@ documentation/en/programmers/api-variables/variable-debugging.xml -text
 documentation/en/programmers/api-variables/variable-default-modifiers.xml -text
 documentation/en/programmers/api-variables/variable-default-resource-type.xml -text
 documentation/en/programmers/api-variables/variable-default-template-handler-func.xml -text
-documentation/en/programmers/api-variables/variable-error-reporting.xml -text
 documentation/en/programmers/api-variables/variable-force-compile.xml -text
 documentation/en/programmers/api-variables/variable-left-delimiter.xml -text
 documentation/en/programmers/api-variables/variable-php-handling.xml -text
