@@ -62,6 +62,7 @@ development/lexer/LexerGenerator/ParserOriginal.php -text
 development/lexer/ParserGenerator.php -text
 development/lexer/smarty_internal_templateparser.php -text
 development/lexer/smarty_internal_templateparser.y -text
+distribution/COPYING.lib -text
 distribution/SMARTY2_BC_NOTES -text
 distribution/libs/plugins/modifiercompiler.cat.php -text
 distribution/libs/plugins/modifiercompiler.count_characters.php -text
