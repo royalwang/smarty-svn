@@ -258,7 +258,6 @@ distribution/libs/sysplugins/smarty_internal_filter.php -text
 distribution/libs/sysplugins/smarty_internal_function_call_handler.php -text
 distribution/libs/sysplugins/smarty_internal_nocache_insert.php -text
 distribution/libs/sysplugins/smarty_internal_parsetree.php -text
-distribution/libs/sysplugins/smarty_internal_plugin_loader.php -text
 distribution/libs/sysplugins/smarty_internal_register.php -text
 distribution/libs/sysplugins/smarty_internal_resource_eval.php -text
 distribution/libs/sysplugins/smarty_internal_templatecompilerbase.php -text
