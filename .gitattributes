@@ -6,7 +6,10 @@ development/PHPunit/EvalResourceTests.php -text
 development/PHPunit/PHPunitplugins/insert.insertplugintest.php -text
 development/PHPunit/RegisteredResourceTests.php -text
 development/PHPunit/ResourcePluginTests.php -text
+development/PHPunit/phpunit-tests-coverage.sh -text
 development/PHPunit/phpunit-tests-single.bat -text
+development/PHPunit/phpunit-tests-single.sh -text
+development/PHPunit/phpunit-tests.sh -text
 development/PHPunit/smartytestssingle.php -text
 development/PHPunit/templates/displayfoo.tpl -text
 development/PHPunit/templates/displayfoonocache.tpl -text

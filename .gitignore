@@ -1,5 +1,8 @@
 /Smarty3Doc
 development/PHPunit/cache
+development/PHPunit/cache/*
 development/PHPunit/coverage
+development/PHPunit/coverage/*
 development/PHPunit/templates_c
+development/PHPunit/templates_c/*
 /templates_c
