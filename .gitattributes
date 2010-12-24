@@ -269,6 +269,8 @@ distribution/libs/sysplugins/smarty_internal_templatecompilerbase.php -text
 distribution/libs/sysplugins/smarty_internal_templateparser.php -text
 distribution/libs/sysplugins/smarty_internal_utility.php -text
 distribution/libs/sysplugins/smarty_internal_wrapper.php -text
+distribution/libs/sysplugins/smarty_resource.php -text
+distribution/libs/sysplugins/smarty_resource_uncompiled.php -text
 documentation/Makefile -text
 documentation/README -text
 documentation/current_lang -text
