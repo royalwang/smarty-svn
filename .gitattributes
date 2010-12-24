@@ -1730,3 +1730,4 @@ documentation/ru/programmers/plugins/plugins-writing.xml -text
 documentation/ru/programmers/smarty-constants.xml -text
 documentation/scripts/makeweb.php -text
 documentation/scripts/revcheck.php -text
+/notes.md -text
