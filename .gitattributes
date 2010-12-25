@@ -6,6 +6,7 @@ development/PHPunit/EvalResourceTests.php -text
 development/PHPunit/PHPunitplugins/insert.insertplugintest.php -text
 development/PHPunit/PHPunitplugins/resource.db2.php -text
 development/PHPunit/PHPunitplugins/resource.db3.php -text
+development/PHPunit/PHPunitplugins/resource.db4.php -text
 development/PHPunit/RegisteredResourceTests.php -text
 development/PHPunit/ResourcePluginTests.php -text
 development/PHPunit/SharedFunctionsTests.php -text
