@@ -7,6 +7,8 @@ development/PHPunit/PHPunitplugins/insert.insertplugintest.php -text
 development/PHPunit/PHPunitplugins/resource.db2.php -text
 development/PHPunit/PHPunitplugins/resource.db3.php -text
 development/PHPunit/PHPunitplugins/resource.db4.php -text
+development/PHPunit/PHPunitplugins/resource.mysql.php -text
+development/PHPunit/PHPunitplugins/resource.mysqls.php -text
 development/PHPunit/RegisteredResourceTests.php -text
 development/PHPunit/ResourcePluginTests.php -text
 development/PHPunit/SharedFunctionsTests.php -text
@@ -273,6 +275,7 @@ distribution/libs/sysplugins/smarty_internal_templateparser.php -text
 distribution/libs/sysplugins/smarty_internal_utility.php -text
 distribution/libs/sysplugins/smarty_internal_wrapper.php -text
 distribution/libs/sysplugins/smarty_resource.php -text
+distribution/libs/sysplugins/smarty_resource_custom.php -text
 distribution/libs/sysplugins/smarty_resource_recompiled.php -text
 distribution/libs/sysplugins/smarty_resource_uncompiled.php -text
 documentation/Makefile -text
