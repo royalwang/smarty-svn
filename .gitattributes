@@ -1,10 +1,13 @@
 * text=auto !eol
 development/Makefile -text
 development/PHPunit/AttributeTests.php -text
+development/PHPunit/CacheResourceCustomMemcacheTests.php -text
 development/PHPunit/CacheResourceCustomMysqlTests.php -text
 development/PHPunit/CacheResourceCustomRegisteredTests.php -text
 development/PHPunit/CompileAppendTests.php -text
 development/PHPunit/EvalResourceTests.php -text
+development/PHPunit/PHPunitplugins/cacheresource.memcache.php -text
+development/PHPunit/PHPunitplugins/cacheresource.memcachetest.php -text
 development/PHPunit/PHPunitplugins/cacheresource.mysql.php -text
 development/PHPunit/PHPunitplugins/cacheresource.mysqltest.php -text
 development/PHPunit/PHPunitplugins/insert.insertplugintest.php -text
@@ -264,6 +267,7 @@ distribution/libs/plugins/modifiercompiler.upper.php -text
 distribution/libs/plugins/modifiercompiler.wordwrap.php -text
 distribution/libs/sysplugins/smarty_cacheresource.php -text
 distribution/libs/sysplugins/smarty_cacheresource_custom.php -text
+distribution/libs/sysplugins/smarty_cacheresource_keyvaluestore.php -text
 distribution/libs/sysplugins/smarty_internal_compile_break.php -text
 distribution/libs/sysplugins/smarty_internal_compile_continue.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_modifier.php -text
