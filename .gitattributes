@@ -2,6 +2,7 @@
 development/Makefile -text
 development/PHPunit/AttributeTests.php -text
 development/PHPunit/CacheResourceCustomMysqlTests.php -text
+development/PHPunit/CacheResourceCustomRegisteredTests.php -text
 development/PHPunit/CompileAppendTests.php -text
 development/PHPunit/EvalResourceTests.php -text
 development/PHPunit/PHPunitplugins/cacheresource.mysql.php -text
