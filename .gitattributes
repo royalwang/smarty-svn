@@ -1750,3 +1750,7 @@ documentation/ru/programmers/smarty-constants.xml -text
 documentation/scripts/makeweb.php -text
 documentation/scripts/revcheck.php -text
 /notes.md -text
+test/index.php -text
+test/plugins/function.classy.php -text
+test/plugins/function.classy_nocache.php -text
+test/templates/plugin.tpl -text
