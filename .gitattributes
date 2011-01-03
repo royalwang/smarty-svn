@@ -249,6 +249,7 @@ distribution/libs/plugins/modifiercompiler.strip.php -text
 distribution/libs/plugins/modifiercompiler.strip_tags.php -text
 distribution/libs/plugins/modifiercompiler.upper.php -text
 distribution/libs/plugins/modifiercompiler.wordwrap.php -text
+distribution/libs/plugins/shared.mb_str_replace.php -text
 distribution/libs/sysplugins/smarty_internal_compile_break.php -text
 distribution/libs/sysplugins/smarty_internal_compile_continue.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_modifier.php -text
