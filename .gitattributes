@@ -265,6 +265,7 @@ distribution/libs/plugins/modifiercompiler.strip.php -text
 distribution/libs/plugins/modifiercompiler.strip_tags.php -text
 distribution/libs/plugins/modifiercompiler.upper.php -text
 distribution/libs/plugins/modifiercompiler.wordwrap.php -text
+distribution/libs/plugins/shared.mb_str_replace.php -text
 distribution/libs/sysplugins/smarty_cacheresource.php -text
 distribution/libs/sysplugins/smarty_cacheresource_custom.php -text
 distribution/libs/sysplugins/smarty_cacheresource_keyvaluestore.php -text
@@ -622,7 +623,6 @@ documentation/en/programmers/api-variables/variable-compile-id.xml -text
 documentation/en/programmers/api-variables/variable-compiler-class.xml -text
 documentation/en/programmers/api-variables/variable-config-booleanize.xml -text
 documentation/en/programmers/api-variables/variable-config-dir.xml -text
-documentation/en/programmers/api-variables/variable-config-fix-newlines.xml -text
 documentation/en/programmers/api-variables/variable-config-overwrite.xml -text
 documentation/en/programmers/api-variables/variable-config-read-hidden.xml -text
 documentation/en/programmers/api-variables/variable-debug-template.xml -text
@@ -636,8 +636,6 @@ documentation/en/programmers/api-variables/variable-force-compile.xml -text
 documentation/en/programmers/api-variables/variable-left-delimiter.xml -text
 documentation/en/programmers/api-variables/variable-php-handling.xml -text
 documentation/en/programmers/api-variables/variable-plugins-dir.xml -text
-documentation/en/programmers/api-variables/variable-request-use-auto-globals.xml -text
-documentation/en/programmers/api-variables/variable-request-vars-order.xml -text
 documentation/en/programmers/api-variables/variable-right-delimiter.xml -text
 documentation/en/programmers/api-variables/variable-template-dir.xml -text
 documentation/en/programmers/api-variables/variable-trusted-dir.xml -text
