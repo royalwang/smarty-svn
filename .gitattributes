@@ -1750,3 +1750,5 @@ documentation/ru/programmers/smarty-constants.xml -text
 documentation/scripts/makeweb.php -text
 documentation/scripts/revcheck.php -text
 /notes.md -text
+testscripts/templates/test_parser.tpl -text
+testscripts/test_parser.php -text
