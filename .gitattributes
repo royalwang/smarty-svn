@@ -1320,7 +1320,6 @@ documentation/ja/programmers/api-variables/variable-compile-id.xml -text
 documentation/ja/programmers/api-variables/variable-compiler-class.xml -text
 documentation/ja/programmers/api-variables/variable-config-booleanize.xml -text
 documentation/ja/programmers/api-variables/variable-config-dir.xml -text
-documentation/ja/programmers/api-variables/variable-config-fix-newlines.xml -text
 documentation/ja/programmers/api-variables/variable-config-overwrite.xml -text
 documentation/ja/programmers/api-variables/variable-config-read-hidden.xml -text
 documentation/ja/programmers/api-variables/variable-debugging-ctrl.xml -text
@@ -1333,8 +1332,6 @@ documentation/ja/programmers/api-variables/variable-force-compile.xml -text
 documentation/ja/programmers/api-variables/variable-left-delimiter.xml -text
 documentation/ja/programmers/api-variables/variable-php-handling.xml -text
 documentation/ja/programmers/api-variables/variable-plugins-dir.xml -text
-documentation/ja/programmers/api-variables/variable-request-use-auto-globals.xml -text
-documentation/ja/programmers/api-variables/variable-request-vars-order.xml -text
 documentation/ja/programmers/api-variables/variable-right-delimiter.xml -text
 documentation/ja/programmers/api-variables/variable-template-dir.xml -text
 documentation/ja/programmers/api-variables/variable-trusted-dir.xml -text
