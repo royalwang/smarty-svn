@@ -16,6 +16,7 @@ development/PHPunit/PHPunitplugins/resource.db3.php -text
 development/PHPunit/PHPunitplugins/resource.db4.php -text
 development/PHPunit/PHPunitplugins/resource.mysql.php -text
 development/PHPunit/PHPunitplugins/resource.mysqls.php -text
+development/PHPunit/PluginBlockTextformatTests.php -text
 development/PHPunit/PluginModifierCapitalizeTests.php -text
 development/PHPunit/PluginModifierCountSentencesTests.php -text
 development/PHPunit/PluginModifierEscapeTests.php -text
