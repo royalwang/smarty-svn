@@ -19,6 +19,7 @@ development/PHPunit/PHPunitplugins/resource.mysqls.php -text
 development/PHPunit/PluginBlockTextformatTests.php -text
 development/PHPunit/PluginFunctionMailtoTests.php -text
 development/PHPunit/PluginModifierCapitalizeTests.php -text
+development/PHPunit/PluginModifierCountCharactersTests.php -text
 development/PHPunit/PluginModifierCountSentencesTests.php -text
 development/PHPunit/PluginModifierEscapeTests.php -text
 development/PHPunit/PluginModifierRegexReplaceTests.php -text
