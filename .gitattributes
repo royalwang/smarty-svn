@@ -28,6 +28,7 @@ development/PHPunit/PluginModifierRegexReplaceTests.php -text
 development/PHPunit/PluginModifierSpacifyTests.php -text
 development/PHPunit/PluginModifierStripTests.php -text
 development/PHPunit/PluginModifierTruncateTests.php -text
+development/PHPunit/PluginModifierUnescapeTests.php -text
 development/PHPunit/PluginModifierUpperTests.php -text
 development/PHPunit/PluginModifierWordwrapTests.php -text
 development/PHPunit/RegisteredResourceTests.php -text
@@ -277,6 +278,7 @@ distribution/libs/plugins/modifiercompiler.noprint.php -text
 distribution/libs/plugins/modifiercompiler.string_format.php -text
 distribution/libs/plugins/modifiercompiler.strip.php -text
 distribution/libs/plugins/modifiercompiler.strip_tags.php -text
+distribution/libs/plugins/modifiercompiler.unescape.php -text
 distribution/libs/plugins/modifiercompiler.upper.php -text
 distribution/libs/plugins/modifiercompiler.wordwrap.php -text
 distribution/libs/plugins/shared.mb_str_replace.php -text
