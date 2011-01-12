@@ -19,6 +19,7 @@ development/PHPunit/PHPunitplugins/resource.mysqls.php -text
 development/PHPunit/PluginBlockTextformatTests.php -text
 development/PHPunit/PluginFunctionMailtoTests.php -text
 development/PHPunit/PluginModifierCapitalizeTests.php -text
+development/PHPunit/PluginModifierCharsetTests.php -text
 development/PHPunit/PluginModifierCountCharactersTests.php -text
 development/PHPunit/PluginModifierCountSentencesTests.php -text
 development/PHPunit/PluginModifierCountWordsTests.php -text
@@ -272,12 +273,14 @@ distribution/libs/plugins/modifiercompiler.count_paragraphs.php -text
 distribution/libs/plugins/modifiercompiler.count_sentences.php -text
 distribution/libs/plugins/modifiercompiler.count_words.php -text
 distribution/libs/plugins/modifiercompiler.default.php -text
+distribution/libs/plugins/modifiercompiler.from_charset.php -text
 distribution/libs/plugins/modifiercompiler.indent.php -text
 distribution/libs/plugins/modifiercompiler.lower.php -text
 distribution/libs/plugins/modifiercompiler.noprint.php -text
 distribution/libs/plugins/modifiercompiler.string_format.php -text
 distribution/libs/plugins/modifiercompiler.strip.php -text
 distribution/libs/plugins/modifiercompiler.strip_tags.php -text
+distribution/libs/plugins/modifiercompiler.to_charset.php -text
 distribution/libs/plugins/modifiercompiler.unescape.php -text
 distribution/libs/plugins/modifiercompiler.upper.php -text
 distribution/libs/plugins/modifiercompiler.wordwrap.php -text
