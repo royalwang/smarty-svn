@@ -21,6 +21,7 @@ development/PHPunit/PluginFunctionMailtoTests.php -text
 development/PHPunit/PluginModifierCapitalizeTests.php -text
 development/PHPunit/PluginModifierCountCharactersTests.php -text
 development/PHPunit/PluginModifierCountSentencesTests.php -text
+development/PHPunit/PluginModifierCountWordsTests.php -text
 development/PHPunit/PluginModifierEscapeTests.php -text
 development/PHPunit/PluginModifierRegexReplaceTests.php -text
 development/PHPunit/PluginModifierSpacifyTests.php -text
