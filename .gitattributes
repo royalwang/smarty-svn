@@ -273,6 +273,7 @@ distribution/libs/plugins/modifiercompiler.count_paragraphs.php -text
 distribution/libs/plugins/modifiercompiler.count_sentences.php -text
 distribution/libs/plugins/modifiercompiler.count_words.php -text
 distribution/libs/plugins/modifiercompiler.default.php -text
+distribution/libs/plugins/modifiercompiler.escape.php -text
 distribution/libs/plugins/modifiercompiler.from_charset.php -text
 distribution/libs/plugins/modifiercompiler.indent.php -text
 distribution/libs/plugins/modifiercompiler.lower.php -text
@@ -284,6 +285,7 @@ distribution/libs/plugins/modifiercompiler.to_charset.php -text
 distribution/libs/plugins/modifiercompiler.unescape.php -text
 distribution/libs/plugins/modifiercompiler.upper.php -text
 distribution/libs/plugins/modifiercompiler.wordwrap.php -text
+distribution/libs/plugins/shared.literal_compiler_param.php -text
 distribution/libs/plugins/shared.mb_str_replace.php -text
 distribution/libs/plugins/shared.mb_unicode.php -text
 distribution/libs/plugins/shared.mb_wordwrap.php -text
