@@ -6,6 +6,7 @@ development/PHPunit/CacheResourceCustomMysqlTests.php -text
 development/PHPunit/CacheResourceCustomRegisteredTests.php -text
 development/PHPunit/CompileAppendTests.php -text
 development/PHPunit/EvalResourceTests.php -text
+development/PHPunit/IndexedFileResourceTests.php -text
 development/PHPunit/PHPunitplugins/cacheresource.memcache.php -text
 development/PHPunit/PHPunitplugins/cacheresource.memcachetest.php -text
 development/PHPunit/PHPunitplugins/cacheresource.mysql.php -text
@@ -40,6 +41,7 @@ development/PHPunit/phpunit-tests-single.bat -text
 development/PHPunit/phpunit-tests-single.sh -text
 development/PHPunit/phpunit-tests.sh -text
 development/PHPunit/smartytestssingle.php -text
+development/PHPunit/templates/dirname.tpl -text
 development/PHPunit/templates/displayfoo.tpl -text
 development/PHPunit/templates/displayfoonocache.tpl -text
 development/PHPunit/templates/displayfoonocachenofilter.tpl -text
@@ -87,6 +89,9 @@ development/PHPunit/templates/test_template_function_tag4.tpl -text
 development/PHPunit/templates/test_template_function_tag5.tpl -text
 development/PHPunit/templates/test_template_function_tag6.tpl -text
 development/PHPunit/templates/test_template_function_tag7.tpl -text
+development/PHPunit/templates_2/dirname.tpl -text
+development/PHPunit/templates_3/dirname.tpl -text
+development/PHPunit/templates_4/dirname.tpl -text
 development/PHPunit/test_results.txt -text
 development/Smarty3Doc/Smarty/Cacher/Smarty_Internal_CacheResource_File.html -text
 development/Smarty3Doc/Smarty/Cacher/_libs---sysplugins---smarty_internal_cacheresource_file.php.html -text
