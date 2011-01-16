@@ -317,6 +317,7 @@ distribution/libs/sysplugins/smarty_resource.php -text
 distribution/libs/sysplugins/smarty_resource_custom.php -text
 distribution/libs/sysplugins/smarty_resource_recompiled.php -text
 distribution/libs/sysplugins/smarty_resource_uncompiled.php -text
+distribution/libs/sysplugins/smarty_template_cached.php -text
 distribution/libs/sysplugins/smarty_template_compiled.php -text
 distribution/libs/sysplugins/smarty_template_source.php -text
 documentation/Makefile -text
