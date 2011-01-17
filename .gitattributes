@@ -6,6 +6,7 @@ development/PHPunit/CacheResourceCustomMysqlTests.php -text
 development/PHPunit/CacheResourceCustomRegisteredTests.php -text
 development/PHPunit/CompileAppendTests.php -text
 development/PHPunit/EvalResourceTests.php -text
+development/PHPunit/HttpModifiedSinceTests.php -text
 development/PHPunit/IndexedFileResourceTests.php -text
 development/PHPunit/PHPunitplugins/cacheresource.memcache.php -text
 development/PHPunit/PHPunitplugins/cacheresource.memcachetest.php -text
