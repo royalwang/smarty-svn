@@ -5,6 +5,7 @@ development/PHPunit/CacheResourceCustomMemcacheTests.php -text
 development/PHPunit/CacheResourceCustomMysqlTests.php -text
 development/PHPunit/CacheResourceCustomRegisteredTests.php -text
 development/PHPunit/CompileAppendTests.php -text
+development/PHPunit/DefaultConfigHandlerTests.php -text
 development/PHPunit/EvalResourceTests.php -text
 development/PHPunit/HttpModifiedSinceTests.php -text
 development/PHPunit/IndexedFileResourceTests.php -text
@@ -298,6 +299,7 @@ distribution/libs/plugins/shared.mb_wordwrap.php -text
 distribution/libs/sysplugins/smarty_cacheresource.php -text
 distribution/libs/sysplugins/smarty_cacheresource_custom.php -text
 distribution/libs/sysplugins/smarty_cacheresource_keyvaluestore.php -text
+distribution/libs/sysplugins/smarty_config_source.php -text
 distribution/libs/sysplugins/smarty_internal_compile_break.php -text
 distribution/libs/sysplugins/smarty_internal_compile_continue.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_modifier.php -text
