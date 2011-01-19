@@ -92,6 +92,7 @@ development/PHPunit/templates/test_template_function_tag5.tpl -text
 development/PHPunit/templates/test_template_function_tag6.tpl -text
 development/PHPunit/templates/test_template_function_tag7.tpl -text
 development/PHPunit/templates_2/dirname.tpl -text
+development/PHPunit/templates_2/helloworld.php -text
 development/PHPunit/templates_3/dirname.tpl -text
 development/PHPunit/templates_4/dirname.tpl -text
 development/PHPunit/test_results.txt -text
