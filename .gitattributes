@@ -21,6 +21,7 @@ development/PHPunit/PHPunitplugins/resource.db4.php -text
 development/PHPunit/PHPunitplugins/resource.mysql.php -text
 development/PHPunit/PHPunitplugins/resource.mysqls.php -text
 development/PHPunit/PluginBlockTextformatTests.php -text
+development/PHPunit/PluginFunctionHtmlSelectDateTests.php -text
 development/PHPunit/PluginFunctionMailtoTests.php -text
 development/PHPunit/PluginModifierCapitalizeTests.php -text
 development/PHPunit/PluginModifierCharsetTests.php -text
