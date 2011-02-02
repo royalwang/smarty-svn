@@ -3,6 +3,7 @@ development/PHPunit/coverage/*
 development/PHPunit/phpunit-tests-file.sh
 development/PHPunit/smartytestsfile.php
 development/PHPunit/templates_c/*
+development/PHPunit/test_results.txt
 /test
 testscripts/cache/*
 testscripts/templates_c/*

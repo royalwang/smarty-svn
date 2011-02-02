@@ -99,7 +99,6 @@ development/PHPunit/templates_2/dirname.tpl -text
 development/PHPunit/templates_2/helloworld.php -text
 development/PHPunit/templates_3/dirname.tpl -text
 development/PHPunit/templates_4/dirname.tpl -text
-development/PHPunit/test_results.txt -text
 development/Smarty3Doc/Smarty/Cacher/Smarty_Internal_CacheResource_File.html -text
 development/Smarty3Doc/Smarty/Cacher/_libs---sysplugins---smarty_internal_cacheresource_file.php.html -text
 development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Append.html -text
