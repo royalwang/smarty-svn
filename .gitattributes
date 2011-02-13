@@ -85,6 +85,9 @@ development/PHPunit/templates/test_block_parent_shorttag.tpl -text
 development/PHPunit/templates/test_block_parent_smartychild.tpl -text
 development/PHPunit/templates/test_capture_nocache.tpl -text
 development/PHPunit/templates/test_inherit_function_tag6.tpl -text
+development/PHPunit/templates/test_recursive_includes.tpl -text
+development/PHPunit/templates/test_recursive_includes2.tpl -text
+development/PHPunit/templates/test_recursive_includes_pass.tpl -text
 development/PHPunit/templates/test_template_function.tpl -text
 development/PHPunit/templates/test_template_function_nocache_call.tpl -text
 development/PHPunit/templates/test_template_function_tag1.tpl -text
