@@ -287,6 +287,7 @@ distribution/demo/plugins/cacheresource.memcache.php -text
 distribution/demo/plugins/cacheresource.mysql.php -text
 distribution/demo/plugins/resource.mysql.php -text
 distribution/demo/plugins/resource.mysqls.php -text
+distribution/libs/SmartyBC.class.php -text
 distribution/libs/plugins/modifiercompiler.cat.php -text
 distribution/libs/plugins/modifiercompiler.count_characters.php -text
 distribution/libs/plugins/modifiercompiler.count_paragraphs.php -text
@@ -327,7 +328,6 @@ distribution/libs/sysplugins/smarty_internal_templatebase.php -text
 distribution/libs/sysplugins/smarty_internal_templatecompilerbase.php -text
 distribution/libs/sysplugins/smarty_internal_templateparser.php -text
 distribution/libs/sysplugins/smarty_internal_utility.php -text
-distribution/libs/sysplugins/smarty_internal_wrapper.php -text
 distribution/libs/sysplugins/smarty_resource.php -text
 distribution/libs/sysplugins/smarty_resource_custom.php -text
 distribution/libs/sysplugins/smarty_resource_recompiled.php -text
