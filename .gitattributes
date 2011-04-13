@@ -580,6 +580,7 @@ documentation/en/designers/language-modifiers/language-modifier-count-words.xml 
 documentation/en/designers/language-modifiers/language-modifier-date-format.xml -text
 documentation/en/designers/language-modifiers/language-modifier-default.xml -text
 documentation/en/designers/language-modifiers/language-modifier-escape.xml -text
+documentation/en/designers/language-modifiers/language-modifier-from-charset.xml -text
 documentation/en/designers/language-modifiers/language-modifier-indent.xml -text
 documentation/en/designers/language-modifiers/language-modifier-lower.xml -text
 documentation/en/designers/language-modifiers/language-modifier-nl2br.xml -text
@@ -589,7 +590,9 @@ documentation/en/designers/language-modifiers/language-modifier-spacify.xml -tex
 documentation/en/designers/language-modifiers/language-modifier-string-format.xml -text
 documentation/en/designers/language-modifiers/language-modifier-strip-tags.xml -text
 documentation/en/designers/language-modifiers/language-modifier-strip.xml -text
+documentation/en/designers/language-modifiers/language-modifier-to-charset.xml -text
 documentation/en/designers/language-modifiers/language-modifier-truncate.xml -text
+documentation/en/designers/language-modifiers/language-modifier-unescape.xml -text
 documentation/en/designers/language-modifiers/language-modifier-upper.xml -text
 documentation/en/designers/language-modifiers/language-modifier-wordwrap.xml -text
 documentation/en/designers/language-variables.xml -text
@@ -688,6 +691,7 @@ documentation/en/programmers/caching/caching-cacheable.xml -text
 documentation/en/programmers/caching/caching-groups.xml -text
 documentation/en/programmers/caching/caching-multiple-caches.xml -text
 documentation/en/programmers/caching/caching-setting-up.xml -text
+documentation/en/programmers/charset.xml -text
 documentation/en/programmers/plugins.xml -text
 documentation/en/programmers/plugins/plugins-block-functions.xml -text
 documentation/en/programmers/plugins/plugins-compiler-functions.xml -text
