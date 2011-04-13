@@ -616,7 +616,6 @@ documentation/en/programmers/advanced-features/advanced-features-static-classes.
 documentation/en/programmers/advanced-features/advanced-features-streams.xml -text
 documentation/en/programmers/advanced-features/advanced-features-template-inheritance.xml -text
 documentation/en/programmers/advanced-features/advanced-features-template-settings.xml -text
-documentation/en/programmers/advanced-features/section-template-cache-handler-func.xml -text
 documentation/en/programmers/advanced-features/template-resources.xml -text
 documentation/en/programmers/api-functions.xml -text
 documentation/en/programmers/api-functions/api-append-by-ref.xml -text
@@ -644,12 +643,14 @@ documentation/en/programmers/api-functions/api-get-tags.xml -text
 documentation/en/programmers/api-functions/api-get-template-vars.xml -text
 documentation/en/programmers/api-functions/api-is-cached.xml -text
 documentation/en/programmers/api-functions/api-load-filter.xml -text
+documentation/en/programmers/api-functions/api-register-cacheresource.xml -text
 documentation/en/programmers/api-functions/api-register-filter.xml -text
 documentation/en/programmers/api-functions/api-register-object.xml -text
 documentation/en/programmers/api-functions/api-register-plugin.xml -text
 documentation/en/programmers/api-functions/api-register-resource.xml -text
 documentation/en/programmers/api-functions/api-template-exists.xml -text
 documentation/en/programmers/api-functions/api-test-install.xml -text
+documentation/en/programmers/api-functions/api-unregister-cacheresource.xml -text
 documentation/en/programmers/api-functions/api-unregister-filter.xml -text
 documentation/en/programmers/api-functions/api-unregister-object.xml -text
 documentation/en/programmers/api-functions/api-unregister-plugin.xml -text
@@ -658,10 +659,10 @@ documentation/en/programmers/api-variables.xml -text
 documentation/en/programmers/api-variables/variable-auto-literal.xml -text
 documentation/en/programmers/api-variables/variable-autoload-filters.xml -text
 documentation/en/programmers/api-variables/variable-cache-dir.xml -text
-documentation/en/programmers/api-variables/variable-cache-handler-func.xml -text
 documentation/en/programmers/api-variables/variable-cache-id.xml -text
 documentation/en/programmers/api-variables/variable-cache-lifetime.xml -text
 documentation/en/programmers/api-variables/variable-cache-modified-check.xml -text
+documentation/en/programmers/api-variables/variable-caching-type.xml -text
 documentation/en/programmers/api-variables/variable-caching.xml -text
 documentation/en/programmers/api-variables/variable-compile-check.xml -text
 documentation/en/programmers/api-variables/variable-compile-dir.xml -text
@@ -688,6 +689,7 @@ documentation/en/programmers/api-variables/variable-trusted-dir.xml -text
 documentation/en/programmers/api-variables/variable-use-sub-dirs.xml -text
 documentation/en/programmers/caching.xml -text
 documentation/en/programmers/caching/caching-cacheable.xml -text
+documentation/en/programmers/caching/caching-custom.xml -text
 documentation/en/programmers/caching/caching-groups.xml -text
 documentation/en/programmers/caching/caching-multiple-caches.xml -text
 documentation/en/programmers/caching/caching-setting-up.xml -text
