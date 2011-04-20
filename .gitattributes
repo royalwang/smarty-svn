@@ -49,6 +49,8 @@ development/PHPunit/templates/displayfoo.tpl -text
 development/PHPunit/templates/displayfoonocache.tpl -text
 development/PHPunit/templates/displayfoonocachenofilter.tpl -text
 development/PHPunit/templates/displayfoonofilter.tpl -text
+development/PHPunit/templates/extendsall.tpl -text
+development/PHPunit/templates/extendsall2.tpl -text
 development/PHPunit/templates/helloworld2.tpl -text
 development/PHPunit/templates/insertplugintest.tpl -text
 development/PHPunit/templates/relative.tpl -text
@@ -103,7 +105,9 @@ development/PHPunit/templates/whitespace.tpl -text
 development/PHPunit/templates_2/dirname.tpl -text
 development/PHPunit/templates_2/helloworld.php -text
 development/PHPunit/templates_3/dirname.tpl -text
+development/PHPunit/templates_3/extendsall.tpl -text
 development/PHPunit/templates_4/dirname.tpl -text
+development/PHPunit/templates_4/extendsall.tpl -text
 development/Smarty3Doc/Smarty/Cacher/Smarty_Internal_CacheResource_File.html -text
 development/Smarty3Doc/Smarty/Cacher/_libs---sysplugins---smarty_internal_cacheresource_file.php.html -text
 development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Append.html -text
@@ -285,6 +289,7 @@ distribution/COPYING.lib -text
 distribution/SMARTY2_BC_NOTES -text
 distribution/demo/plugins/cacheresource.memcache.php -text
 distribution/demo/plugins/cacheresource.mysql.php -text
+distribution/demo/plugins/resource.extendsall.php -text
 distribution/demo/plugins/resource.mysql.php -text
 distribution/demo/plugins/resource.mysqls.php -text
 distribution/libs/SmartyBC.class.php -text
