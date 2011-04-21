@@ -39,6 +39,7 @@ development/PHPunit/PluginModifierWordwrapTests.php -text
 development/PHPunit/RegisteredResourceTests.php -text
 development/PHPunit/ResourcePluginTests.php -text
 development/PHPunit/SharedFunctionsTests.php -text
+development/PHPunit/SmartyBcTests.php -text
 development/PHPunit/phpunit-tests-coverage.sh -text
 development/PHPunit/phpunit-tests-single.bat -text
 development/PHPunit/phpunit-tests-single.sh -text
