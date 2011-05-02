@@ -6,6 +6,7 @@ development/PHPunit/CacheResourceCustomMysqlTests.php -text
 development/PHPunit/CacheResourceCustomRegisteredTests.php -text
 development/PHPunit/CompileAppendTests.php -text
 development/PHPunit/DefaultConfigHandlerTests.php -text
+development/PHPunit/DefaultPluginHandlerTests.php -text
 development/PHPunit/EvalResourceTests.php -text
 development/PHPunit/HttpModifiedSinceTests.php -text
 development/PHPunit/IndexedFileResourceTests.php -text
@@ -44,6 +45,9 @@ development/PHPunit/phpunit-tests-coverage.sh -text
 development/PHPunit/phpunit-tests-single.bat -text
 development/PHPunit/phpunit-tests-single.sh -text
 development/PHPunit/phpunit-tests.sh -text
+development/PHPunit/scripts/script_block_tag.php -text
+development/PHPunit/scripts/script_compiler_function_tag.php -text
+development/PHPunit/scripts/script_function_tag.php -text
 development/PHPunit/smartytestssingle.php -text
 development/PHPunit/templates/dirname.tpl -text
 development/PHPunit/templates/displayfoo.tpl -text
@@ -89,6 +93,10 @@ development/PHPunit/templates/test_block_parent_nested.tpl -text
 development/PHPunit/templates/test_block_parent_shorttag.tpl -text
 development/PHPunit/templates/test_block_parent_smartychild.tpl -text
 development/PHPunit/templates/test_capture_nocache.tpl -text
+development/PHPunit/templates/test_default_block_script.tpl -text
+development/PHPunit/templates/test_default_compiler_function_script.tpl -text
+development/PHPunit/templates/test_default_function_local.tpl -text
+development/PHPunit/templates/test_default_function_script.tpl -text
 development/PHPunit/templates/test_inherit_function_tag6.tpl -text
 development/PHPunit/templates/test_recursive_includes.tpl -text
 development/PHPunit/templates/test_recursive_includes2.tpl -text
