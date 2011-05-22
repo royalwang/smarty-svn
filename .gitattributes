@@ -719,6 +719,9 @@ documentation/en/programmers/advanced-features/advanced-features-template-inheri
 documentation/en/programmers/advanced-features/advanced-features-template-settings.xml -text
 documentation/en/programmers/advanced-features/template-resources.xml -text
 documentation/en/programmers/api-functions.xml -text
+documentation/en/programmers/api-functions/api-add-config-dir.xml -text
+documentation/en/programmers/api-functions/api-add-plugins-dir.xml -text
+documentation/en/programmers/api-functions/api-add-template-dir.xml -text
 documentation/en/programmers/api-functions/api-append-by-ref.xml -text
 documentation/en/programmers/api-functions/api-append.xml -text
 documentation/en/programmers/api-functions/api-assign-by-ref.xml -text
@@ -738,9 +741,14 @@ documentation/en/programmers/api-functions/api-disable-security.xml -text
 documentation/en/programmers/api-functions/api-display.xml -text
 documentation/en/programmers/api-functions/api-enable-security.xml -text
 documentation/en/programmers/api-functions/api-fetch.xml -text
+documentation/en/programmers/api-functions/api-get-cache-dir.xml -text
+documentation/en/programmers/api-functions/api-get-compile-dir.xml -text
+documentation/en/programmers/api-functions/api-get-config-dir.xml -text
 documentation/en/programmers/api-functions/api-get-config-vars.xml -text
+documentation/en/programmers/api-functions/api-get-plugins-dir.xml -text
 documentation/en/programmers/api-functions/api-get-registered-object.xml -text
 documentation/en/programmers/api-functions/api-get-tags.xml -text
+documentation/en/programmers/api-functions/api-get-template-dir.xml -text
 documentation/en/programmers/api-functions/api-get-template-vars.xml -text
 documentation/en/programmers/api-functions/api-is-cached.xml -text
 documentation/en/programmers/api-functions/api-load-filter.xml -text
@@ -749,6 +757,11 @@ documentation/en/programmers/api-functions/api-register-filter.xml -text
 documentation/en/programmers/api-functions/api-register-object.xml -text
 documentation/en/programmers/api-functions/api-register-plugin.xml -text
 documentation/en/programmers/api-functions/api-register-resource.xml -text
+documentation/en/programmers/api-functions/api-set-cache-dir.xml -text
+documentation/en/programmers/api-functions/api-set-compile-dir.xml -text
+documentation/en/programmers/api-functions/api-set-config-dir.xml -text
+documentation/en/programmers/api-functions/api-set-plugins-dir.xml -text
+documentation/en/programmers/api-functions/api-set-template-dir.xml -text
 documentation/en/programmers/api-functions/api-template-exists.xml -text
 documentation/en/programmers/api-functions/api-test-install.xml -text
 documentation/en/programmers/api-functions/api-unregister-cacheresource.xml -text
