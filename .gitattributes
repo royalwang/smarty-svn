@@ -717,6 +717,7 @@ documentation/en/programmers/advanced-features/advanced-features-static-classes.
 documentation/en/programmers/advanced-features/advanced-features-streams.xml -text
 documentation/en/programmers/advanced-features/advanced-features-template-inheritance.xml -text
 documentation/en/programmers/advanced-features/advanced-features-template-settings.xml -text
+documentation/en/programmers/advanced-features/template-resources-file.xml -text
 documentation/en/programmers/advanced-features/template-resources.xml -text
 documentation/en/programmers/api-functions.xml -text
 documentation/en/programmers/api-functions/api-add-config-dir.xml -text
@@ -800,6 +801,7 @@ documentation/en/programmers/api-variables/variable-plugins-dir.xml -text
 documentation/en/programmers/api-variables/variable-right-delimiter.xml -text
 documentation/en/programmers/api-variables/variable-template-dir.xml -text
 documentation/en/programmers/api-variables/variable-trusted-dir.xml -text
+documentation/en/programmers/api-variables/variable-use-include-path.xml -text
 documentation/en/programmers/api-variables/variable-use-sub-dirs.xml -text
 documentation/en/programmers/caching.xml -text
 documentation/en/programmers/caching/caching-cacheable.xml -text
