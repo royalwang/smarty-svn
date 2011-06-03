@@ -416,10 +416,10 @@ distribution/libs/sysplugins/smarty_cacheresource_keyvaluestore.php -text
 distribution/libs/sysplugins/smarty_config_source.php -text
 distribution/libs/sysplugins/smarty_internal_compile_break.php -text
 distribution/libs/sysplugins/smarty_internal_compile_continue.php -text
-distribution/libs/sysplugins/smarty_internal_compile_private_filter.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_modifier.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_registered_block.php -text
 distribution/libs/sysplugins/smarty_internal_compile_private_registered_function.php -text
+distribution/libs/sysplugins/smarty_internal_compile_setfilter.php -text
 distribution/libs/sysplugins/smarty_internal_function_call_handler.php -text
 distribution/libs/sysplugins/smarty_internal_get_include_path.php -text
 distribution/libs/sysplugins/smarty_internal_nocache_insert.php -text
