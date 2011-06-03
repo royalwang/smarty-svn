@@ -182,6 +182,8 @@ development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Rdelim.html -text
 development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Section.html -text
 development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Sectionclose.html -text
 development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Sectionelse.html -text
+development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Setfilter.html -text
+development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Setfilterclose.html -text
 development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_While.html -text
 development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Compile_Whileclose.html -text
 development/Smarty3Doc/Smarty/Compiler/Smarty_Internal_Configfileparser.html -text
@@ -225,6 +227,7 @@ development/Smarty3Doc/Smarty/Compiler/_libs---sysplugins---smarty_internal_comp
 development/Smarty3Doc/Smarty/Compiler/_libs---sysplugins---smarty_internal_compile_private_special_variable.php.html -text
 development/Smarty3Doc/Smarty/Compiler/_libs---sysplugins---smarty_internal_compile_rdelim.php.html -text
 development/Smarty3Doc/Smarty/Compiler/_libs---sysplugins---smarty_internal_compile_section.php.html -text
+development/Smarty3Doc/Smarty/Compiler/_libs---sysplugins---smarty_internal_compile_setfilter.php.html -text
 development/Smarty3Doc/Smarty/Compiler/_libs---sysplugins---smarty_internal_compile_while.php.html -text
 development/Smarty3Doc/Smarty/Compiler/_libs---sysplugins---smarty_internal_compilebase.php.html -text
 development/Smarty3Doc/Smarty/Compiler/_libs---sysplugins---smarty_internal_configfileparser.php.html -text
@@ -249,7 +252,6 @@ development/Smarty3Doc/Smarty/Config/_libs---sysplugins---smarty_internal_config
 development/Smarty3Doc/Smarty/Debug/Smarty_Internal_Debug.html -text
 development/Smarty3Doc/Smarty/Debug/_libs---plugins---modifier.debug_print_var.php.html -text
 development/Smarty3Doc/Smarty/Debug/_libs---sysplugins---smarty_internal_debug.php.html -text
-development/Smarty3Doc/Smarty/PluginsBlock/_libs---plugins---block.php.php.html -text
 development/Smarty3Doc/Smarty/PluginsBlock/_libs---plugins---block.textformat.php.html -text
 development/Smarty3Doc/Smarty/PluginsFilter/_libs---plugins---outputfilter.trimwhitespace.php.html -text
 development/Smarty3Doc/Smarty/PluginsFilter/_libs---plugins---variablefilter.htmlspecialchars.php.html -text
