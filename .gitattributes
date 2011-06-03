@@ -1,10 +1,12 @@
 * text=auto !eol
 development/Makefile -text
 development/PHPunit/AttributeTests.php -text
+development/PHPunit/AutoEscapeTests.php -text
 development/PHPunit/CacheResourceCustomMemcacheTests.php -text
 development/PHPunit/CacheResourceCustomMysqlTests.php -text
 development/PHPunit/CacheResourceCustomRegisteredTests.php -text
 development/PHPunit/CompileAppendTests.php -text
+development/PHPunit/CompileSetfilterTests.php -text
 development/PHPunit/DefaultConfigHandlerTests.php -text
 development/PHPunit/DefaultPluginHandlerTests.php -text
 development/PHPunit/EvalResourceTests.php -text
