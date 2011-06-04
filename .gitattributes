@@ -76,6 +76,7 @@ development/PHPunit/templates/test_block_child_resource.tpl -text
 development/PHPunit/templates/test_block_child_smartychild.tpl -text
 development/PHPunit/templates/test_block_child_smartychild2.tpl -text
 development/PHPunit/templates/test_block_child_smartyparent.tpl -text
+development/PHPunit/templates/test_block_extends.tpl -text
 development/PHPunit/templates/test_block_grandchild.tpl -text
 development/PHPunit/templates/test_block_grandchild_append.tpl -text
 development/PHPunit/templates/test_block_grandchild_nested.tpl -text
