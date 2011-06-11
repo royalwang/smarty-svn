@@ -1916,5 +1916,8 @@ documentation/scripts/makeweb.php -text
 documentation/scripts/revcheck.php -text
 /documentation_log.md -text
 /notes.md -text
+testscripts/data/Improved_Data.php -text
+testscripts/data/test.improved.php -text
+testscripts/data/test.smarty31.php -text
 testscripts/templates/test_parser.tpl -text
 testscripts/test_parser.php -text
