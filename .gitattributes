@@ -16,6 +16,9 @@ development/PHPunit/IndexedFileResourceTests.php -text
 development/PHPunit/OutputFilterTrimWhitespaceTests.php -text
 development/PHPunit/PHPunitplugins/cacheresource.memcachetest.php -text
 development/PHPunit/PHPunitplugins/cacheresource.mysqltest.php -text
+development/PHPunit/PHPunitplugins/function.chain1.php -text
+development/PHPunit/PHPunitplugins/function.chain2.php -text
+development/PHPunit/PHPunitplugins/function.chain3.php -text
 development/PHPunit/PHPunitplugins/insert.insertplugintest.php -text
 development/PHPunit/PHPunitplugins/resource.db2.php -text
 development/PHPunit/PHPunitplugins/resource.db3.php -text
@@ -23,6 +26,7 @@ development/PHPunit/PHPunitplugins/resource.db4.php -text
 development/PHPunit/PHPunitplugins/resource.mysqlstest.php -text
 development/PHPunit/PHPunitplugins/resource.mysqltest.php -text
 development/PHPunit/PluginBlockTextformatTests.php -text
+development/PHPunit/PluginChainedLoadTests.php -text
 development/PHPunit/PluginFunctionHtmlSelectDateTests.php -text
 development/PHPunit/PluginFunctionHtmlSelectTimeTests.php -text
 development/PHPunit/PluginFunctionMailtoTests.php -text
@@ -102,6 +106,7 @@ development/PHPunit/templates/test_default_compiler_function_script.tpl -text
 development/PHPunit/templates/test_default_function_local.tpl -text
 development/PHPunit/templates/test_default_function_script.tpl -text
 development/PHPunit/templates/test_inherit_function_tag6.tpl -text
+development/PHPunit/templates/test_plugin_chained_load.tpl -text
 development/PHPunit/templates/test_recursive_includes.tpl -text
 development/PHPunit/templates/test_recursive_includes2.tpl -text
 development/PHPunit/templates/test_recursive_includes_pass.tpl -text
