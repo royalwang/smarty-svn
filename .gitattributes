@@ -25,6 +25,7 @@ development/PHPunit/PHPunitplugins/resource.db3.php -text
 development/PHPunit/PHPunitplugins/resource.db4.php -text
 development/PHPunit/PHPunitplugins/resource.mysqlstest.php -text
 development/PHPunit/PHPunitplugins/resource.mysqltest.php -text
+development/PHPunit/PhpResourceTests.php -text
 development/PHPunit/PluginBlockTextformatTests.php -text
 development/PHPunit/PluginChainedLoadTests.php -text
 development/PHPunit/PluginFunctionHtmlSelectDateTests.php -text
@@ -423,6 +424,7 @@ distribution/libs/sysplugins/smarty_internal_get_include_path.php -text
 distribution/libs/sysplugins/smarty_internal_nocache_insert.php -text
 distribution/libs/sysplugins/smarty_internal_parsetree.php -text
 distribution/libs/sysplugins/smarty_internal_resource_eval.php -text
+distribution/libs/sysplugins/smarty_internal_resource_php.php -text
 distribution/libs/sysplugins/smarty_internal_templatebase.php -text
 distribution/libs/sysplugins/smarty_internal_templatecompilerbase.php -text
 distribution/libs/sysplugins/smarty_internal_templateparser.php -text
