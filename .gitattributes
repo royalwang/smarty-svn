@@ -1,5 +1,4 @@
 * text=auto !eol
-/README_3_1_DEV -text
 development/Makefile -text
 development/PHPunit/AttributeTests.php -text
 development/PHPunit/AutoEscapeTests.php -text
@@ -379,6 +378,7 @@ development/lexer/ParserGenerator.php -text
 development/lexer/smarty_internal_templateparser.php -text
 development/lexer/smarty_internal_templateparser.y -text
 distribution/COPYING.lib -text
+distribution/README_3_1_DEV.txt -text
 distribution/SMARTY2_BC_NOTES -text
 distribution/SMARTY3.0_BC_NOTES.txt -text
 distribution/demo/plugins/cacheresource.memcache.php -text
