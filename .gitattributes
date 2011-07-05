@@ -717,10 +717,6 @@ documentation/en/programmers/advanced-features/advanced-features-static-classes.
 documentation/en/programmers/advanced-features/advanced-features-streams.xml -text
 documentation/en/programmers/advanced-features/advanced-features-template-inheritance.xml -text
 documentation/en/programmers/advanced-features/advanced-features-template-settings.xml -text
-documentation/en/programmers/advanced-features/template-resources-extends.xml -text
-documentation/en/programmers/advanced-features/template-resources-file.xml -text
-documentation/en/programmers/advanced-features/template-resources-string.xml -text
-documentation/en/programmers/advanced-features/template-resources.xml -text
 documentation/en/programmers/api-functions.xml -text
 documentation/en/programmers/api-functions/api-add-config-dir.xml -text
 documentation/en/programmers/api-functions/api-add-plugins-dir.xml -text
@@ -825,6 +821,13 @@ documentation/en/programmers/plugins/plugins-outputfilters.xml -text
 documentation/en/programmers/plugins/plugins-prefilters-postfilters.xml -text
 documentation/en/programmers/plugins/plugins-resources.xml -text
 documentation/en/programmers/plugins/plugins-writing.xml -text
+documentation/en/programmers/resources.xml -text
+documentation/en/programmers/resources/resources-custom.xml -text
+documentation/en/programmers/resources/resources-extends.xml -text
+documentation/en/programmers/resources/resources-file.xml -text
+documentation/en/programmers/resources/resources-streams.xml -text
+documentation/en/programmers/resources/resources-string.xml -text
+documentation/en/programmers/resources/template-resources.xml -text
 documentation/en/programmers/smarty-constants.xml -text
 documentation/entities/.cvsignore -text
 documentation/entities/ISO/ISOamsa -text
