@@ -792,6 +792,7 @@ documentation/en/programmers/api-variables/variable-config-read-hidden.xml -text
 documentation/en/programmers/api-variables/variable-debug-template.xml -text
 documentation/en/programmers/api-variables/variable-debugging-ctrl.xml -text
 documentation/en/programmers/api-variables/variable-debugging.xml -text
+documentation/en/programmers/api-variables/variable-default-config-handler-func.xml -text
 documentation/en/programmers/api-variables/variable-default-modifiers.xml -text
 documentation/en/programmers/api-variables/variable-default-resource-type.xml -text
 documentation/en/programmers/api-variables/variable-default-template-handler-func.xml -text
