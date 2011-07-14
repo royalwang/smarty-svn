@@ -10,6 +10,7 @@ development/PHPunit/CompileSetfilterTests.php -text
 development/PHPunit/DefaultConfigHandlerTests.php -text
 development/PHPunit/DefaultPluginHandlerTests.php -text
 development/PHPunit/EvalResourceTests.php -text
+development/PHPunit/GetterSetterTests.php -text
 development/PHPunit/HttpModifiedSinceTests.php -text
 development/PHPunit/IndexedFileResourceTests.php -text
 development/PHPunit/OutputFilterTrimWhitespaceTests.php -text
