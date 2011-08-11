@@ -753,6 +753,7 @@ documentation/en/programmers/api-functions/api-get-template-vars.xml -text
 documentation/en/programmers/api-functions/api-is-cached.xml -text
 documentation/en/programmers/api-functions/api-load-filter.xml -text
 documentation/en/programmers/api-functions/api-register-cacheresource.xml -text
+documentation/en/programmers/api-functions/api-register-default-plugin-handler.xml -text
 documentation/en/programmers/api-functions/api-register-filter.xml -text
 documentation/en/programmers/api-functions/api-register-object.xml -text
 documentation/en/programmers/api-functions/api-register-plugin.xml -text
