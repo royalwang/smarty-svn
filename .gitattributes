@@ -795,6 +795,7 @@ documentation/en/programmers/api-variables/variable-default-modifiers.xml -text
 documentation/en/programmers/api-variables/variable-default-resource-type.xml -text
 documentation/en/programmers/api-variables/variable-default-template-handler-func.xml -text
 documentation/en/programmers/api-variables/variable-error-reporting.xml -text
+documentation/en/programmers/api-variables/variable-force-cache.xml -text
 documentation/en/programmers/api-variables/variable-force-compile.xml -text
 documentation/en/programmers/api-variables/variable-left-delimiter.xml -text
 documentation/en/programmers/api-variables/variable-php-handling.xml -text
