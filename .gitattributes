@@ -807,6 +807,7 @@ documentation/en/programmers/api-variables/variable-template-dir.xml -text
 documentation/en/programmers/api-variables/variable-trusted-dir.xml -text
 documentation/en/programmers/api-variables/variable-use-include-path.xml -text
 documentation/en/programmers/api-variables/variable-use-sub-dirs.xml -text
+documentation/en/programmers/bc.xml -text
 documentation/en/programmers/caching.xml -text
 documentation/en/programmers/caching/caching-cacheable.xml -text
 documentation/en/programmers/caching/caching-custom.xml -text
