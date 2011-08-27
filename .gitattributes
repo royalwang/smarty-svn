@@ -1959,6 +1959,9 @@ performance/templates/Snippets/Function.tpl -text
 performance/templates/Snippets/Include.sub.tpl -text
 performance/templates/Snippets/Include.tpl -text
 performance/templates/Snippets/IncludeInline.tpl -text
+performance/templates/render/distribution.tpl -text
+performance/templates/render/framework.tpl -text
+performance/templates/render/test.tpl -text
 performance/tests/Eval/EvalFunction.php -text
 performance/tests/Eval/EvalInclude.php -text
 performance/tests/Eval/StringInclude.php -text
