@@ -772,6 +772,7 @@ documentation/en/programmers/api-functions/api-unregister-object.xml -text
 documentation/en/programmers/api-functions/api-unregister-plugin.xml -text
 documentation/en/programmers/api-functions/api-unregister-resource.xml -text
 documentation/en/programmers/api-variables.xml -text
+documentation/en/programmers/api-variables/variable-allow-php-templates.xml -text
 documentation/en/programmers/api-variables/variable-auto-literal.xml -text
 documentation/en/programmers/api-variables/variable-autoload-filters.xml -text
 documentation/en/programmers/api-variables/variable-cache-dir.xml -text
@@ -792,6 +793,7 @@ documentation/en/programmers/api-variables/variable-debug-template.xml -text
 documentation/en/programmers/api-variables/variable-debugging-ctrl.xml -text
 documentation/en/programmers/api-variables/variable-debugging.xml -text
 documentation/en/programmers/api-variables/variable-default-config-handler-func.xml -text
+documentation/en/programmers/api-variables/variable-default-config-type.xml -text
 documentation/en/programmers/api-variables/variable-default-modifiers.xml -text
 documentation/en/programmers/api-variables/variable-default-resource-type.xml -text
 documentation/en/programmers/api-variables/variable-default-template-handler-func.xml -text
@@ -800,6 +802,7 @@ documentation/en/programmers/api-variables/variable-escape-html.xml -text
 documentation/en/programmers/api-variables/variable-force-cache.xml -text
 documentation/en/programmers/api-variables/variable-force-compile.xml -text
 documentation/en/programmers/api-variables/variable-left-delimiter.xml -text
+documentation/en/programmers/api-variables/variable-merge-compiled-includes.xml -text
 documentation/en/programmers/api-variables/variable-php-handling.xml -text
 documentation/en/programmers/api-variables/variable-plugins-dir.xml -text
 documentation/en/programmers/api-variables/variable-right-delimiter.xml -text
