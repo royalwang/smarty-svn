@@ -127,8 +127,10 @@ development/PHPunit/templates_3/dirname.tpl -text
 development/PHPunit/templates_3/extendsall.tpl -text
 development/PHPunit/templates_4/dirname.tpl -text
 development/PHPunit/templates_4/extendsall.tpl -text
+development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Apc.html -text
 development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Memcache.html -text
 development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Mysql.html -text
+development/Smarty3Doc/CacheResource-examples/_demo---plugins---cacheresource.apc.php.html -text
 development/Smarty3Doc/CacheResource-examples/_demo---plugins---cacheresource.memcache.php.html -text
 development/Smarty3Doc/CacheResource-examples/_demo---plugins---cacheresource.mysql.php.html -text
 development/Smarty3Doc/Example-application/_demo---index.php.html -text
@@ -329,6 +331,7 @@ development/Smarty3Doc/Smarty/TemplateResources/Smarty_Config_Source.html -text
 development/Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_Eval.html -text
 development/Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_Extends.html -text
 development/Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_File.html -text
+development/Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_PHP.html -text
 development/Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_Registered.html -text
 development/Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_Stream.html -text
 development/Smarty3Doc/Smarty/TemplateResources/Smarty_Internal_Resource_String.html -text
@@ -343,6 +346,7 @@ development/Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---smarty_conf
 development/Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---smarty_internal_resource_eval.php.html -text
 development/Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---smarty_internal_resource_extends.php.html -text
 development/Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---smarty_internal_resource_file.php.html -text
+development/Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---smarty_internal_resource_php.php.html -text
 development/Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---smarty_internal_resource_registered.php.html -text
 development/Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---smarty_internal_resource_stream.php.html -text
 development/Smarty3Doc/Smarty/TemplateResources/_libs---sysplugins---smarty_internal_resource_string.php.html -text
