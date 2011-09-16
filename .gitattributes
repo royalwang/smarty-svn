@@ -656,6 +656,7 @@ documentation/en/designers/language-builtin-functions/language-function-literal.
 documentation/en/designers/language-builtin-functions/language-function-nocache.xml -text
 documentation/en/designers/language-builtin-functions/language-function-php.xml -text
 documentation/en/designers/language-builtin-functions/language-function-section.xml -text
+documentation/en/designers/language-builtin-functions/language-function-setfilter.xml -text
 documentation/en/designers/language-builtin-functions/language-function-shortform-assign.xml -text
 documentation/en/designers/language-builtin-functions/language-function-strip.xml -text
 documentation/en/designers/language-builtin-functions/language-function-while.xml -text
