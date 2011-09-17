@@ -126,7 +126,6 @@ development/PHPunit/templates_3/dirname.tpl -text
 development/PHPunit/templates_3/extendsall.tpl -text
 development/PHPunit/templates_4/dirname.tpl -text
 development/PHPunit/templates_4/extendsall.tpl -text
-development/PHPunit/test_results.txt -text
 development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Apc.html -text
 development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Memcache.html -text
 development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Mysql.html -text
