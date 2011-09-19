@@ -2,6 +2,7 @@
 development/Makefile -text
 development/PHPunit/AttributeTests.php -text
 development/PHPunit/AutoEscapeTests.php -text
+development/PHPunit/CacheResourceCustomApcTests.php -text
 development/PHPunit/CacheResourceCustomMemcacheTests.php -text
 development/PHPunit/CacheResourceCustomMysqlTests.php -text
 development/PHPunit/CacheResourceCustomRegisteredTests.php -text
@@ -14,6 +15,7 @@ development/PHPunit/GetterSetterTests.php -text
 development/PHPunit/HttpModifiedSinceTests.php -text
 development/PHPunit/IndexedFileResourceTests.php -text
 development/PHPunit/OutputFilterTrimWhitespaceTests.php -text
+development/PHPunit/PHPunitplugins/cacheresource.apctest.php -text
 development/PHPunit/PHPunitplugins/cacheresource.memcachetest.php -text
 development/PHPunit/PHPunitplugins/cacheresource.mysqltest.php -text
 development/PHPunit/PHPunitplugins/function.chain1.php -text
