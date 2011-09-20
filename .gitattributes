@@ -58,6 +58,10 @@ development/PHPunit/scripts/script_block_tag.php -text
 development/PHPunit/scripts/script_compiler_function_tag.php -text
 development/PHPunit/scripts/script_function_tag.php -text
 development/PHPunit/smartytestssingle.php -text
+development/PHPunit/templates/assign.global.tpl -text
+development/PHPunit/templates/assign.parent.tpl -text
+development/PHPunit/templates/assign.root.tpl -text
+development/PHPunit/templates/assign.tpl -text
 development/PHPunit/templates/dirname.tpl -text
 development/PHPunit/templates/displayfoo.tpl -text
 development/PHPunit/templates/displayfoonocache.tpl -text
