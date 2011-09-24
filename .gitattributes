@@ -14,6 +14,7 @@ development/PHPunit/EvalResourceTests.php -text
 development/PHPunit/GetterSetterTests.php -text
 development/PHPunit/HttpModifiedSinceTests.php -text
 development/PHPunit/IndexedFileResourceTests.php -text
+development/PHPunit/MuteExpectedErrorsTests.php -text
 development/PHPunit/OutputFilterTrimWhitespaceTests.php -text
 development/PHPunit/PHPunitplugins/cacheresource.apctest.php -text
 development/PHPunit/PHPunitplugins/cacheresource.memcachetest.php -text
@@ -62,6 +63,7 @@ development/PHPunit/templates/assign.global.tpl -text
 development/PHPunit/templates/assign.parent.tpl -text
 development/PHPunit/templates/assign.root.tpl -text
 development/PHPunit/templates/assign.tpl -text
+development/PHPunit/templates/default.tpl -text
 development/PHPunit/templates/dirname.tpl -text
 development/PHPunit/templates/displayfoo.tpl -text
 development/PHPunit/templates/displayfoonocache.tpl -text
