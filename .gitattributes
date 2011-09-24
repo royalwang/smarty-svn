@@ -762,6 +762,7 @@ documentation/en/programmers/api-functions/api-get-template-dir.xml -text
 documentation/en/programmers/api-functions/api-get-template-vars.xml -text
 documentation/en/programmers/api-functions/api-is-cached.xml -text
 documentation/en/programmers/api-functions/api-load-filter.xml -text
+documentation/en/programmers/api-functions/api-mute-expected-errors.xml -text
 documentation/en/programmers/api-functions/api-register-cacheresource.xml -text
 documentation/en/programmers/api-functions/api-register-class.xml -text
 documentation/en/programmers/api-functions/api-register-default-plugin-handler.xml -text
