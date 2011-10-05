@@ -31,6 +31,7 @@ development/PHPunit/PHPunitplugins/resource.mysqlstest.php -text
 development/PHPunit/PHPunitplugins/resource.mysqltest.php -text
 development/PHPunit/PluginBlockTextformatTests.php -text
 development/PHPunit/PluginChainedLoadTests.php -text
+development/PHPunit/PluginFunctionHtmlOptionsTests.php -text
 development/PHPunit/PluginFunctionHtmlSelectDateTests.php -text
 development/PHPunit/PluginFunctionHtmlSelectTimeTests.php -text
 development/PHPunit/PluginFunctionMailtoTests.php -text
