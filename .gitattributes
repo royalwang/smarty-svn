@@ -14,6 +14,7 @@ development/PHPunit/EvalResourceTests.php -text
 development/PHPunit/GetterSetterTests.php -text
 development/PHPunit/HttpModifiedSinceTests.php -text
 development/PHPunit/IndexedFileResourceTests.php -text
+development/PHPunit/MathTests.php -text
 development/PHPunit/MuteExpectedErrorsTests.php -text
 development/PHPunit/OutputFilterTrimWhitespaceTests.php -text
 development/PHPunit/PHPunitplugins/cacheresource.apctest.php -text
