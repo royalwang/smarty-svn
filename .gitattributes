@@ -31,7 +31,9 @@ development/PHPunit/PHPunitplugins/resource.mysqlstest.php -text
 development/PHPunit/PHPunitplugins/resource.mysqltest.php -text
 development/PHPunit/PluginBlockTextformatTests.php -text
 development/PHPunit/PluginChainedLoadTests.php -text
+development/PHPunit/PluginFunctionHtmlCheckboxesTests.php -text
 development/PHPunit/PluginFunctionHtmlOptionsTests.php -text
+development/PHPunit/PluginFunctionHtmlRadiosTests.php -text
 development/PHPunit/PluginFunctionHtmlSelectDateTests.php -text
 development/PHPunit/PluginFunctionHtmlSelectTimeTests.php -text
 development/PHPunit/PluginFunctionMailtoTests.php -text
@@ -53,6 +55,7 @@ development/PHPunit/RegisteredResourceTests.php -text
 development/PHPunit/ResourcePluginTests.php -text
 development/PHPunit/SharedFunctionsTests.php -text
 development/PHPunit/SmartyBcTests.php -text
+development/PHPunit/helpers/_object_tostring.php -text
 development/PHPunit/phpunit-tests-coverage.sh -text
 development/PHPunit/phpunit-tests-single.bat -text
 development/PHPunit/phpunit-tests-single.sh -text
