@@ -8,6 +8,7 @@ development/PHPunit/CacheResourceCustomMysqlTests.php -text
 development/PHPunit/CacheResourceCustomRegisteredTests.php -text
 development/PHPunit/CompileAppendTests.php -text
 development/PHPunit/CompileSetfilterTests.php -text
+development/PHPunit/CustomResourceAmbiguousTests.php -text
 development/PHPunit/DefaultConfigHandlerTests.php -text
 development/PHPunit/DefaultPluginHandlerTests.php -text
 development/PHPunit/EvalResourceTests.php -text
@@ -24,6 +25,7 @@ development/PHPunit/PHPunitplugins/function.chain1.php -text
 development/PHPunit/PHPunitplugins/function.chain2.php -text
 development/PHPunit/PHPunitplugins/function.chain3.php -text
 development/PHPunit/PHPunitplugins/insert.insertplugintest.php -text
+development/PHPunit/PHPunitplugins/resource.ambiguous.php -text
 development/PHPunit/PHPunitplugins/resource.db2.php -text
 development/PHPunit/PHPunitplugins/resource.db3.php -text
 development/PHPunit/PHPunitplugins/resource.db4.php -text
@@ -64,6 +66,8 @@ development/PHPunit/scripts/script_block_tag.php -text
 development/PHPunit/scripts/script_compiler_function_tag.php -text
 development/PHPunit/scripts/script_function_tag.php -text
 development/PHPunit/smartytestssingle.php -text
+development/PHPunit/templates/ambiguous/case1/foobar.tpl -text
+development/PHPunit/templates/ambiguous/case2/foobar.tpl -text
 development/PHPunit/templates/assign.global.tpl -text
 development/PHPunit/templates/assign.parent.tpl -text
 development/PHPunit/templates/assign.root.tpl -text
