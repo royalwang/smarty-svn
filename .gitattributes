@@ -454,7 +454,6 @@ distribution/libs/sysplugins/smarty_resource.php -text
 distribution/libs/sysplugins/smarty_resource_custom.php -text
 distribution/libs/sysplugins/smarty_resource_recompiled.php -text
 distribution/libs/sysplugins/smarty_resource_uncompiled.php -text
-documentation/Makefile -text
 documentation/Makefile-dist -text
 documentation/README -text
 documentation/current_lang -text
