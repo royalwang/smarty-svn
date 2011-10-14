@@ -2,5 +2,6 @@
 development/PHPunit/cache/*
 development/PHPunit/templates_c/*
 development/PHPunit/test_results.txt
+documentation/Makefile
 documentation/manual-*
 /templates_c
