@@ -399,8 +399,8 @@ development/lexer/ParserGenerator.php -text
 development/lexer/smarty_internal_templateparser.php -text
 development/lexer/smarty_internal_templateparser.y -text
 distribution/COPYING.lib -text
-distribution/SMARTY2_BC_NOTES -text
-distribution/SMARTY3.0_BC_NOTES.txt -text
+distribution/SMARTY_2_BC_NOTES.txt -text
+distribution/SMARTY_3.0_BC_NOTES.txt -text
 distribution/SMARTY_3.1_NOTES.txt -text
 distribution/demo/plugins/cacheresource.apc.php -text
 distribution/demo/plugins/cacheresource.memcache.php -text
