@@ -33,6 +33,7 @@ development/PHPunit/PHPunitplugins/resource.mysqlstest.php -text
 development/PHPunit/PHPunitplugins/resource.mysqltest.php -text
 development/PHPunit/PluginBlockTextformatTests.php -text
 development/PHPunit/PluginChainedLoadTests.php -text
+development/PHPunit/PluginFunctionFetchTests.php -text
 development/PHPunit/PluginFunctionHtmlCheckboxesTests.php -text
 development/PHPunit/PluginFunctionHtmlOptionsTests.php -text
 development/PHPunit/PluginFunctionHtmlRadiosTests.php -text
