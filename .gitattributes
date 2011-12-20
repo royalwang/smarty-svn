@@ -94,6 +94,7 @@ development/PHPunit/templates/test_block_child_append.tpl -text
 development/PHPunit/templates/test_block_child_append_shorttag.tpl -text
 development/PHPunit/templates/test_block_child_nested.tpl -text
 development/PHPunit/templates/test_block_child_nested2.tpl -text
+development/PHPunit/templates/test_block_child_nested3.tpl -text
 development/PHPunit/templates/test_block_child_plugin.tpl -text
 development/PHPunit/templates/test_block_child_prepend.tpl -text
 development/PHPunit/templates/test_block_child_resource.tpl -text
@@ -104,6 +105,7 @@ development/PHPunit/templates/test_block_extends.tpl -text
 development/PHPunit/templates/test_block_grandchild.tpl -text
 development/PHPunit/templates/test_block_grandchild_append.tpl -text
 development/PHPunit/templates/test_block_grandchild_nested.tpl -text
+development/PHPunit/templates/test_block_grandchild_nested3.tpl -text
 development/PHPunit/templates/test_block_grandchild_prepend.tpl -text
 development/PHPunit/templates/test_block_grandchild_resource.tpl -text
 development/PHPunit/templates/test_block_grandchild_smartychild.tpl -text
@@ -116,6 +118,7 @@ development/PHPunit/templates/test_block_include_subtemplate.tpl -text
 development/PHPunit/templates/test_block_nocache_child.tpl -text
 development/PHPunit/templates/test_block_nocache_parent.tpl -text
 development/PHPunit/templates/test_block_parent.tpl -text
+development/PHPunit/templates/test_block_parent3.tpl -text
 development/PHPunit/templates/test_block_parent_nested.tpl -text
 development/PHPunit/templates/test_block_parent_shorttag.tpl -text
 development/PHPunit/templates/test_block_parent_smartychild.tpl -text
