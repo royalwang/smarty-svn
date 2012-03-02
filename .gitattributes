@@ -67,6 +67,7 @@ development/PHPunit/phpunit-tests.sh -text
 development/PHPunit/scripts/script_block_tag.php -text
 development/PHPunit/scripts/script_compiler_function_tag.php -text
 development/PHPunit/scripts/script_function_tag.php -text
+development/PHPunit/scripts/script_modifier.php -text
 development/PHPunit/smartytestssingle.php -text
 development/PHPunit/templates/ambiguous/case1/foobar.tpl -text
 development/PHPunit/templates/ambiguous/case2/foobar.tpl -text
@@ -131,6 +132,8 @@ development/PHPunit/templates/test_default_compiler_function_script.tpl -text
 development/PHPunit/templates/test_default_function_local.tpl -text
 development/PHPunit/templates/test_default_function_script.tpl -text
 development/PHPunit/templates/test_default_function_script_notcachable.tpl -text
+development/PHPunit/templates/test_default_modifier.tpl -text
+development/PHPunit/templates/test_default_modifier_script.tpl -text
 development/PHPunit/templates/test_inherit_function_tag6.tpl -text
 development/PHPunit/templates/test_plugin_chained_load.tpl -text
 development/PHPunit/templates/test_recursive_includes.tpl -text
