@@ -135,6 +135,7 @@ development/PHPunit/templates/test_default_function_script.tpl -text
 development/PHPunit/templates/test_default_function_script_notcachable.tpl -text
 development/PHPunit/templates/test_default_modifier.tpl -text
 development/PHPunit/templates/test_default_modifier_script.tpl -text
+development/PHPunit/templates/test_default_static_modifier.tpl -text
 development/PHPunit/templates/test_inherit_function_tag6.tpl -text
 development/PHPunit/templates/test_plugin_chained_load.tpl -text
 development/PHPunit/templates/test_recursive_includes.tpl -text
