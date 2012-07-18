@@ -67,6 +67,7 @@ development/PHPunit/phpunit-tests-single.sh -text
 development/PHPunit/phpunit-tests.sh -text
 development/PHPunit/scripts/script_block_tag.php -text
 development/PHPunit/scripts/script_compiler_function_tag.php -text
+development/PHPunit/scripts/script_default_static_modifier.php -text
 development/PHPunit/scripts/script_function_tag.php -text
 development/PHPunit/scripts/script_modifier.php -text
 development/PHPunit/smartytestssingle.php -text
