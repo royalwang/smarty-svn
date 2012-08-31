@@ -90,6 +90,11 @@ development/PHPunit/templates/insertplugintest.tpl -text
 development/PHPunit/templates/relative.tpl -text
 development/PHPunit/templates/relative_notexist.tpl -text
 development/PHPunit/templates/relative_sub.tpl -text
+development/PHPunit/templates/relativity/foo.tpl -text
+development/PHPunit/templates/relativity/relativity.tpl -text
+development/PHPunit/templates/relativity/theory/einstein/foo.tpl -text
+development/PHPunit/templates/relativity/theory/foo.tpl -text
+development/PHPunit/templates/relativity/theory/theory.tpl -text
 development/PHPunit/templates/sub/relative.tpl -text
 development/PHPunit/templates/template_function_lib.tpl -text
 development/PHPunit/templates/test_block_child.tpl -text
