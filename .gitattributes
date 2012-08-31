@@ -92,6 +92,7 @@ development/PHPunit/templates/relative_notexist.tpl -text
 development/PHPunit/templates/relative_sub.tpl -text
 development/PHPunit/templates/relativity/foo.tpl -text
 development/PHPunit/templates/relativity/relativity.tpl -text
+development/PHPunit/templates/relativity/theory/einstein/einstein.tpl -text
 development/PHPunit/templates/relativity/theory/einstein/foo.tpl -text
 development/PHPunit/templates/relativity/theory/foo.tpl -text
 development/PHPunit/templates/relativity/theory/theory.tpl -text
