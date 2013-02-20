@@ -1541,8 +1541,6 @@ documentation/ja/programmers/advanced-features/advanced-features-objects.xml -te
 documentation/ja/programmers/advanced-features/advanced-features-outputfilters.xml -text
 documentation/ja/programmers/advanced-features/advanced-features-postfilters.xml -text
 documentation/ja/programmers/advanced-features/advanced-features-prefilters.xml -text
-documentation/ja/programmers/advanced-features/section-template-cache-handler-func.xml -text
-documentation/ja/programmers/advanced-features/template-resources.xml -text
 documentation/ja/programmers/api-functions.xml -text
 documentation/ja/programmers/api-functions/api-append-by-ref.xml -text
 documentation/ja/programmers/api-functions/api-append.xml -text
@@ -1573,7 +1571,6 @@ documentation/ja/programmers/api-variables.xml -text
 documentation/ja/programmers/api-variables/variable-allow-php-templates.xml -text
 documentation/ja/programmers/api-variables/variable-autoload-filters.xml -text
 documentation/ja/programmers/api-variables/variable-cache-dir.xml -text
-documentation/ja/programmers/api-variables/variable-cache-handler-func.xml -text
 documentation/ja/programmers/api-variables/variable-cache-lifetime.xml -text
 documentation/ja/programmers/api-variables/variable-cache-locking.xml -text
 documentation/ja/programmers/api-variables/variable-cache-modified-check.xml -text
