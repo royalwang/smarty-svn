@@ -1560,6 +1560,7 @@ documentation/ja/programmers/api-functions/api-get-registered-object.xml -text
 documentation/ja/programmers/api-functions/api-get-template-vars.xml -text
 documentation/ja/programmers/api-functions/api-is-cached.xml -text
 documentation/ja/programmers/api-functions/api-load-filter.xml -text
+documentation/ja/programmers/api-functions/api-mute-expected-errors.xml -text
 documentation/ja/programmers/api-functions/api-register-cacheresource.xml -text
 documentation/ja/programmers/api-functions/api-register-object.xml -text
 documentation/ja/programmers/api-functions/api-register-resource.xml -text
