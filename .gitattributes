@@ -60,6 +60,7 @@ development/PHPunit/RegisteredResourceTests.php -text
 development/PHPunit/ResourcePluginTests.php -text
 development/PHPunit/SharedFunctionsTests.php -text
 development/PHPunit/SmartyBcTests.php -text
+development/PHPunit/coverage.xml -text
 development/PHPunit/helpers/_object_tostring.php -text
 development/PHPunit/phpunit-tests-coverage.sh -text
 development/PHPunit/phpunit-tests-single.bat -text
