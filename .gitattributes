@@ -468,8 +468,8 @@ development/lexer/LexerGenerator/ParserOriginal.php -text
 development/lexer/ParserGenerator.php -text
 development/lexer/smarty_internal_templateparser.php -text
 development/lexer/smarty_internal_templateparser.y -text
-distribution/3.1.16_RELEASE_NOTES.txt -text
 distribution/COPYING.lib -text
+distribution/INHERITANCE_RELEASE_NOTES.txt -text
 distribution/SMARTY_2_BC_NOTES.txt -text
 distribution/SMARTY_3.0_BC_NOTES.txt -text
 distribution/SMARTY_3.1_NOTES.txt -text
